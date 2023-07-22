@@ -1,0 +1,869 @@
+{
+    "words":[
+        {
+            "word": "pansystolic",
+            "audioSource": "spellit6/pansystolic.mp3",
+            "meaning": "relating to a heart murmur that occurs throughout the entire systolic phase of the heartbeat",
+            "wordclass": "adjective",
+            "etymology": "",
+            "answer": "pansystolic"
+            },
+            {
+            "word": "peninsular",
+            "audioSource": "spellit6/peninsular.mp3",
+            "meaning": "relating to a peninsula, a piece of land surrounded by water on three sides",
+            "wordclass": "adjective",
+            "etymology": "",
+            "answer": "peninsular"
+            },
+            {
+            "word": "peninsular",
+            "audioSource": "spellit6/peninsular.mp3",
+            "meaning": "a person who lives on or is native to a peninsula",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "peninsular"
+            },
+            {
+            "word": "pennant",
+            "audioSource": "spellit6/pennant.mp3",
+            "meaning": "a long, narrow flag or banner, typically triangular in shape",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "pennant"
+            },
+            {
+            "word": "perfumery",
+            "audioSource": "spellit6/perfumery.mp3",
+            "meaning": "the art or business of creating or selling perfumes",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "perfumery"
+            },
+            {
+            "word": "perigee",
+            "audioSource": "spellit6/perigee.mp3",
+            "meaning": "the point in the orbit of the moon or a satellite at which it is nearest to the Earth",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "perigee"
+            },
+            {
+            "word": "peripatetic",
+            "audioSource": "spellit6/peripatetic.mp3",
+            "meaning": "traveling from place to place, especially working or based in various places for relatively short periods",
+            "wordclass": "adjective",
+            "etymology": "",
+            "answer": "peripatetic"
+            },
+            {
+            "word": "perjure",
+            "audioSource": "spellit6/perjure.mp3",
+            "meaning": "to deliberately give false or misleading testimony under oath",
+            "wordclass": "verb",
+            "etymology": "",
+            "answer": "perjure"
+            },
+            {
+            "word": "perpendicular",
+            "audioSource": "spellit6/perpendicular.mp3",
+            "meaning": "at right angles to a horizontal plane; vertical",
+            "wordclass": "adjective",
+            "etymology": "",
+            "answer": "perpendicular"
+            },
+            {
+            "word": "pennant",
+            "audioSource": "spellit6/pennant.mp3",
+            "meaning": "a long, narrow flag or banner, typically triangular in shape",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "pennant"
+            },
+            {
+                "word": "persiflage",
+                "audioSource": "spellit6/persiflage.mp3",
+                "meaning": "light and slightly mocking conversation; banter",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "persiflage"
+                },
+                {
+                "word": "perspicacious",
+                "audioSource": "spellit6/perspicacious.mp3",
+                "meaning": "having a keen mental perception; discerning",
+                "wordclass": "adjective",
+                "etymology": "",
+                "answer": "perspicacious"
+                },
+                {
+                "word": "pertinacious",
+                "audioSource": "spellit6/pertinacious.mp3",
+                "meaning": "holding firmly to a purpose or belief; stubborn",
+                "wordclass": "adjective",
+                "etymology": "",
+                "answer": "pertinacious"
+                },
+                {
+                "word": "perusal",
+                "audioSource": "spellit6/perusal.mp3",
+                "meaning": "the action of reading or examining something",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "perusal"
+                },
+                {
+                "word": "pervade",
+                "audioSource": "spellit6/pervade.mp3",
+                "meaning": "to spread throughout and be perceived in every part",
+                "wordclass": "verb",
+                "etymology": "",
+                "answer": "pervade"
+                },
+                {
+                "word": "pharmacopeia",
+                "audioSource": "spellit6/pharmacopeia.mp3",
+                "meaning": "a book containing a compilation of pharmaceutical products and their formulas",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "pharmacopeia"
+                },
+                {
+                "word": "pharmacy",
+                "audioSource": "spellit6/pharmacy.mp3",
+                "meaning": "a place where medicinal drugs are prepared, dispensed, or sold",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "pharmacy"
+                },
+                {
+                "word": "philander",
+                "audioSource": "spellit6/philander.mp3",
+                "meaning": "to engage in casual love affairs; flirt",
+                "wordclass": "verb",
+                "etymology": "",
+                "answer": "philander"
+                },
+                {
+                "word": "philately",
+                "audioSource": "spellit6/philately.mp3",
+                "meaning": "the collection and study of postage stamps and postal history",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "philately"
+                },
+                {
+                "word": "phosphorescence",
+                "audioSource": "spellit6/phosphorescence.mp3",
+                "meaning": "the emission of light without burning or any appreciable heat",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "phosphorescence"
+                },
+                {
+                    "word": "piccolo",
+                    "audioSource": "spellit6/piccolo.mp3",
+                    "meaning": "a small flute-like musical instrument",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "piccolo"
+                    },
+                    {
+                    "word": "piecemeal",
+                    "audioSource": "spellit6/piecemeal.mp3",
+                    "meaning": "characterized by unsystematic or incremental changes, actions, or processes",
+                    "wordclass": "adjective/adverb",
+                    "etymology": "",
+                    "answer": "piecemeal"
+                    },
+                    {
+                    "word": "pique",
+                    "audioSource": "spellit6/pique.mp3",
+                    "meaning": "a feeling of resentment or annoyance, especially as a result of a perceived slight or offense",
+                    "wordclass": "noun/verb",
+                    "etymology": "",
+                    "answer": "pique"
+                    },
+                    {
+                    "word": "piqueria",
+                    "audioSource": "spellit6/piqueria.mp3",
+                    "meaning": "the quality of being daring or audacious",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "piqueria"
+                    },
+                    {
+                    "word": "pittance",
+                    "audioSource": "spellit6/pittance.mp3",
+                    "meaning": "a very small or inadequate amount of money",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "pittance"
+                    },
+                    {
+                    "word": "pixie",
+                    "audioSource": "spellit6/pixie.mp3",
+                    "meaning": "a mythical creature typically depicted as a small, mischievous fairy or sprite",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "pixie"
+                    },
+                    {
+                    "word": "plaudit",
+                    "audioSource": "spellit6/plaudit.mp3",
+                    "meaning": "an enthusiastic expression of approval or praise",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "plaudit"
+                    },
+                    {
+                    "word": "playwright",
+                    "audioSource": "spellit6/playwright.mp3",
+                    "meaning": "a person who writes plays",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "playwright"
+                    },
+                    {
+                    "word": "plea",
+                    "audioSource": "spellit6/plea.mp3",
+                    "meaning": "a request made in an urgent and emotional manner",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "plea"
+                    },
+                    {
+                    "word": "plebeian",
+                    "audioSource": "spellit6/plebeian.mp3",
+                    "meaning": "belonging to or characteristic of the common people",
+                    "wordclass": "adjective/noun",
+                    "etymology": "",
+                    "answer": "plebeian"
+                    },
+                    {
+                    "word": "pledgeor",
+                    "audioSource": "spellit6/pledgeor.mp3",
+                    "meaning": "a person who gives a pledge or guarantee",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "pledgeor"
+                    },
+                    {
+                        "word": "plenary",
+                        "audioSource": "spellit6/plenary.mp3",
+                        "meaning": "complete in every respect; absolute; attended by all qualified members",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "plenary"
+                        },
+                        {
+                        "word": "pluperfect",
+                        "audioSource": "spellit6/pluperfect.mp3",
+                        "meaning": "denoting an action that occurred before another past action",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "pluperfect"
+                        },
+                        {
+                        "word": "poesy",
+                        "audioSource": "spellit6/poesy.mp3",
+                        "meaning": "poetry; verse",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "poesy"
+                        },
+                        {
+                        "word": "pollen",
+                        "audioSource": "spellit6/pollen.mp3",
+                        "meaning": "a fine powdery substance, typically yellow, produced by the anthers of flowering plants",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "pollen"
+                        },
+                        {
+                        "word": "polyarchy",
+                        "audioSource": "spellit6/polyarchy.mp3",
+                        "meaning": "a form of government in which power is invested in multiple authorities",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "polyarchy"
+                        },
+                        {
+                        "word": "pommel",
+                        "audioSource": "spellit6/pommel.mp3",
+                        "meaning": "a rounded knob on the handle of a sword or weapon",
+                        "wordclass": "noun/verb",
+                        "etymology": "",
+                        "answer": "pommel"
+                        },
+                        {
+                        "word": "pontiff",
+                        "audioSource": "spellit6/pontiff.mp3",
+                        "meaning": "a pope or bishop",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "pontiff"
+                        },
+                        {
+                        "word": "posit",
+                        "audioSource": "spellit6/posit.mp3",
+                        "meaning": "to assume or put forward as a fact or principle",
+                        "wordclass": "verb",
+                        "etymology": "",
+                        "answer": "posit"
+                        },
+                        {
+                        "word": "possess",
+                        "audioSource": "spellit6/possess.mp3",
+                        "meaning": "to have as belonging to one; to own",
+                        "wordclass": "verb",
+                        "etymology": "",
+                        "answer": "possess"
+                        },
+                        {
+                        "word": "precipice",
+                        "audioSource": "spellit6/precipice.mp3",
+                        "meaning": "a very steep rock face or cliff",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "precipice"
+                        },
+                        {
+                            "word": "prefatory",
+                            "audioSource": "spellit6/prefatory.mp3",
+                            "meaning": "serving as an introduction; preliminary",
+                            "wordclass": "adjective",
+                            "etymology": "",
+                            "answer": "prefatory"
+                            },
+                            {
+                            "word": "preferment",
+                            "audioSource": "spellit6/preferment.mp3",
+                            "meaning": "the action of promoting or appointing someone to a higher rank or position",
+                            "wordclass": "noun",
+                            "etymology": "",
+                            "answer": "preferment"
+                            },
+                            {
+                            "word": "prehensile",
+                            "audioSource": "spellit6/prehensile.mp3",
+                            "meaning": "capable of grasping or holding",
+                            "wordclass": "adjective",
+                            "etymology": "",
+                            "answer": "prehensile"
+                            },
+                            {
+                            "word": "preponderate",
+                            "audioSource": "spellit6/preponderate.mp3",
+                            "meaning": "to be greater in influence, power, or importance; to outweigh",
+                            "wordclass": "verb",
+                            "etymology": "",
+                            "answer": "preponderate"
+                            },
+                            {
+                            "word": "presage",
+                            "audioSource": "spellit6/presage.mp3",
+                            "meaning": "a sign or warning of a future event; to predict or foreshadow",
+                            "wordclass": "noun/verb",
+                            "etymology": "",
+                            "answer": "presage"
+                            },
+                            {
+                            "word": "prima donna assoluta",
+                            "audioSource": "spellit6/prima_donna_assoluta.mp3",
+                            "meaning": "the leading female singer in an opera company; the absolute top-ranking female opera singer",
+                            "wordclass": "noun",
+                            "etymology": "",
+                            "answer": "prima donna assoluta"
+                            },
+                            {
+                            "word": "prima donna",
+                            "audioSource": "spellit6/prima_donna.mp3",
+                            "meaning": "the principal female singer in an opera; a temperamental, conceited, or demanding person",
+                            "wordclass": "noun",
+                            "etymology": "",
+                            "answer": "prima donna"
+                            },
+                            {
+                            "word": "prima facie",
+                            "audioSource": "spellit6/prima_facie.mp3",
+                            "meaning": "based on the first impression; accepted as correct until proven otherwise",
+                            "wordclass": "adjective/adverb",
+                            "etymology": "",
+                            "answer": "prima facie"
+                            },
+                            {
+                            "word": "prima",
+                            "audioSource": "spellit6/prima.mp3",
+                            "meaning": "the first or leading part in a musical composition",
+                            "wordclass": "noun",
+                            "etymology": "",
+                            "answer": "prima"
+                            },
+                            {
+                            "word": "privateer",
+                            "audioSource": "spellit6/privateer.mp3",
+                            "meaning": "an armed ship or privately owned vessel authorized to attack and seize enemy ships",
+                            "wordclass": "noun",
+                            "etymology": "",
+                            "answer": "privateer"
+                            },
+                            {
+                                "word": "propellant",
+                                "audioSource": "spellit6/propellant.mp3",
+                                "meaning": "a substance that propels or drives forward",
+                                "wordclass": "noun/adjective",
+                                "etymology": "",
+                                "answer": "propellant"
+                                },
+                                {
+                                "word": "prophecy",
+                                "audioSource": "spellit6/prophecy.mp3",
+                                "meaning": "a prediction or foretelling of future events",
+                                "wordclass": "noun",
+                                "etymology": "",
+                                "answer": "prophecy"
+                                },
+                                {
+                                "word": "prophesy",
+                                "audioSource": "spellit6/prophesy.mp3",
+                                "meaning": "to predict or foretell future events",
+                                "wordclass": "verb",
+                                "etymology": "",
+                                "answer": "prophesy"
+                                },
+                                {
+                                "word": "propitious",
+                                "audioSource": "spellit6/propitious.mp3",
+                                "meaning": "favorable; giving or indicating a good chance of success",
+                                "wordclass": "adjective",
+                                "etymology": "",
+                                "answer": "propitious"
+                                },
+                                {
+                                "word": "protomartyr",
+                                "audioSource": "spellit6/protomartyr.mp3",
+                                "meaning": "the first martyr in a particular cause or belief",
+                                "wordclass": "noun",
+                                "etymology": "",
+                                "answer": "protomartyr"
+                                },
+                                {
+                                "word": "protuberance",
+                                "audioSource": "spellit6/protuberance.mp3",
+                                "meaning": "a bulging or projecting part; a swelling or lump",
+                                "wordclass": "noun",
+                                "etymology": "",
+                                "answer": "protuberance"
+                                },
+                                {
+                                "word": "proviso",
+                                "audioSource": "spellit6/proviso.mp3",
+                                "meaning": "a condition or stipulation attached to an agreement",
+                                "wordclass": "noun",
+                                "etymology": "",
+                                "answer": "proviso"
+                                },
+                                {
+                                "word": "prudery",
+                                "audioSource": "spellit6/prudery.mp3",
+                                "meaning": "excessive or affected modesty or propriety",
+                                "wordclass": "noun",
+                                "etymology": "",
+                                "answer": "prudery"
+                                },
+                                {
+                                "word": "prurient",
+                                "audioSource": "spellit6/prurient.mp3",
+                                "meaning": "having or encouraging an excessive interest in sexual matters",
+                                "wordclass": "adjective",
+                                "etymology": "",
+                                "answer": "prurient"
+                                },
+                                {
+                                "word": "pseudonymity",
+                                "audioSource": "spellit6/pseudonymity.mp3",
+                                "meaning": "the state or practice of using a false name, especially for literary purposes",
+                                "wordclass": "noun",
+                                "etymology": "",
+                                "answer": "pseudonymity"
+                                },
+                                {
+                                    "word": "puerile",
+                                    "audioSource": "spellit6/puerile.mp3",
+                                    "meaning": "childish; immature; silly",
+                                    "wordclass": "adjective",
+                                    "etymology": "",
+                                    "answer": "puerile"
+                                    },
+                                    {
+                                    "word": "puerilely",
+                                    "audioSource": "spellit6/puerilely.mp3",
+                                    "meaning": "in a childish or immature manner",
+                                    "wordclass": "adverb",
+                                    "etymology": "",
+                                    "answer": "puerilely"
+                                    },
+                                    {
+                                    "word": "puissant",
+                                    "audioSource": "spellit6/puissant.mp3",
+                                    "meaning": "having great power or influence",
+                                    "wordclass": "adjective",
+                                    "etymology": "",
+                                    "answer": "puissant"
+                                    },
+                                    {
+                                    "word": "pulmonary",
+                                    "audioSource": "spellit6/pulmonary.mp3",
+                                    "meaning": "relating to the lungs",
+                                    "wordclass": "adjective",
+                                    "etymology": "",
+                                    "answer": "pulmonary"
+                                    },
+                                    {
+                                    "word": "punctilious",
+                                    "audioSource": "spellit6/punctilious.mp3",
+                                    "meaning": "showing great attention to detail; meticulous",
+                                    "wordclass": "adjective",
+                                    "etymology": "",
+                                    "answer": "punctilious"
+                                    },
+                                    {
+                                    "word": "purl",
+                                    "audioSource": "spellit6/purl.mp3",
+                                    "meaning": "to flow or ripple with a murmuring sound; to knit with a reverse stitch",
+                                    "wordclass": "verb/noun",
+                                    "etymology": "",
+                                    "answer": "purl"
+                                    },
+                                    {
+                                    "word": "purleigh",
+                                    "audioSource": "spellit6/purleigh.mp3",
+                                    "meaning": "no definition found",
+                                    "wordclass": "unknown",
+                                    "etymology": "",
+                                    "answer": "purleigh"
+                                    },
+                                    {
+                                        "word": "puerile",
+                                        "audioSource": "spellit6/puerile.mp3",
+                                        "meaning": "childishly silly and trivial",
+                                        "wordclass": "adjective",
+                                        "etymology": "Latin puerilis, from puer 'boy'",
+                                        "answer": "puerile"
+                                        },
+                                        {
+                                        "word": "puerilely",
+                                        "audioSource": "spellit6/puerilely.mp3",
+                                        "meaning": "in a puerile manner, childishly",
+                                        "wordclass": "adverb",
+                                        "etymology": "Derived from 'puerile'",
+                                        "answer": "puerilely"
+                                        },
+                                        {
+                                        "word": "puissant",
+                                        "audioSource": "spellit6/puissant.mp3",
+                                        "meaning": "having great power or influence",
+                                        "wordclass": "adjective",
+                                        "etymology": "French puisant, from Old French poissant, present participle of poeir 'to be able'",
+                                        "answer": "puissant"
+                                        },
+                                        {
+                                        "word": "pulmonary",
+                                        "audioSource": "spellit6/pulmonary.mp3",
+                                        "meaning": "relating to the lungs",
+                                        "wordclass": "adjective",
+                                        "etymology": "Latin pulmo, pulmon- 'lung'",
+                                        "answer": "pulmonary"
+                                        },
+                                        {
+                                        "word": "punctilious",
+                                        "audioSource": "spellit6/punctilious.mp3",
+                                        "meaning": "showing great attention to detail or correct behavior",
+                                        "wordclass": "adjective",
+                                        "etymology": "Late Latin punctiliosus, from punctum 'point'",
+                                        "answer": "punctilious"
+                                        },
+                                        {
+                                        "word": "purl",
+                                        "audioSource": "spellit6/purl.mp3",
+                                        "meaning": "flow or ripple with a murmuring sound",
+                                        "wordclass": "verb",
+                                        "etymology": "Imitative",
+                                        "answer": "purl"
+                                        },
+                                        {
+                                        "word": "purleigh",
+                                        "audioSource": "spellit6/purleigh.mp3",
+                                        "meaning": "no definition found",
+                                        "wordclass": "unknown",
+                                        "etymology": "",
+                                        "answer": "purleigh"
+                                        },
+                                        {
+                                        "word": "purley",
+                                        "audioSource": "spellit6/purley.mp3",
+                                        "meaning": "no definition found",
+                                        "wordclass": "unknown",
+                                        "etymology": "",
+                                        "answer": "purley"
+                                        },
+                                        {
+                                        "word": "purlicue",
+                                        "audioSource": "spellit6/purlicue.mp3",
+                                        "meaning": "the space between one's thumb and forefinger",
+                                        "wordclass": "noun",
+                                        "etymology": "Unknown",
+                                        "answer": "purlicue"
+                                        },
+                                        {
+                                        "word": "pygmy",
+                                        "audioSource": "spellit6/pygmy.mp3",
+                                        "meaning": "a member of certain peoples of very short stature in equatorial Africa and parts of Southeast Asia",
+                                        "wordclass": "noun",
+                                        "etymology": "Greek pugmaios 'dwarf'",
+                                        "answer": "pygmy"
+                                        },
+                                        {
+                                            "word": "pyx",
+                                            "audioSource": "spellit6/pyx.mp3",
+                                            "meaning": "a container in which the consecrated bread of the Eucharist is kept",
+                                            "wordclass": "noun",
+                                            "etymology": "Latin pyxis, from Greek puxis 'boxwood box'",
+                                            "answer": "pyx"
+                                            },
+                                            {
+                                            "word": "pyxidanthera",
+                                            "audioSource": "spellit6/pyxidanthera.mp3",
+                                            "meaning": "a small genus of flowering plants in the family Diapensiaceae",
+                                            "wordclass": "noun",
+                                            "etymology": "Unknown",
+                                            "answer": "pyxidanthera"
+                                            },
+                                            {
+                                            "word": "quackery",
+                                            "audioSource": "spellit6/quackery.mp3",
+                                            "meaning": "the practice of pretending to have medical skills or knowledge",
+                                            "wordclass": "noun",
+                                            "etymology": "Unknown",
+                                            "answer": "quackery"
+                                            },
+                                            {
+                                            "word": "quay",
+                                            "audioSource": "spellit6/quay.mp3",
+                                            "meaning": "a platform or landing place alongside water for loading and unloading ships",
+                                            "wordclass": "noun",
+                                            "etymology": "French quai, probably from Dutch kade",
+                                            "answer": "quay"
+                                            },
+                                            {
+                                            "word": "quayage",
+                                            "audioSource": "spellit6/quayage.mp3",
+                                            "meaning": "a charge or fee for the use of a quay",
+                                            "wordclass": "noun",
+                                            "etymology": "Unknown",
+                                            "answer": "quayage"
+                                            },
+                                            {
+                                            "word": "quayd",
+                                            "audioSource": "spellit6/quayd.mp3",
+                                            "meaning": "no definition found",
+                                            "wordclass": "unknown",
+                                            "etymology": "",
+                                            "answer": "quayd"
+                                            },
+                                            {
+                                            "word": "quiescence",
+                                            "audioSource": "spellit6/quiescence.mp3",
+                                            "meaning": "a state or period of inactivity or dormancy",
+                                            "wordclass": "noun",
+                                            "etymology": "Latin quiescentia, from quiescere 'to rest'",
+                                            "answer": "quiescence"
+                                            },
+                                            {
+                                            "word": "quietus",
+                                            "audioSource": "spellit6/quietus.mp3",
+                                            "meaning": "a release from life; death",
+                                            "wordclass": "noun",
+                                            "etymology": "Latin quiētus 'quieted, resting', from quiēscere 'to rest'",
+                                            "answer": "quietus"
+                                            },
+                                            {
+                                            "word": "racy",
+                                            "audioSource": "spellit6/racy.mp3",
+                                            "meaning": "having a strong or distinctive flavor",
+                                            "wordclass": "adjective",
+                                            "etymology": "Unknown",
+                                            "answer": "racy"
+                                            },
+                                            {
+                                            "word": "rambunctious",
+                                            "audioSource": "spellit6/rambunctious.mp3",
+                                            "meaning": "uncontrollably exuberant; boisterous",
+                                            "wordclass": "adjective",
+                                            "etymology": "Unknown",
+                                            "answer": "rambunctious"
+                                            },
+                                            {
+                                                "word": "rapine",
+                                                "audioSource": "spellit6/rapine.mp3",
+                                                "meaning": "the violent seizure of someone's property",
+                                                "wordclass": "noun",
+                                                "etymology": "Latin rapina, from rapere 'to seize'",
+                                                "answer": "rapine"
+                                                },
+                                                {
+                                                "word": "ravenous",
+                                                "audioSource": "spellit6/ravenous.mp3",
+                                                "meaning": "extremely hungry; voracious",
+                                                "wordclass": "adjective",
+                                                "etymology": "Middle English, from Old French ravineus, from raviner 'to seize'",
+                                                "answer": "ravenous"
+                                                },
+                                                {
+                                                "word": "reclusory",
+                                                "audioSource": "spellit6/reclusory.mp3",
+                                                "meaning": "a place of seclusion or retreat",
+                                                "wordclass": "noun",
+                                                "etymology": "Unknown",
+                                                "answer": "reclusory"
+                                                },
+                                                {
+                                                "word": "recrudescence",
+                                                "audioSource": "spellit6/recrudescence.mp3",
+                                                "meaning": "a renewal of activity or resurgence",
+                                                "wordclass": "noun",
+                                                "etymology": "Latin recrudescere, from re- 'again' + crudescere 'to become raw or sore'",
+                                                "answer": "recrudescence"
+                                                },
+                                                {
+                                                "word": "reflectible",
+                                                "audioSource": "spellit6/reflectible.mp3",
+                                                "meaning": "capable of being reflected",
+                                                "wordclass": "adjective",
+                                                "etymology": "Unknown",
+                                                "answer": "reflectible"
+                                                },
+                                                {
+                                                "word": "refragable",
+                                                "audioSource": "spellit6/refragable.mp3",
+                                                "meaning": "able to be contradicted or refuted",
+                                                "wordclass": "adjective",
+                                                "etymology": "Latin refragabilis, from refragari 'to oppose'",
+                                                "answer": "refragable"
+                                                },
+                                                {
+                                                "word": "refringency",
+                                                "audioSource": "spellit6/refringency.mp3",
+                                                "meaning": "the property of refracting a ray of light",
+                                                "wordclass": "noun",
+                                                "etymology": "Latin refringentia, from refringere 'to break up'",
+                                                "answer": "refringency"
+                                                },
+                                                {
+                                                "word": "regale",
+                                                "audioSource": "spellit6/regale.mp3",
+                                                "meaning": "entertain or amuse with talk, stories, or music",
+                                                "wordclass": "verb",
+                                                "etymology": "French régaler, from Middle French regale, rigale 'entertainment'",
+                                                "answer": "regale"
+                                                },
+                                                {
+                                                "word": "regicide",
+                                                "audioSource": "spellit6/regicide.mp3",
+                                                "meaning": "the action of killing a king",
+                                                "wordclass": "noun",
+                                                "etymology": "Latin regis 'of a king' + caedere 'to kill'",
+                                                "answer": "regicide"
+                                                },
+                                                {
+                                                    "word": "reimburse",
+                                                    "audioSource": "spellit6/reimburse.mp3",
+                                                    "meaning": "repay (a person who has spent or lost money)",
+                                                    "wordclass": "verb",
+                                                    "etymology": "Old French reimboursier, from re- 'back' + emboursier '",
+                                                    "answer" : "reimburse"
+
+                                                },
+                                                {
+                                                    "word": "reimbursement",
+                                                    "audioSource": "spellit6/reimbursement.mp3",
+                                                    "meaning": "the act of repaying someone for an expense or loss",
+                                                    "wordclass": "noun",
+                                                    "etymology": "re- 'back' + Latin imbursementum 'a paying'",
+                                                    "answer": "reimbursement"
+                                                    },
+                                                    {
+                                                    "word": "rejuvenescence",
+                                                    "audioSource": "spellit6/rejuvenescence.mp3",
+                                                    "meaning": "the process of becoming young again; rejuvenation",
+                                                    "wordclass": "noun",
+                                                    "etymology": "Latin re- 'again' + juvenescere 'to grow young'",
+                                                    "answer": "rejuvenescence"
+                                                    },
+                                                    {
+                                                    "word": "reliquary",
+                                                    "audioSource": "spellit6/reliquary.mp3",
+                                                    "meaning": "a container or shrine for keeping sacred relics",
+                                                    "wordclass": "noun",
+                                                    "etymology": "Old French reliquaire, from Latin reliquiae 'relics'",
+                                                    "answer": "reliquary"
+                                                    },
+                                                    {
+                                                    "word": "repartee",
+                                                    "audioSource": "spellit6/repartee.mp3",
+                                                    "meaning": "quick and witty conversation or retort",
+                                                    "wordclass": "noun",
+                                                    "etymology": "French repartie, from repartir 'to retort'",
+                                                    "answer": "repartee"
+                                                    },
+                                                    {
+                                                    "word": "repellent",
+                                                    "audioSource": "spellit6/repellent.mp3",
+                                                    "meaning": "able to repel or drive away",
+                                                    "wordclass": "adjective",
+                                                    "etymology": "Latin repellent-, repellens, present participle of repellere 'to drive back'",
+                                                    "answer": "repellent"
+                                                    },
+                                                    {
+                                                    "word": "repertory",
+                                                    "audioSource": "spellit6/repertory.mp3",
+                                                    "meaning": "a repository or collection of information or resources",
+                                                    "wordclass": "noun",
+                                                    "etymology": "Latin repertorium 'repository, list', from reperire 'to find'",
+                                                    "answer": "repertory"
+                                                    },
+                                                    {
+                                                    "word": "repine",
+                                                    "audioSource": "spellit6/repine.mp3",
+                                                    "meaning": "feel or express discontent; fret",
+                                                    "wordclass": "verb",
+                                                    "etymology": "Middle English repinen, from Old French repiner, from Latin repugnare 'to be at variance'",
+                                                    "answer": "repine"
+                                                    },
+                                                    {
+                                                    "word": "requiem",
+                                                    "audioSource": "spellit6/requiem.mp3",
+                                                    "meaning": "a musical composition for the dead; a Mass for the dead",
+                                                    "wordclass": "noun",
+                                                    "etymology": "Latin requiem 'rest (imperative)'",
+                                                    "answer": "requiem"
+                                                    },
+                                                    {
+                                                    "word": "requital",
+                                                    "audioSource": "spellit6/requital.mp3",
+                                                    "meaning": "something given in return, compensation, or retaliation",
+                                                    "wordclass": "noun",
+                                                    "etymology": "Middle English, from Old French requital, from requiter 'to requite'",
+                                                    "answer": "requital"
+                                                    },
+                                                    {
+                                                    "word": "rescind",
+                                                    "audioSource": "spellit6/rescind.mp3",
+                                                    "meaning": "revoke, cancel, or repeal (a law, order, or agreement)",
+                                                    "wordclass": "verb",
+                                                    "etymology": "Latin rescindere, from re- 'back' + scindere 'to cut'",
+                                                    "answer": "rescind"
+                                                    }
+    ]
+}

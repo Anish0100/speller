@@ -1,0 +1,185 @@
+{
+    "words":[
+        {
+            "audioSource": "beginner/caned.mp3",
+            "meaning": "The past tense of cane: the action of flogging",
+            "wordclass": "verb",
+            "answer": "caned"
+            },
+
+            {
+                "audioSource": "beginner/canned.mp3",
+                "meaning": "In a canned way; without any freshness or originality",
+                "wordclass": "adjective",
+                "answer": "canned"
+              },
+              {
+                "audioSource": "beginner/completely.mp3",
+                "meaning": "To the fullest extent; entirely",
+                "wordclass": "adverb",
+                "answer": "completely"
+              },
+              {
+                "audioSource": "beginner/demand.mp3",
+                "meaning": "To ask for something with authority or force",
+                "wordclass": "verb",
+                "answer": "demand"
+              },
+              {
+                "audioSource": "beginner/delete.mp3",
+                "meaning": "To remove something from existence",
+                "wordclass": "verb",
+                "answer": "delete"
+              },
+              {
+                "audioSource": "beginner/demonstrate.mp3",
+                "meaning": "To show or explain something by giving an example",
+                "wordclass": "verb",
+                "answer": "demonstrate"
+              },
+              {
+                "audioSource": "beginner/describe.mp3",
+                "meaning": "To give an account of something in words",
+                "wordclass": "verb",
+                "answer": "describe"
+              },
+              {
+                "audioSource": "beginner/disturbing.mp3",
+                "meaning": "Causing worry or anxiety",
+                "wordclass": "adjective",
+                "answer": "disturbing"
+              },
+              {
+                "audioSource": "beginner/excited.mp3",
+                "meaning": "Filled with eagerness or enthusiasm",
+                "wordclass": "adjective",
+                "answer": "excited"
+              },
+              {
+                "audioSource": "beginner/hiccup.mp3",
+                "meaning": "A sudden involuntary contraction of the diaphragm that causes a short, sharp intake of breath",
+                "wordclass": "noun",
+                "answer": "hiccup"
+              },
+              {
+                "audioSource": "beginner/hoped.mp3",
+                "meaning": "To have a desire or expectation",
+                "wordclass": "verb",
+                "answer": "hoped"
+              },
+              {
+                "audioSource": "beginner/hopped.mp3",
+                "meaning": "To move by jumping lightly",
+                "wordclass": "verb",
+                "answer": "hopped"
+              },
+              {
+                "audioSource": "beginner/literally.mp3",
+                "meaning": "In a literal sense or manner; exactly",
+                "wordclass": "adverb",
+                "answer": "literally"
+              },
+              {
+                "audioSource": "beginner/nonsense.mp3",
+                "meaning": "Talk or writing that is meaningless or absurd",
+                "wordclass": "noun",
+                "answer": "nonsense"
+              },
+              {
+                "audioSource": "beginner/period.mp3",
+                "meaning": "A punctuation mark (.) used at the end of a sentence",
+                "wordclass": "noun",
+                "answer": "period"
+              },
+              {
+                "audioSource": "beginner/pronounce.mp3",
+                "meaning": "To say a word or phrase aloud, especially correctly",
+                "wordclass": "verb",
+                "answer": "pronounce"
+              },
+              {
+                "audioSource": "beginner/raped.mp3",
+                "meaning": "To force someone to have sex against their will",
+                "wordclass": "verb",
+                "answer": "raped"
+              },
+              {
+                "audioSource": "beginner/ruler.mp3",
+                "meaning": "A straight piece of wood or plastic used for measuring or drawing straight lines",
+                "wordclass": "noun",
+                "answer": "ruler"
+              },
+              {
+                "audioSource": "beginner/seriously.mp3",
+                "meaning": "In a serious manner or way",
+                "wordclass": "adverb",
+                "answer": "seriously"
+              },
+              {
+                "audioSource": "beginner/slapped.mp3",
+                "meaning": "To hit someone with an open hand",
+                "wordclass": "verb",
+                "answer": "slapped"
+              },
+              {
+                "audioSource": "beginner/snack.mp3",
+                "meaning": "A small amount of food eaten between meals",
+                "wordclass": "noun",
+                "answer": "snack"
+              },
+              {
+                "audioSource": "beginner/spined.mp3",
+                "meaning": "Having a spine or spines",
+                "wordclass": "adjective",
+                "answer": "spined"
+              },
+              {
+                "audioSource": "beginner/stairs.mp3",
+                "meaning": "A series of steps leading from one level to another",
+                "wordclass": "noun",
+                "answer": "stairs"
+              },
+              {
+                "audioSource": "beginner/steers.mp3",
+                "meaning": "To guide or direct the course of something",
+                "wordclass": "verb",
+                "answer": "steers"
+              },
+              {
+                "audioSource": "beginner/submit.mp3",
+                "meaning": "To yield to someone or something; to give in",
+                "wordclass": "verb",
+                "answer": "submit"
+              },
+              {
+                "audioSource": "beginner/summit.mp3",
+                "meaning": "The highest point of something",
+                "wordclass": "noun",
+                "answer": "summit"
+              },
+              {
+                "audioSource": "beginner/support.mp3",
+                "meaning": "To provide assistance or help to someone or something",
+                "wordclass": "verb",
+                "answer": "support"
+              },
+              {
+                "audioSource": "beginner/taped.mp3",
+                "meaning": "To fasten or secure something with tape",
+                "wordclass": "verb",
+                "answer": "taped"
+              },
+              {
+                "audioSource": "beginner/tapped.mp3",
+                "meaning": "To strike or hit something lightly",
+                "wordclass": "verb",
+                "answer": "tapped"
+              },
+              {
+                "audioSource": "beginner/pronunciation.mp3",
+                "meaning": "The way in which a word or phrase is pronounced",
+                "wordclass": "noun",
+                "answer": "pronunciation"
+              }
+    ]
+}

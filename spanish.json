@@ -1,0 +1,469 @@
+{
+    "words":[
+        {
+            "audioSource": "spanish/pennyroyal.mp3",
+            "meaning": "a European and North African mint",
+            "wordclass": "noun",
+            "Etymology": "Old English 'penig' (penny) + 'royal' (a type of mint)",
+            "answer": "pennyroyal"
+            },
+            {
+                "audioSource": "spanish/chickling.mp3",
+                "meaning": "a type of plant related to the pea",
+                "wordclass": "noun",
+                "Etymology": "Old English 'cicen' (chicken) + '-ling' (a diminutive suffix)",
+                "answer": "chickling"
+                },
+                
+                {
+                "audioSource": "spanish/campanula.mp3",
+                "meaning": "a plant with bell-shaped flowers",
+                "wordclass": "noun",
+                "Etymology": "Latin 'campanula' (little bell)",
+                "answer": "campanula"
+                },
+                
+                {
+                "audioSource": "spanish/campanile.mp3",
+                "meaning": "a bell tower",
+                "wordclass": "noun",
+                "Etymology": "Italian 'campanile', from Latin 'campana' (bell)",
+                "answer": "campanile"
+                },
+                
+                {
+                "audioSource": "spanish/brooklime.mp3",
+                "meaning": "a plant of the mint family that grows in wet places",
+                "wordclass": "noun",
+                "Etymology": "Old English 'broc' (brook) + 'lime' (a type of plant)",
+                "answer": "brooklime"
+                },
+                
+                {
+                "audioSource": "spanish/poppy.mp3",
+                "meaning": "a plant with showy flowers, typically red, that produces seeds used for medicinal purposes or to make opium",
+                "wordclass": "noun",
+                "Etymology": "Middle English 'popi' < Old English 'popegān' (poppy) < Latin 'papaver'",
+                "answer": "poppy"
+                },
+                
+                {
+                "audioSource": "spanish/burrito.mp3",
+                "meaning": "a Mexican dish consisting of a tortilla filled with meat, beans, cheese, etc., and rolled into a cylinder",
+                "wordclass": "noun",
+                "Etymology": "Spanish diminutive of 'burro' (donkey)",
+                "answer": "burrito"
+                },
+                
+                {
+                "audioSource": "spanish/pueblo.mp3",
+                "meaning": "a North American Indian settlement of the southwestern US",
+                "wordclass": "noun",
+                "Etymology": "Spanish 'pueblo' (village)",
+                "answer": "pueblo"
+                },
+                
+                {
+                "audioSource": "spanish/filibuster.mp3",
+                "meaning": "the use of obstructionist tactics, especially prolonged speechmaking, for the purpose of delaying legislative action",
+                "wordclass": "noun",
+                "Etymology": "Spanish 'filibustero', from French 'flibustier', from Dutch 'vrijbuiter' (freebooter)",
+                "answer": "filibuster"
+                },
+                
+                {
+                "audioSource": "spanish/mantilla.mp3",
+                "meaning": "a light scarf worn over the head and shoulders, typically by women in Spain",
+                "wordclass": "noun",
+                "Etymology": "Spanish 'mantilla', diminutive of 'manta' (mantle)",
+                "answer": "mantilla"
+                },
+                {
+                    "audioSource": "spanish/amarillo.mp3",
+                    "meaning": "yellow",
+                    "wordclass": "adjective",
+                    "Etymology": "Spanish 'amarillo' (yellow)",
+                    "answer": "amarillo"
+                    },
+                    {
+                        "audioSource": "spanish/hacienda.mp3",
+                        "meaning": "a large estate or plantation",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'hacienda' (estate)",
+                        "answer": "hacienda"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/tortilla.mp3",
+                        "meaning": "a thin, round flatbread made from corn or flour",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'tortilla' (little cake)",
+                        "answer": "tortilla"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/oregano.mp3",
+                        "meaning": "a fragrant herb used in cooking",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'orégano' (oregano)",
+                        "answer": "oregano"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/cordovan.mp3",
+                        "meaning": "a type of leather",
+                        "wordclass": "noun",
+                        "Etymology": "from Spanish 'Córdoba' (city in Spain known for leather production)",
+                        "answer": "cordovan"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/chimichanga.mp3",
+                        "meaning": "a deep-fried burrito",
+                        "wordclass": "noun",
+                        "Etymology": "Unknown, possibly a corruption of the Spanish word 'chivichanga' (a meat-filled turnover)",
+                        "answer": "chimichanga"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/fandango.mp3",
+                        "meaning": "a lively Spanish dance",
+                        "wordclass": "noun",
+                        "Etymology": "Unknown, possibly from Spanish 'fandango' (a type of folk song and dance)",
+                        "answer": "fandango"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/vanilla.mp3",
+                        "meaning": "a flavoring extracted from the seed pods of certain orchids",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'vainilla' (little pod)",
+                        "answer": "vanilla"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/lariat.mp3",
+                        "meaning": "a long rope used for lassoing cattle",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'la reata' (the rope)",
+                        "answer": "lariat"
+                        },
+                        
+                        {
+                        "audioSource": "spanish/desperado.mp3",
+                        "meaning": "a desperate or reckless person, especially a criminal",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'desesperado' (desperate)",
+                        "answer": "desperado"
+                        },
+                        {
+                            "audioSource": "spanish/gazpacho.mp3",
+                            "meaning": "a cold Spanish soup made from tomatoes and vegetables",
+                            "wordclass": "noun",
+                            "Etymology": "Mozarabic 'gazpáčo' (a mixture)",
+                            "answer": "gazpacho"
+                            },
+                            {
+                                "audioSource": "spanish/quesadilla.mp3",
+                                "meaning": "a tortilla filled with cheese and sometimes other ingredients, then folded in half",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'queso' (cheese)",
+                                "answer": "quesadilla"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/cilantro.mp3",
+                                "meaning": "a herb with flat leaves and a strong smell and taste, used in cooking and sometimes in salads",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'cilantro' (coriander)",
+                                "answer": "cilantro"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/chalupa.mp3",
+                                "meaning": "a small boat with a sail, traditionally used for fishing in Mexico",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'chalupa' (small boat)",
+                                "answer": "chalupa"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/empanada.mp3",
+                                "meaning": "a pastry filled with meat, vegetables, or fruit, and usually baked or fried",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'empanada' (breaded)",
+                                "answer": "empanada"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/mariachi.mp3",
+                                "meaning": "a type of Mexican folk music played by a band of trumpets, violins, guitars, and other instruments",
+                                "wordclass": "noun",
+                                "Etymology": "Unknown",
+                                "answer": "mariachi"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/flotilla.mp3",
+                                "meaning": "a group of small ships or boats",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'flota' (fleet)",
+                                "answer": "flotilla"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/fiesta.mp3",
+                                "meaning": "a public holiday or religious festival in Spanish-speaking countries",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'fiesta' (feast, celebration)",
+                                "answer": "fiesta"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/tomatillo.mp3",
+                                "meaning": "a small green or yellow fruit with a papery covering, used in Mexican cooking",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'tomate' (tomato)",
+                                "answer": "tomatillo"
+                                },
+                                
+                                {
+                                "audioSource": "spanish/sombrero.mp3",
+                                "meaning": "a type of wide-brimmed hat commonly worn in Mexico and other Latin American countries",
+                                "wordclass": "noun",
+                                "Etymology": "Spanish 'sombra' (shade) + 'ero' (suffix indicating profession)",
+                                "answer": "sombrero"
+                                },
+                                {
+                                    "audioSource": "spanish/vigilante.mp3",
+                                    "meaning": "a member of a self-appointed group of citizens who undertake law enforcement in their community without legal authority",
+                                    "wordclass": "noun",
+                                    "Etymology": "Spanish 'vigilante' (watchman)",
+                                    "answer": "vigilante"
+                                    },
+                                    {
+                                        "audioSource": "spanish/ramada.mp3",
+                                        "meaning": "a shelter with an open roof made of branches, twigs, or thatch",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'ramada' (arbor)",
+                                        "answer": "ramada"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/alamo.mp3",
+                                        "meaning": "a tree of the poplar family, native to southwestern North America, with leaves that flutter even when there is no wind",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'álamo' (poplar)",
+                                        "answer": "alamo"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/sierra.mp3",
+                                        "meaning": "a range of mountains, especially a chain of parallel peaks and valleys",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'sierra' (saw)",
+                                        "answer": "sierra"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/adios.mp3",
+                                        "meaning": "a farewell remark, used especially in Spanish-speaking cultures",
+                                        "wordclass": "interjection",
+                                        "Etymology": "Spanish 'adiós' (goodbye)",
+                                        "answer": "adios"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/junco.mp3",
+                                        "meaning": "a type of reed found in the southwestern United States and Mexico, used for making baskets and mats",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'junco' (reed)",
+                                        "answer": "junco"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/barrio.mp3",
+                                        "meaning": "a district of a town or city, often with a distinctive character or identity",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'barrio' (neighborhood)",
+                                        "answer": "barrio"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/olio.mp3",
+                                        "meaning": "a dish of various foods mixed together, especially leftovers",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'olío' (stew)",
+                                        "answer": "olio"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/chinchilla.mp3",
+                                        "meaning": "a small South American rodent, valued for its soft, silvery gray fur",
+                                        "wordclass": "noun",
+                                        "Etymology": "from the name of the Chinchas, a people of the Andes who were known for their use of chinchilla fur",
+                                        "answer": "chinchilla"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "spanish/cabana.mp3",
+                                        "meaning": "a small, simple building, often made of wood or thatch, used as a shelter",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'cabaña' (cabin)",
+                                        "answer": "cabana"
+                                        },
+                                        {
+                                            "word": "cafeteria",
+                                            "audioSource": "spanish/cafeteria.mp3",
+                                            "meaning": "a restaurant or dining area in a school or workplace where meals are served",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'cafetería', from 'cafetera' (coffee maker)",
+                                            "answer": "cafeteria"
+                                            },
+                                            {
+                                            "word": "cedilla",
+                                            "audioSource": "spanish/cedilla.mp3",
+                                            "meaning": "a diacritical mark placed below the letter 'c' to indicate that it is pronounced like an 's'",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'cedilla', diminutive of 'zeda' (z)",
+                                            "answer": "cedilla"
+                                            },
+                                            {
+                                            "word": "bolero",
+                                            "audioSource": "spanish/bolero.mp3",
+                                            "meaning": "a Spanish dance in triple time, typically accompanied by guitar and castanets",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'bolero', diminutive of 'bolo' (ball)",
+                                            "answer": "bolero"
+                                            },
+                                           
+                                            {
+                                            "word": "gordita",
+                                            "audioSource": "spanish/gordita.mp3",
+                                            "meaning": "a small cake made of masa and filled with cheese, meat, or other ingredients",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'gordita', diminutive of 'gorda' (fat)",
+                                            "answer": "gordita"
+                                            },
+                                            {
+                                            "word": "argentine",
+                                            "audioSource": "spanish/argentine.mp3",
+                                            "meaning": "of or relating to Argentina",
+                                            "wordclass": "adjective",
+                                            "Etymology": "from Spanish 'argentino', from 'argento' (silver)",
+                                            "answer": "argentine"
+                                            },
+                                            {
+                                            "word": "junta",
+                                            "audioSource": "spanish/junta.mp3",
+                                            "meaning": "a military or political group that rules a country after taking power by force",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'junta', from 'juntar' (to join)",
+                                            "answer": "junta"
+                                            },
+                                            {
+                                            "word": "enchilada",
+                                            "audioSource": "spanish/enchilada.mp3",
+                                            "meaning": "a Mexican dish consisting of a tortilla rolled around a filling, typically of meat and beans, and covered with a chili sauce",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'enchilada', from 'chile' (chili pepper)",
+                                            "answer": "enchilada"
+                                            },
+                                            {
+                                            "word": "peccadillo",
+                                            "audioSource": "spanish/peccadillo.mp3",
+                                            "meaning": "a small or minor sin or offense",
+                                            "wordclass": "noun",
+                                            "Etymology": "from Spanish 'pecadillo', diminutive of 'pecado' (sin)",
+                                            "answer": "peccadillo"
+                                            },
+                                            {
+                                                "audioSource": "spanish/castanets.mp3",
+                                                "meaning": "concave shells joined by a string, clicked together by the fingers to accompany music and dancing",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'castañetas', diminutive of 'castaña' (chestnut), for the resemblance in shape",
+                                                "answer": "castanets"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/bolivar.mp3",
+                                                "meaning": "currency of Venezuela",
+                                                "wordclass": "noun",
+                                                "Etymology": "Named after Simón Bolívar, a Venezuelan military and political leader",
+                                                "answer": "bolivar"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/duenna.mp3",
+                                                "meaning": "an older woman acting as a governess and companion in charge of girls",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'dueña', feminine of 'dueño' (owner, master), from Latin 'dominus' (lord, master)",
+                                                "answer": "duenna"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/sassafras.mp3",
+                                                "meaning": "a tree of eastern North America, the aromatic root bark of which is used as a flavoring and to make tea",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'sasafrás', from Arawak 'kasipari' (aromatic bark)",
+                                                "answer": "sassafras"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/novillero.mp3",
+                                                "meaning": "a bullfighter who fights young bulls",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'novillo' (young bull)",
+                                                "answer": "novillero"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/punctilio.mp3",
+                                                "meaning": "a fine or petty point of conduct or procedure",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'puntillismo', diminutive of 'punto' (point), from Latin 'punctum'",
+                                                "answer": "punctilio"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/picaresque.mp3",
+                                                "meaning": "of or relating to rogues or rascals; involving clever rogues or adventurers",
+                                                "wordclass": "adjective",
+                                                "Etymology": "From Spanish 'picaresco', from 'picaro' (rogue), from French 'picaresque', from Spanish 'pícaro'",
+                                                "answer": "picaresque"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/sarsaparilla.mp3",
+                                                "meaning": "a tropical plant, the aromatic root of which is used as a flavoring and in herbal medicine",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'zarzaparrilla', probably from Basque 'sartzabarda' (wild vine), from 'sartz' (vine) and 'abarda' (thorny)",
+                                                "answer": "sarsaparilla"
+                                                },
+                                                
+                                                {
+                                                "audioSource": "spanish/conquistador.mp3",
+                                                "meaning": "a conqueror, especially one of the Spanish conquerors of Mexico and Peru in the 16th century",
+                                                "wordclass": "noun",
+                                                "Etymology": "From Spanish 'conquistador', from 'conquistar' (to conquer), from 'con-' (intensive prefix) + 'quista' (conquest), from Latin",
+                                                "answer": "conquistador"
+                                                },
+                                                {
+                                                    "audioSource": "spanish/caballero.mp3",
+                                                    "meaning": "gentleman; knight; horseman",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "From Latin 'caballarius' (horseman), from 'caballus' (horse)",
+                                                    "answer": "caballero"
+                                                    },
+                                                    {
+                                                        "audioSource": "spanish/comandante.mp3",
+                                                        "meaning": "a military or police officer in charge of a unit or station",
+                                                        "wordclass": "noun",
+                                                        "Etymology": "from Latin 'commandare' (to command)",
+                                                        "answer": "comandante"
+                                                        }                                        
+                                
+                        
+                
+    ]
+}

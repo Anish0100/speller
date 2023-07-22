@@ -1,0 +1,805 @@
+{
+    "words":[
+        {
+            "word": "acne vulgaris",
+            "audioSource": "spellit3/acne vulgaris.mp3",
+            "meaning": "a common skin condition characterized by pimples and blackheads",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "acne vulgaris"
+          },
+          {
+            "word": "acne",
+            "audioSource": "spellit3/acne.mp3",
+            "meaning": "a skin condition characterized by pimples and blackheads",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "acne"
+          },
+          {
+            "word": "acned",
+            "audioSource": "spellit3/acned.mp3",
+            "meaning": "having acne",
+            "wordclass": "adjective",
+            "Etymology": "English",
+            "answer": "acned"
+          },
+          {
+            "word": "auk",
+            "audioSource": "spellit3/auk.mp3",
+            "meaning": "any of several small, black and white seabirds with a long, thin bill and webbed feet",
+            "wordclass": "noun",
+            "Etymology": "Old Norse",
+            "answer": "auk"
+          },
+          {
+            "word": "aukland",
+            "audioSource": "spellit3/aukland.mp3",
+            "meaning": "a group of islands in the South Pacific Ocean, administered by New Zealand",
+            "wordclass": "noun",
+            "Etymology": "English",
+            "answer": "aukland"
+          },
+          {
+            "word": "auklet",
+            "audioSource": "spellit3/auklet.mp3",
+            "meaning": "any of several small, black and white seabirds with a short, thick bill and webbed feet",
+            "wordclass": "noun",
+            "Etymology": "Aleut",
+            "answer": "auklet"
+          },
+          {
+            "word": "duteous",
+            "audioSource": "spellit3/duteous.mp3",
+            "meaning": "obedient and respectful",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "duteous"
+          },
+          {
+            "word": "dutible",
+            "audioSource": "spellit3/dutible.mp3",
+            "meaning": "subject to duty or tax",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "dutible"
+          },
+          {
+            "word": "dyne",
+            "audioSource": "spellit3/dyne.mp3",
+            "meaning": "a unit of force equal to the force required to accelerate a mass of one gram by one centimeter per second squared",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "dyne"
+          },
+          {
+            "word": "ectoderm",
+            "audioSource": "spellit3/ectoderm.mp3",
+            "meaning": "the outermost layer of cells in an embryo, which develops into the skin, hair, and nervous system",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "ectoderm"
+          },
+          {
+            "word": "ecuadoran",
+            "audioSource": "spellit3/ecuadoran.mp3",
+            "meaning": "of or relating to Ecuador",
+            "wordclass": "adjective",
+            "Etymology": "Spanish",
+            "answer": "ecuadoran"
+          },
+          {
+            "word": "efface",
+            "audioSource": "spellit3/efface.mp3",
+            "meaning": "to remove or destroy completely",
+            "wordclass": "verb",
+            "Etymology": "French",
+            "answer": "efface"
+          },
+          {
+            "word": "effeminacy",
+            "audioSource": "spellit3/effeminacy.mp3",
+            "meaning": "the quality of being effeminate",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "effeminacy"
+          },
+          {
+            "word": "effete",
+            "audioSource": "spellit3/effete.mp3",
+            "meaning": "having lost strength or vigor; no longer effective",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "effete"
+          },
+          {
+            "word": "effetely",
+            "audioSource": "spellit3/effetely.mp3",
+            "meaning": "in an effete manner",
+            "wordclass": "adverb",
+            "Etymology": "Latin",
+            "answer": "effetely"
+          },
+          {
+            "word": "effeteness",
+            "audioSource": "spellit3/effeteness.mp3",
+            "meaning": "the state of being effete",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "effeteness"
+          },
+          {
+            "word": "efficacious",
+            "audioSource": "spellit3/efficacious.mp3",
+            "meaning": "producing a desired effect; effective",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "efficacious"
+          },
+          {
+            "word": "efflorescence",
+            "audioSource": "spellit3/efflorescence.mp3",
+            "meaning": "a sudden or abundant flowering",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "efflorescence"
+          },
+          {
+            "word": "effuse",
+            "audioSource": "spellit3/effuse.mp3",
+            "meaning": "to pour forth or discharge freely",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "effuse"
+          },
+          {
+            "word": "enjoin",
+            "audioSource": "spellit3/enjoin.mp3",
+            "meaning": "to order or command (someone) to do something",
+            "wordclass": "verb",
+            "Etymology": "Old French",
+            "answer": "enjoin"
+          },
+
+          {
+            "word": "ennoble",
+            "audioSource": "spellit3/ennoble.mp3",
+            "meaning": "to raise to a higher rank or status; to make noble",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "ennoble"
+          },
+          {
+            "word": "entree",
+            "audioSource": "spellit3/entree.mp3",
+            "meaning": "a course of food served before the main course",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "entree"
+          },
+          {
+            "word": "epizootic",
+            "audioSource": "spellit3/epizootic.mp3",
+            "meaning": "an outbreak of a disease affecting a large number of animals in a particular area",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "epizootic"
+          },
+          {
+            "word": "epoch",
+            "audioSource": "spellit3/epoch.mp3",
+            "meaning": "a period of time marked by a particular event, development, or change",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "epoch"
+          },
+          {
+            "word": "equilibrium",
+            "audioSource": "spellit3/equilibrium.mp3",
+            "meaning": "a state of balance or stability",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "equilibrium"
+          },
+          {
+            "word": "eschew",
+            "audioSource": "spellit3/eschew.mp3",
+            "meaning": "to avoid or reject something",
+            "wordclass": "verb",
+            "Etymology": "Old French",
+            "answer": "eschew"
+          },
+          {
+            "word": "espy",
+            "audioSource": "spellit3/espy.mp3",
+            "meaning": "to catch sight of something, especially something distant or difficult to see",
+            "wordclass": "verb",
+            "Etymology": "Old French",
+            "answer": "espy"
+          },
+          {
+            "word": "estuary",
+            "audioSource": "spellit3/estuary.mp3",
+            "meaning": "a partly enclosed coastal body of water where the tide meets a river, typically with a wide mouth",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "estuary"
+          },
+          {
+            "word": "eugenic",
+            "audioSource": "spellit3/eugenic.mp3",
+            "meaning": "relating to the science of improving the human race by controlled breeding",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "eugenic"
+          },
+          {
+            "word": "eureka",
+            "audioSource": "spellit3/eureka.mp3",
+            "meaning": "an exclamation of sudden discovery",
+            "wordclass": "interjection",
+            "Etymology": "Greek",
+            "answer": "eureka"
+          },
+          {
+            "word": "evanesce",
+            "audioSource": "spellit3/evanesce.mp3",
+            "meaning": "to disappear gradually",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "evanesce"
+          },
+          {
+            "word": "exorcise",
+            "audioSource": "spellit3/exorcise.mp3",
+            "meaning": "to drive out (an evil spirit) by ritual",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "exorcise"
+          },
+          {
+            "word": "expeditious",
+            "audioSource": "spellit3/expeditious.mp3",
+            "meaning": "done quickly and efficiently",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "expeditious"
+          },
+          {
+            "word": "facetious",
+            "audioSource": "spellit3/facetious.mp3",
+            "meaning": "treating serious matters with humor",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "facetious"
+          },
+          {
+            "word": "facsimile",
+            "audioSource": "spellit3/facsimile.mp3",
+            "meaning": "an exact copy",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "facsimile"
+          },
+          {
+            "word": "fallible",
+            "audioSource": "spellit3/fallible.mp3",
+            "meaning": "capable of making mistakes",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "fallible"
+          },
+          {
+            "word": "faun",
+            "audioSource": "spellit3/faun.mp3",
+            "meaning": "a creature in Greek mythology that is half-man and half-goat",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "faun"
+          },
+          {
+            "word": "fawn",
+            "audioSource": "spellit3/fawn.mp3",
+            "meaning": "to act in a submissive or flattering way",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "fawn"
+          },
+          {
+            "word": "fealty",
+            "audioSource": "spellit3/fealty.mp3",
+            "meaning": "loyalty or allegiance",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "fealty"
+          },
+          {
+            "word": "feint",
+            "audioSource": "spellit3/feint.mp3",
+            "meaning": "to make a deceptive or misleading movement",
+            "wordclass": "verb",
+            "Etymology": "French",
+            "answer": "feint"
+          },
+          {
+            "word": "fete",
+            "audioSource": "spellit3/fete.mp3",
+            "meaning": "a festive celebration",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "fete"
+          },
+          {
+            "word": "fez",
+            "audioSource":"spellit3/fez.mp3",
+            "meaning": "a brimless felt hat with a tassel, traditionally worn by men in North Africa",
+            "wordclass": "noun",
+            "Etymology": "Turkish",
+            "answer": "fez"
+          },
+          {
+            "word": "fezzan",
+            "audioSource": "spellit3/fezzan.mp3",
+            "meaning": "a region in southwestern Libya",
+            "wordclass": "noun",
+            "Etymology": "Arabic",
+            "answer": "fezzan"
+          },
+          {
+            "word": "fief",
+            "audioSource": "spellit3/fief.mp3",
+            "meaning": "a landed estate held by a vassal from a lord",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "fief"
+          },
+          {
+            "word": "foolery",
+            "audioSource": "spellit3/foolery.mp3",
+            "meaning": "frivolous or playful behavior",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "foolery"
+          },
+          {
+            "word": "foppery",
+            "audioSource": "spellit3/foppery.mp3",
+            "meaning": "affectation or pretentiousness in dress or behavior",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "foppery"
+          },
+          {
+            "word": "forswear",
+            "audioSource": "spellit3/forswear.mp3",
+            "meaning": "to renounce or reject something",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "forswear"
+          },
+          {
+            "word": "forte",
+            "audioSource": "spellit3/forte.mp3",
+            "meaning": "a strong point or area of expertise",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "forte"
+          },
+          {
+            "word": "fortean",
+            "audioSource": "spellit3/fortean.mp3",
+            "meaning": "relating to unexplained or supernatural phenomena",
+            "wordclass": "adjective",
+            "Etymology": "after Charles Fort",
+            "answer": "fortean"
+          },
+          {
+            "word": "fortescue",
+            "audioSource": "spellit3/fortescue.mp3",
+            "meaning": "a type of English cheese",
+            "wordclass": "noun",
+            "Etymology": "uncertain",
+            "answer": "fortescue"
+          },
+          {
+            "word": "frankincense",
+            "audioSource": "spellit3/frankincense.mp3",
+            "meaning": "a fragrant gum resin obtained from trees of the genus Boswellia, used in incense and perfume",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "frankincense"
+          },
+          {
+            "word": "fresco",
+            "audioSource": "spellit3/fresco.mp3",
+            "meaning": "a painting executed on freshly applied plaster, so that the pigments are absorbed into the surface",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "fresco"
+          },
+          {
+            "word": "furlong",
+            "audioSource": "spellit3/furlong.mp3",
+            "meaning": "an imperial unit of length equal to one-eighth of a mile",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "furlong"
+          },
+          {
+            "word": "furlough",
+            "audioSource": "spellit3/furlough.mp3",
+            "meaning": "a temporary leave of absence from military duty",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "furlough"
+          },
+          {
+            "word": "furrier",
+            "audioSource": "spellit3/furrier.mp3",
+            "meaning": "a person who deals in furs",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "furrier"
+          },
+          {
+            "word": "glutinous",
+            "audioSource": "spellit3/glutinous.mp3",
+            "meaning": "sticky and adhesive",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "glutinous"
+          },
+          {
+            "word": "gosling",
+            "audioSource": "spellit3/gosling.mp3",
+            "meaning": "a young goose",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "gosling"
+          },
+          {
+            "word": "gossamer",
+            "audioSource": "spellit3/gossamer.mp3",
+            "meaning": "a very fine, light, and delicate fabric",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "gossamer"
+          },
+          {
+            "word": "gossamery",
+            "audioSource": "spellit3/gossamery.mp3",
+            "meaning": "like gossamer; light and delicate",
+            "wordclass": "adjective",
+            "Etymology": "from gossamer",
+            "answer": "gossamery"
+          },
+          {
+            "word": "grievance",
+            "audioSource": "spellit3/grievance.mp3",
+            "meaning": "a feeling of hurt or injustice",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "grievance"
+          },
+          {
+            "word": "grimace",
+            "audioSource": "spellit3/grimace.mp3",
+            "meaning": "a facial expression that expresses pain, disgust, or disapproval",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "grimace"
+          },
+          {
+            "word": "grotto",
+            "audioSource": "spellit3/grotto.mp3",
+            "meaning": "a small cave or cavern",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "grotto"
+          },
+          {
+            "word": "hachure",
+            "audioSource": "spellit3/hachure.mp3",
+            "meaning": "a series of short, parallel lines used to represent shading or shadows on a map or drawing",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "hachure"
+          },
+          {
+            "word": "hackney",
+            "audioSource": "spellit3/hackney.mp3",
+            "meaning": "a horse that is used for hire",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "hackney"
+          },
+          {
+            "word": "hackneyed",
+            "audioSource": "spellit3/hackneyed.mp3",
+            "meaning": "used too often or too familiarly; trite",
+            "wordclass": "adjective",
+            "Etymology": "from hackney",
+            "answer": "hackneyed"
+          },
+          {
+            "word": "haemorrhoids",
+            "audioSource": "spellit3/haemorrhoids.mp3",
+            "meaning": "a condition in which swollen veins form in the anal canal or rectum",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "haemorrhoids"
+          },
+          {
+            "word": "halcyon",
+            "audioSource": "spellit3/halcyon.mp3",
+            "meaning": "peaceful and tranquil",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "halcyon"
+          },
+          {
+            "word": "harass",
+            "audioSource": "spellit3/harass.mp3",
+            "meaning": "to annoy or pester someone persistently",
+            "wordclass": "verb",
+            "Etymology": "French",
+            "answer": "harass"
+          },
+          {
+            "word": "hawk",
+            "audioSource": "spellit3/hawk.mp3",
+            "meaning": "a bird of prey with a long, hooked beak and powerful talons",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "hawk"
+          },
+          {
+            "word": "hawser",
+            "audioSource": "spellit3/hawser.mp3",
+            "meaning": "a large, strong rope used for mooring ships or towing boats",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "hawser"
+          },
+          {
+            "word": "hazier",
+            "audioSource": "spellit3/hazier.mp3",
+            "meaning": "more hazy",
+            "wordclass": "adjective",
+            "Etymology": "from haze",
+            "answer": "hazier"
+          },
+          {
+            "word": "hagira",
+            "audioSource": "spellit3/hagira.mp3",
+            "meaning": "the exodus of the Jews from Egypt",
+            "wordclass": "noun",
+            "Etymology": "Hebrew",
+            "answer": "hagira"
+          },
+          {
+            "word": "heresy",
+            "audioSource": "spellit3/heresy.mp3",
+            "meaning": "a belief or opinion that is at odds with the official beliefs of a religion or other group",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "heresy"
+          },
+          {
+            "word": "hesitancy",
+            "audioSource": "spellit3/hesitancy.mp3",
+            "meaning": "the tendency to hesitate or delay",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "hesitancy"
+          },
+          {
+            "word": "hiatus",
+            "audioSource": "spellit3/hiatus.mp3",
+            "meaning": "a gap or break in something",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "hiatus"
+          },
+          {
+            "word": "himyaritic",
+            "audioSource": "spellit3/himyaritic.mp3",
+            "meaning": "relating to the Himyarites, an ancient people who lived in what is now Yemen",
+            "wordclass": "adjective",
+            "Etymology": "from Himyar",
+            "answer": "himyaritic"
+          },
+          {
+            "word": "hirsute",
+            "audioSource": "spellit3/hirsute.mp3",
+            "meaning": "having a lot of hair",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "hirsute"
+          },
+          {
+            "word": "horde",
+            "audioSource": "spellit3/horde.mp3",
+            "meaning": "a large group of people or animals moving together",
+            "wordclass": "noun",
+            "Etymology": "Turkish",
+            "answer": "horde"
+          },
+          {
+            "word": "hordeic",
+            "audioSource": "spellit3/hordeic.mp3",
+            "meaning": "relating to a horde",
+            "wordclass": "adjective",
+            "Etymology": "from horde",
+            "answer": "hordeic"
+          },
+          {
+            "word": "hordein",
+            "audioSource": "spellit3/hordein.mp3",
+            "meaning": "a protein found in wheat and other grains",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "hordein"
+          },
+          {
+            "word": "humbug",
+            "audioSource": "spellit3/humbug.mp3",
+            "meaning": "deceit or trickery",
+            "wordclass": "noun",
+            "Etymology": "Dutch",
+            "answer": "humbug"
+          },
+          {
+            "word": "humbugged",
+            "audioSource": "spellit3/humbugged.mp3",
+            "meaning": "deceived or tricked",
+            "wordclass": "adjective",
+            "Etymology": "from humbug",
+            "answer": "humbugged"
+          },
+          {
+            "word": "hypotenuse",
+            "audioSource": "spellit3/hypotenuse.mp3",
+            "meaning": "the longest side of a right-angled triangle, opposite the right angle",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "hypotenuse"
+          },
+          {
+            "word": "idiosyncrasy",
+            "audioSource": "spellit3/idiosyncrasy.mp3",
+            "meaning": "a peculiarity or mannerism of a person",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "idiosyncrasy"
+          },
+          {
+            "word": "ignominious",
+            "audioSource": "spellit3/ignominious.mp3",
+            "meaning": "causing or deserving public disgrace or shame",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "ignominious"
+          },
+          {
+            "word": "illegible",
+            "audioSource": "spellit3/illegible.mp3",
+            "meaning": "not able to be read",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "illegible"
+          },
+          {
+            "word": "imbroglio",
+            "audioSource": "spellit3/imbroglio.mp3",
+            "meaning": "a confused or complicated situation",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "imbroglio"
+          },
+          {
+            "word": "imbrue",
+            "audioSource": "spellit3/imbrue.mp3",
+            "meaning": "to soak or stain something with liquid",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "imbrue"
+          },
+          {
+            "word": "imbruement",
+            "audioSource": "spellit3/imbruement.mp3",
+            "meaning": "the act of imbibing or soaking something with liquid",
+            "wordclass": "noun",
+            "Etymology": "from imbrue",
+            "answer": "imbruement"
+          },
+          {
+            "word": "immiscible",
+            "audioSource": "spellit3/immiscible.mp3",
+            "meaning": "unable to be mixed",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "immiscible"
+          },
+          {
+            "word": "impugn",
+            "audioSource": "spellit3/impugn.mp3",
+            "meaning": "to attack or question the validity or truth of something",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "impugn"
+          },
+          {
+            "word": "inchoate",
+            "audioSource": "spellit3/inchoate.mp3",
+            "meaning": "only partly formed or developed",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "inchoate"
+          },
+          {
+            "word": "inebriate",
+            "audioSource": "spellit3/inebriate.mp3",
+            "meaning": "to make someone drunk",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "inebriate"
+          },
+          {
+            "word": "inexcusable",
+            "audioSource": "spellit3/inexcusable.mp3",
+            "meaning": "unable to be excused or justified",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "inexcusable"
+          },
+          {
+            "word": "innocuous",
+            "audioSource": "spellit3/innocuous.mp3",
+            "meaning": "harmless or not harmful",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "innocuous"
+          },
+          {
+            "word": "inoculate",
+            "audioSource": "spellit3/inoculate.mp3",
+            "meaning": "to introduce a vaccine into the body to protect against a disease",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "inoculate"
+          },
+          {
+            "word": "intangible",
+            "audioSource": "spellit3/intangible.mp3",
+            "meaning": "unable to be touched or felt",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "intangible"
+          },
+          {
+            "word": "intelligible",
+            "audioSource": "spellit3/intelligible.mp3",
+            "meaning": "able to be understood",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "intelligible"
+          },
+          {
+            "word": "kleptomaniac",
+            "audioSource": "spellit3/kleptomaniac.mp3",
+            "meaning": "a person who has an uncontrollable urge to steal",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "kleptomaniac"
+          },
+          {
+            "word": "imbruement",
+            "audioSource": "spellit3/imbruement.mp3",
+            "meaning": "the act of imbibing or soaking something with liquid",
+            "wordclass": "noun",
+            "Etymology": "from imbrue",
+            "answer": "imbruement"
+          }
+    ]
+}

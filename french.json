@@ -1,0 +1,749 @@
+{
+    "words":[
+        {
+            "audioSource": "french/gauche.mp3",
+            "meaning": "lacking ease or grace; unsophisticated and socially awkward",
+            "wordclass": "adjective",
+            "Etymology": "French 'left', 'awkward'",
+            "answer": "gauche"
+            },
+            
+            {
+            "audioSource": "french/recidivist.mp3",
+            "meaning": "a convicted criminal who reoffends, especially repeatedly",
+            "wordclass": "noun",
+            "Etymology": "Latin 're-' (back) + 'cadere' (to fall)",
+            "answer": "recidivist"
+            },
+            
+            {
+            "audioSource": "french/chassis.mp3",
+            "meaning": "the base frame of a vehicle, typically including the wheels, suspension, and steering",
+            "wordclass": "noun",
+            "Etymology": "French 'frame'",
+            "answer": "chassis"
+            },
+            
+            {
+            "audioSource": "french/croissant.mp3",
+            "meaning": "a crescent-shaped pastry, often eaten for breakfast",
+            "wordclass": "noun",
+            "Etymology": "French 'crescent'",
+            "answer": "croissant"
+            },
+            
+            {
+            "audioSource": "french/detente.mp3",
+            "meaning": "the easing of hostility or strained relations, especially between countries",
+            "wordclass": "noun",
+            "Etymology": "French 'relaxation'",
+            "answer": "detente"
+            },
+            
+            {
+            "audioSource": "french/ecru.mp3",
+            "meaning": "pale yellowish or greyish brown, typically used to describe fabric",
+            "wordclass": "adjective",
+            "Etymology": "French 'raw', 'unbleached'",
+            "answer": "ecru"
+            },
+            
+            {
+            "audioSource": "french/raconteur.mp3",
+            "meaning": "a person who is skilled in telling anecdotes or stories in an amusing or interesting way",
+            "wordclass": "noun",
+            "Etymology": "French 'to relate'",
+            "answer": "raconteur"
+            },
+            
+            {
+            "audioSource": "french/virgule.mp3",
+            "meaning": "a short oblique stroke (/) used in punctuation",
+            "wordclass": "noun",
+            "Etymology": "French 'comma'",
+            "answer": "virgule"
+            },
+            
+            {
+            "audioSource": "french/mayonnaise.mp3",
+            "meaning": "a thick, creamy sauce made from oil, vinegar, and egg yolks, typically eaten with salad or cold meat",
+            "wordclass": "noun",
+            "Etymology": "French 'regional term for Bayonne'",
+            "answer": "mayonnaise"
+            },
+            
+            {
+            "audioSource": "french/protege.mp3",
+            "meaning": "a person who is guided and supported by an older and more experienced or influential person",
+            "wordclass": "noun",
+            "Etymology": "French 'protected'",
+            "answer": "protege"
+            },
+            {
+                "audioSource": "french/debacle.mp3",
+                "meaning": "a sudden and complete failure; a fiasco",
+                "wordclass": "noun",
+                "Etymology": "French 'débâcle', from 'débâcler' (to unbar)",
+                "answer": "debacle"
+                },
+                {
+                    "audioSource": "french/surveillance.mp3",
+                    "meaning": "close observation, especially of a suspected spy or criminal",
+                    "wordclass": "noun",
+                    "Etymology": "French 'sur-' (over) + 'veiller' (to watch)",
+                    "answer": "surveillance"
+                    },
+                    
+                    {
+                    "audioSource": "french/melange.mp3",
+                    "meaning": "a mixture or blend",
+                    "wordclass": "noun",
+                    "Etymology": "French 'mêler' (to mix)",
+                    "answer": "melange"
+                    },
+                    
+                    {
+                    "audioSource": "french/fusillade.mp3",
+                    "meaning": "a series of shots fired in rapid succession",
+                    "wordclass": "noun",
+                    "Etymology": "French 'fusiller' (to shoot)",
+                    "answer": "fusillade"
+                    },
+                    
+                    {
+                    "audioSource": "french/repertoire.mp3",
+                    "meaning": "a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform",
+                    "wordclass": "noun",
+                    "Etymology": "French 'répertoire' (inventory)",
+                    "answer": "repertoire"
+                    },
+                    
+                    {
+                    "audioSource": "french/blase.mp3",
+                    "meaning": "unimpressed or indifferent to something because one has experienced or seen it so often before",
+                    "wordclass": "adjective",
+                    "Etymology": "French 'blasé' (pallid)",
+                    "answer": "blase"
+                    },
+                    
+                    {
+                    "audioSource": "french/saboteur.mp3",
+                    "meaning": "a person who engages in sabotage",
+                    "wordclass": "noun",
+                    "Etymology": "French 'saboter' (to make noise in clogs)",
+                    "answer": "saboteur"
+                    },
+                    
+                    {
+                    "audioSource": "french/dossier.mp3",
+                    "meaning": "a collection of documents about a particular person, event, or subject",
+                    "wordclass": "noun",
+                    "Etymology": "French 'dossier' (bundle of documents)",
+                    "answer": "dossier"
+                    },
+                    
+                    {
+                    "audioSource": "french/fete.mp3",
+                    "meaning": "a celebration or festival",
+                    "wordclass": "noun",
+                    "Etymology": "French 'fête' (feast)",
+                    "answer": "fete"
+                    },
+                    
+                    {
+                    "audioSource": "french/taupe.mp3",
+                    "meaning": "a grayish-brown mole that is native to Eurasia",
+                    "wordclass": "noun",
+                    "Etymology": "French 'taupe' (mole)",
+                    "answer": "taupe"
+                    },
+                    {
+                        "audioSource": "french/ingenue.mp3",
+                        "meaning": "an innocent or naive young woman",
+                        "wordclass": "noun",
+                        "Etymology": "French 'ingénu' (ingenuous, candid)",
+                        "answer": "ingenue"
+                    },
+                    {
+                        "audioSource": "french/poignant.mp3",
+                        "meaning": "evoking a keen sense of sadness or regret",
+                        "wordclass": "adjective",
+                        "Etymology": "French 'poindre' (to prick)",
+                        "answer": "poignant"
+                    },
+                    {
+                        "audioSource": "french/rendezvous.mp3",
+                        "meaning": "a meeting at an agreed time and place, typically between two people",
+                        "wordclass": "noun",
+                        "Etymology": "French 'rendez-vous' (present yourselves)",
+                        "answer": "rendezvous"
+                    },
+                    {
+                        "audioSource": "french/etouffee.mp3",
+                        "meaning": "a Cajun dish typically served over rice, containing shellfish, roux, and vegetables",
+                        "wordclass": "noun",
+                        "Etymology": "French 'étouffer' (to smother)",
+                        "answer": "etouffee"
+                    },
+                    {
+                        "audioSource": "french/musicale.mp3",
+                        "meaning": "a social gathering or concert featuring vocal or instrumental music",
+                        "wordclass": "noun",
+                        "Etymology": "French 'musical' (musical)",
+                        "answer": "musicale"
+                    },
+                    {
+                        "audioSource": "french/bouillabaisse.mp3",
+                        "meaning": "a traditional Provençal fish stew originating from the port city of Marseille",
+                        "wordclass": "noun",
+                        "Etymology": "French 'bouille-abaisse' (to boil and lower)",
+                        "answer": "bouillabaisse"
+                    },
+                    {
+                        "audioSource": "french/quiche.mp3",
+                        "meaning": "a savoury open pie filled with eggs, cream, and cheese, typically with added ingredients such as vegetables, meat, or seafood",
+                        "wordclass": "noun",
+                        "Etymology": "French 'kische' (cake)",
+                        "answer": "quiche"
+                    },
+                    {
+                        "audioSource": "french/boudoir.mp3",
+                        "meaning": "a woman's bedroom or private sitting room",
+                        "wordclass": "noun",
+                        "Etymology": "French 'boudoir' (pouting room)",
+                        "answer": "boudoir"
+                    },
+                    {
+                        "audioSource": "french/boutonniere.mp3",
+                        "meaning": "a flower or small bunch of flowers worn in a buttonhole",
+                        "wordclass": "noun",
+                        "Etymology": "French 'boutonnière' (buttonhole)",
+                        "answer": "boutonniere"
+                    },
+                    {
+                        "audioSource": "french/matinee.mp3",
+                        "meaning": "a performance of a play or a movie shown in the daytime",
+                        "wordclass": "noun",
+                        "Etymology": "French 'matinée' (morning performance)",
+                        "answer": "matinee"
+                    },
+                    {
+                        "audioSource": "french/eau de vie.mp3",
+                        "meaning": "a type of clear brandy made from fruit, especially cherries or plums, typically produced in France",
+                        "wordclass": "noun",
+                        "Etymology": "French 'water of life'",
+                        "answer": "eau de vie"
+                        },
+                        
+                        {
+                        "audioSource": "french/quiche lorraine.mp3",
+                        "meaning": "a savory tart made with a filling of eggs, cream, cheese, and bacon or ham, originating from the Lorraine region of France",
+                        "wordclass": "noun",
+                        "Etymology": "French 'Lorraine tart'",
+                        "answer": "quiche lorraine"
+                        },
+                        
+                        {
+                        "audioSource": "french/boulevard.mp3",
+                        "meaning": "a wide street in a town or city, typically one lined with trees",
+                        "wordclass": "noun",
+                        "Etymology": "French 'bulwark'",
+                        "answer": "boulevard"
+                        },
+                        
+                        {
+                        "audioSource": "french/boulder.mp3",
+                        "meaning": "a large rock, typically one that has been worn smooth by erosion",
+                        "wordclass": "noun",
+                        "Etymology": "from dialectal French 'boul(d)re' (mass of rock)",
+                        "answer": "boulder"
+                        },
+                        
+                        {
+                        "audioSource": "french/bouffant.mp3",
+                        "meaning": "hairstyle characterized by its puffed-out, rounded shape",
+                        "wordclass": "adjective",
+                        "Etymology": "French 'puffed'",
+                        "answer": "bouffant"
+                        },
+                        
+                        {
+                        "audioSource": "french/bourguignonne.mp3",
+                        "meaning": "a cooking style in which food is cooked with red wine, garlic, and onions, often with mushrooms or bacon added, in the style of Burgundy",
+                        "wordclass": "adjective",
+                        "Etymology": "French 'in the style of Burgundy'",
+                        "answer": "bourguignonne"
+                        },
+                        
+                        {
+                        "audioSource": "french/bourgeoisify.mp3",
+                        "meaning": "to make something more middle-class or conformist in attitudes and behavior",
+                        "wordclass": "verb",
+                        "Etymology": "French 'bourgeois'",
+                        "answer": "bourgeoisify"
+                        },
+                        
+                        {
+                        "audioSource": "french/bourdaloue.mp3",
+                        "meaning": "a type of pear-shaped chamber pot that was used by women in the 18th and 19th centuries",
+                        "wordclass": "noun",
+                        "Etymology": "named after Louis Bourdaloue, a French Jesuit priest who was known for giving long sermons",
+                        "answer": "bourdaloue"
+                        },
+                        
+                        {
+                        "audioSource": "french/bourdon.mp3",
+                        "meaning": "a type of large, low-pitched organ pipe",
+                        "wordclass": "noun",
+                        "Etymology": "French 'bumblebee'",
+                        "answer": "bourdon"
+                        },
+                        
+                        {
+                        "audioSource": "french/bourbon.mp3",
+                        "meaning": "a type of American whiskey that is distilled from corn and aged in oak barrels",
+                        "wordclass": "noun",
+                        "Etymology": "named after Bourbon County, Kentucky",
+                        "answer": "bourbon"
+                        },
+                        {
+                            "audioSource": "french/joie de vivre.mp3",
+                            "meaning": "exuberant enjoyment of life",
+                            "wordclass": "noun",
+                            "Etymology": "French 'joy of living'",
+                            "answer": "joie de vivre"
+                        },
+                        
+                        {
+                            "audioSource": "french/jeu desprit.mp3",
+                            "meaning": "a clever or witty remark or comment",
+                            "wordclass": "noun",
+                            "Etymology": "French 'play of the mind'",
+                            "answer": "jeu desprit"
+                        },
+                        
+                        {
+                            "audioSource": "french/malaise.mp3",
+                            "meaning": "a general feeling of discomfort, illness, or unease whose exact cause is difficult to identify",
+                            "wordclass": "noun",
+                            "Etymology": "French 'discomfort'",
+                            "answer": "malaise"
+                        },
+                        
+                        {
+                            "audioSource": "french/chef doeuvre.mp3",
+                            "meaning": "a masterpiece",
+                            "wordclass": "noun",
+                            "Etymology": "French 'masterpiece'",
+                            "answer": "chef doeuvre"
+                        },
+                        
+                        {
+                            "audioSource": "french/jeunesse doree.mp3",
+                            "meaning": "a wealthy and fashionable set of young people who indulge in a lavish lifestyle",
+                            "wordclass": "noun",
+                            "Etymology": "French 'gilded youth'",
+                            "answer": "jeunesse doree"
+                        },
+                        
+                        {
+                            "audioSource": "french/bougainvillea.mp3",
+                            "meaning": "a flowering plant with bright, showy bracts, native to South America and widely grown in warm climates",
+                            "wordclass": "noun",
+                            "Etymology": "named after Louis Antoine de Bougainville, French explorer",
+                            "answer": "bougainvillea"
+                        },
+                        
+                        {
+                            "audioSource": "french/doctrinaire.mp3",
+                            "meaning": "seeking to impose a doctrine in all circumstances without regard to practical considerations",
+                            "wordclass": "adjective",
+                            "Etymology": "French 'dogmatic'",
+                            "answer": "doctrinaire"
+                        },
+                        
+                        {
+                            "audioSource": "french/escargot.mp3",
+                            "meaning": "a snail, especially one prepared as an item of food",
+                            "wordclass": "noun",
+                            "Etymology": "French 'snail'",
+                            "answer": "escargot"
+                        },
+                        
+                        {
+                            "audioSource": "french/nougat.mp3",
+                            "meaning": "a sweet made from sugar or honey, nuts, and egg white",
+                            "wordclass": "noun",
+                            "Etymology": "French 'nougat'",
+                            "answer": "nougat"
+                        },
+                        
+                        {
+                            "audioSource": "french/rouge.mp3",
+                            "meaning": "a red or pink cosmetic for coloring the cheeks or lips",
+                            "wordclass": "noun",
+                            "Etymology": "French 'red'",
+                            "answer": "rouge"
+                        },
+                        {
+                            "audioSource": "french/rouge croix pursuivant.mp3",
+                            "meaning": "an officer in the Order of St. John of Jerusalem, an organization dedicated to providing medical care",
+                            "wordclass": "noun",
+                            "etymology": "French 'red cross pursuivant'",
+                            "answer": "rouge croix pursuivant"
+                            },
+                            {
+                            "audioSource": "french/idiotsavant.mp3",
+                            "meaning": "a person who is intellectually disabled but has exceptional abilities in a particular field",
+                            "wordclass": "noun",
+                            "etymology": "French 'knowledgeable idiot'",
+                            "answer": "idiot savant"
+                            },
+                            {
+                            "audioSource": "french/chignon.mp3",
+                            "meaning": "a hairstyle in which the hair is twisted into a knot or a bun at the back of the head",
+                            "wordclass": "noun",
+                            "etymology": "French 'nape of the neck'",
+                            "answer": "chignon"
+                            },
+                            {
+                            "audioSource": "french/bourbonnais.mp3",
+                            "meaning": "a native or inhabitant of Bourbonnais, a historic province in central France",
+                            "wordclass": "noun",
+                            "etymology": "From Old French 'Borbogneis'",
+                            "answer": "bourbonnais"
+                            },
+                            {
+                            "audioSource": "french/bouchee.mp3",
+                            "meaning": "a small savory pastry or appetizer",
+                            "wordclass": "noun",
+                            "etymology": "French 'mouthful'",
+                            "answer": "bouchee"
+                            },
+                            {
+                            "audioSource": "french/aperitif.mp3",
+                            "meaning": "an alcoholic drink taken before a meal to stimulate the appetite",
+                            "wordclass": "noun",
+                            "etymology": "French 'to open'",
+                            "answer": "aperitif"
+                            },
+                            {
+                            "audioSource": "french/avant garde.mp3",
+                            "meaning": "a group of artists or writers who are experimental and innovative in their work",
+                            "wordclass": "noun",
+                            "etymology": "French 'advance guard'",
+                            "answer": "avant garde"
+                            },
+                            {
+                            "audioSource": "french/baguette.mp3",
+                            "meaning": "a long, thin loaf of French bread",
+                            "wordclass": "noun",
+                            "etymology": "French 'wand'",
+                            "answer": "baguette"
+                            },
+                            {
+                            "audioSource": "french/cabaret.mp3",
+                            "meaning": "a nightclub or restaurant with entertainment, typically featuring singers, dancers, and comedians",
+                            "wordclass": "noun",
+                            "etymology": "French 'tavern'",
+                            "answer": "cabaret"
+                            },
+                            {
+                            "audioSource": "french/connoisseur.mp3",
+                            "meaning": "an expert in a particular subject, especially in matters of art or taste",
+                            "wordclass": "noun",
+                            "etymology": "French 'to know'",
+                            "answer": "connoisseur"
+                            },
+                            {
+                                "audioSource": "french/chamois.mp3",
+                                "meaning": "a small, goat-like antelope native to the mountains of Europe",
+                                "wordclass": "noun",
+                                "Etymology": "French 'chamois' from Latin 'camox'",
+                                "answer": "chamois"
+                                },
+                                {
+                                "audioSource": "french/chic.mp3",
+                                "meaning": "stylishness and elegance, typically of a specified kind",
+                                "wordclass": "noun",
+                                "Etymology": "French 'elegance'",
+                                "answer": "chic"
+                                },
+                                {
+                                "audioSource": "french/cul de sac.mp3",
+                                "meaning": "a street or passage closed at one end",
+                                "wordclass": "noun",
+                                "Etymology": "French 'bottom of the bag'",
+                                "answer": "cul de sac"
+                                },
+                                {
+                                "audioSource": "french/coup de foudre.mp3",
+                                "meaning": "love at first sight",
+                                "wordclass": "noun",
+                                "Etymology": "French 'thunderbolt'",
+                                "answer": "coup de foudre"
+                                },
+                                {
+                                "audioSource": "french/coup de grace.mp3",
+                                "meaning": "a final blow or shot given to kill a wounded person or animal",
+                                "wordclass": "noun",
+                                "Etymology": "French 'stroke of mercy'",
+                                "answer": "coup de grace"
+                                },
+                                {
+                                "audioSource": "french/coup de main.mp3",
+                                "meaning": "a sudden and vigorous assistance, typically in doing manual labor",
+                                "wordclass": "noun",
+                                "Etymology": "French 'stroke of the hand'",
+                                "answer": "coup de main"
+                                },
+                                {
+                                "audioSource": "french/coup doeil.mp3",
+                                "meaning": "a quick glance",
+                                "wordclass": "noun",
+                                "Etymology": "French 'stroke of the eye'",
+                                "answer": "coup d oeil"
+                                },
+                                {
+                                "audioSource": "french/coup detat.mp3",
+                                "meaning": "a sudden and illegal seizure of power from a government",
+                                "wordclass": "noun",
+                                "Etymology": "French 'stroke of state'",
+                                "answer": "coup detat"
+                                },
+                                {
+                                "audioSource": "french/coup de theatre.mp3",
+                                "meaning": "a sudden and unexpected event that creates a dramatic effect",
+                                "wordclass": "noun",
+                                "Etymology": "French 'stroke of the theater'",
+                                "answer": "coup de theatre"
+                                },
+                                {
+                                "audioSource": "french/coupe.mp3",
+                                "meaning": "a shallow dish or bowl, typically with a rounded or lobed rim, used for serving food",
+                                "wordclass": "noun",
+                                "Etymology": "French 'cup'",
+                                "answer": "coupe"
+                                },
+                                {
+                                "audioSource": "french/eau de toilette.mp3",
+                                "meaning": "a lightly scented cologne used as a skin freshener",
+                                "wordclass": "noun",
+                                "Etymology": "French 'toilet water'",
+                                "answer": "eau de toilette"
+                                },
+                                {
+                                    "audioSource": "french/facade.mp3",
+                                    "meaning": "the front of a building, especially an imposing or decorative one",
+                                    "wordclass": "noun",
+                                    "Etymology": "French, from Italian 'facciata', from faccia 'face'",
+                                    "answer": "facade"
+                                    },
+                                    {
+                                    "audioSource": "french/faux.mp3",
+                                    "meaning": "not genuine; fake or false",
+                                    "wordclass": "adjective",
+                                    "Etymology": "French 'false'",
+                                    "answer": "faux"
+                                    },
+                                    {
+                                    "audioSource": "french/faux pas.mp3",
+                                    "meaning": "an embarrassing or tactless act or remark in a social situation",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'false step'",
+                                    "answer": "faux pas"
+                                    },
+                                    {
+                                    "audioSource": "french/faux naif.mp3",
+                                    "meaning": "appearing or trying to be innocent or naive while being experienced or knowing",
+                                    "wordclass": "adjective",
+                                    "Etymology": "French 'false naive'",
+                                    "answer": "faux naif"
+                                    },
+                                    {
+                                    "audioSource": "french/faux ami.mp3",
+                                    "meaning": "a false friend; a word in a foreign language that is similar in form to one in another language but has a different meaning",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'false friend'",
+                                    "answer": "faux ami"
+                                    },
+                                    {
+                                    "audioSource": "french/fauve.mp3",
+                                    "meaning": "having the color or intensity of a wild animal's fur; a style of painting characterized by vivid colors and loose brushwork",
+                                    "wordclass": "adjective, noun",
+                                    "Etymology": "French 'wild beast'",
+                                    "answer": "fauve"
+                                    },
+                                    {
+                                    "audioSource": "french/fauteuil.mp3",
+                                    "meaning": "an upholstered armchair, especially one with open sides and a low back",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'armchair', from faute 'fault' + -uil diminutive suffix",
+                                    "answer": "fauteuil"
+                                    },
+                                    {
+                                    "audioSource": "french/faute de mieux.mp3",
+                                    "meaning": "making the best of a bad situation",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'fault of better'",
+                                    "answer": "faute de mieux"
+                                    },
+                                    {
+                                    "audioSource": "french/gateau.mp3",
+                                    "meaning": "a sweet, baked dish typically made with flour, sugar, and eggs",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'cake'",
+                                    "answer": "gateau"
+                                    },
+                                    {
+                                    "audioSource": "french/bureaucracy.mp3",
+                                    "meaning": "a system of government in which most of the important decisions are made by state officials rather than by elected representatives",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'bureau'",
+                                    "answer": "bureaucracy"
+                                    },
+                                    {
+                                        "audioSource": "french/lacrosse.mp3",
+                                        "meaning": "a team game in which a small rubber ball is thrown, caught, and carried with a long-handled stick having a curved L-shaped or triangular frame at one end with a piece of shallow netting in the angle",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'the crosier or shepherd's crook'",
+                                        "answer": "lacrosse"
+                                        },
+                                        {
+                                        "audioSource": "french/chemise.mp3",
+                                        "meaning": "a woman's loose-fitting shirt",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'shirt'",
+                                        "answer": "chemise"
+                                        },
+                                        {
+                                        "audioSource": "french/epaulette.mp3",
+                                        "meaning": "a decorative shoulder piece worn on uniforms, typically by military personnel",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'little shoulder'",
+                                        "answer": "epaulette"
+                                        },
+                                        {
+                                        "audioSource": "french/musketeer.mp3",
+                                        "meaning": "a soldier armed with a musket",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'a person armed with a musket'",
+                                        "answer": "musketeer"
+                                        },
+                                        {
+                                        "audioSource": "french/parasol.mp3",
+                                        "meaning": "a light umbrella used to give shade from the sun",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'for sun (soleil) and protection (protection)'",
+                                        "answer": "parasol"
+                                        },
+                                        {
+                                        "audioSource": "french/pirouette.mp3",
+                                        "meaning": "a whirling or spinning movement, especially in ballet",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'a spinning top'",
+                                        "answer": "pirouette"
+                                        },
+                                        {
+                                        "audioSource": "french/ricochet.mp3",
+                                        "meaning": "a bullet or other projectile rebounding off a surface",
+                                        "wordclass": "noun",
+                                        "etymology": "French 'the skipping of a stone on water'",
+                                        "answer": "ricochet"
+                                        },
+                                        {
+                                        "audioSource": "french/risque.mp3",
+                                        "meaning": "slightly indecent or liable to shock, especially by being sexually suggestive",
+                                        "wordclass": "adjective",
+                                        "etymology": "French 'risky'",
+                                        "answer": "risque"
+                                        },
+                                        {
+                                        "audioSource": "french/brusque.mp3",
+                                        "meaning": "blunt in manner or speech often to the point of ungracious harshness",
+                                        "wordclass": "adjective",
+                                        "etymology": "French 'brusk, lively'",
+                                        "answer": "brusque"
+                                        },
+                                        {
+                                        "audioSource": "french/versailles.mp3",
+                                        "meaning": "a city in north central France near Paris, the site of the palace of Versailles built by Louis XIV in the 17th century",
+                                        "wordclass": "proper noun",
+                                        "etymology": "French 'for Versailles (a city in north-central France)'",
+                                        "answer": "Versailles"
+                                        },
+                                        {
+                                            "audioSource": "french/vinaigrette.mp3",
+                                            "meaning": "a salad dressing made of oil, vinegar, and seasonings",
+                                            "wordclass": "noun",
+                                            "Etymology": "French, diminutive of 'vinaigre' (vinegar)",
+                                            "answer": "vinaigrette"
+                                            },
+                                            {
+                                            "audioSource": "french/suave.mp3",
+                                            "meaning": "charming, confident, and elegant",
+                                            "wordclass": "adjective",
+                                            "Etymology": "French 'sweet'",
+                                            "answer": "suave"
+                                            },
+                                            {
+                                            "audioSource": "french/zouave.mp3",
+                                            "meaning": "a member of a French colonial infantry regiment composed of Algerian recruits that served between 1830 and 1962",
+                                            "wordclass": "noun",
+                                            "Etymology": "French, from Zouaoua, the Berber tribe which provided soldiers for this unit",
+                                            "answer": "zouave"
+                                            },
+                                            {
+                                            "audioSource": "french/soave.mp3",
+                                            "meaning": "a white wine from the Soave region in Veneto, Italy",
+                                            "wordclass": "noun",
+                                            "Etymology": "French, from the Italian 'suave'",
+                                            "answer": "soave"
+                                            },
+                                            {
+                                            "audioSource": "french/motif.mp3",
+                                            "meaning": "a decorative design or pattern",
+                                            "wordclass": "noun",
+                                            "Etymology": "French, from the Old French 'motif' (motive)",
+                                            "answer": "motif"
+                                            },
+                                            {
+                                                "audioSource": "french/barrage.mp3",
+                                                "meaning": "a barrier or dam constructed to hold back water",
+                                                "wordclass": "noun",
+                                                "Etymology": "French, from the Old French 'barrer' (to bar)",
+                                                "answer": "barrage"
+                                                },
+                                                {
+                                                "audioSource": "french/clementine.mp3",
+                                                "meaning": "a small, sweet citrus fruit",
+                                                "wordclass": "noun",
+                                                "Etymology": "French, from the name 'Clément'",
+                                                "answer": "clementine"
+                                                },
+                                                {
+                                                "audioSource": "french/faux fur.mp3",
+                                                "meaning": "a material made to look like fur but using synthetic materials instead of animal hide",
+                                                "wordclass": "noun",
+                                                "Etymology": "French, from 'faux' (false) and 'fourrure' (fur)",
+                                                "answer": "faux fur"
+                                                },
+                                                {
+                                                "audioSource": "french/faux bourdon.mp3",
+                                                "meaning": "a medieval music technique where a single voice sings a sustained tone while another voice sings a melody above it",
+                                                "wordclass": "noun",
+                                                "Etymology": "French, from 'faux' (false) and 'bourdon' (drone)",
+                                                "answer": "faux bourdon"
+                                                },
+                                                {
+                                                    "audioSource": "french/eclair.mp3",
+                                                    "meaning": "a small, oblong pastry filled with cream and topped with icing",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "French 'flash of lightning'",
+                                                    "answer": "eclair"
+                                                    }
+                                                
+
+                                    
+    ]
+}

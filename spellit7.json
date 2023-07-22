@@ -1,0 +1,789 @@
+{
+    "words":[
+        {
+            "word": "rescindable",
+            "audioSource": "spellit7/rescindable.mp3",
+            "meaning": "capable of being rescinded",
+            "wordclass": "adjective",
+            "etymology": "from Latin rescindere 'to cut back' + -able",
+            "answer": "rescindable"
+          },
+          {
+            "word": "reticence",
+            "audioSource": "spellit7/reticence.mp3",
+            "meaning": "the state or quality of being reluctant to say or do something",
+            "wordclass": "noun",
+            "etymology": "Middle English, from Old French reticence, from Latin reticentia, from reticens, reticent- 'reluctant to speak'",
+            "answer": "reticence"
+          },
+          {
+            "word": "retinue",
+            "audioSource": "spellit7/retinue.mp3",
+            "meaning": "a group of people who follow or accompany someone important",
+            "wordclass": "noun",
+            "etymology": "Middle English, from Old French retinue, from Latin retinere 'to hold back'",
+            "answer": "retinue"
+          },
+          {
+            "word": "revering",
+            "audioSource": "spellit7/revering.mp3",
+            "meaning": "showing great respect for someone or something",
+            "wordclass": "verb",
+            "etymology": "from Middle English revering, from Old French reverer, from Latin revereri 'to regard with respect'",
+            "answer": "revering"
+          },
+          {
+            "word": "ribald",
+            "audioSource": "spellit7/ribald.mp3",
+            "meaning": "obscene or vulgar in a humorous way",
+            "wordclass": "adjective",
+            "etymology": "from Middle English, from Old French ribaud, from Latinribaldus 'dissolute, dissolute fellow'",
+            "answer": "ribald"
+          },
+          {
+            "word": "ribaldry",
+            "audioSource": "spellit7/ribaldry.mp3",
+            "meaning": "obscene or vulgar humor",
+            "wordclass": "noun",
+            "etymology": "from Middle English ribaldry, from Old French ribaudie, from ribaud 'ribald'",
+            "answer": "ribaldry"
+          },
+          {
+            "word": "riddance",
+            "audioSource": "spellit7/riddance.mp3",
+            "meaning": "the state of being free from something unpleasant or unwanted",
+            "wordclass": "noun",
+            "etymology": "Middle English, from Old French riddance, from the verb riddancer 'to free'",
+            "answer": "riddance"
+          },
+          {
+            "word": "rigmarole",
+            "audioSource": "spellit7/rigmarole.mp3",
+            "meaning": "a long, complicated, and often nonsensical speech or piece of writing",
+            "wordclass": "noun",
+            "etymology": "from Middle English rigmarole, from Old French rigmarole, rigmarole, from rigamorner 'to sing a nonsensical song'",
+            "answer": "rigmarole"
+          },
+          {
+            "word": "risible",
+            "audioSource": "spellit7/risible.mp3",
+            "meaning": "causing laughter or amusement",
+            "wordclass": "adjective",
+            "etymology": "from Middle English, from Old French risible, from Latin risibilis, from ridere 'to laugh'",
+            "answer": "risible"
+          },
+          {
+            "word": "rondo",
+            "audioSource": "spellit7/rondo.mp3",
+            "meaning": "a musical form consisting of a recurring theme with contrasting sections",
+            "wordclass": "noun",
+            "etymology": "Italian, from Old Provençal rondel, from rond 'round'",
+            "answer": "rondo"
+          },
+          
+   { "word": "seance",
+    "audioSource": "spellit7/seance.mp3",
+    "meaning": "a meeting or gathering of people who attempt to communicate with the spirits of the dead",
+    "wordclass": "noun",
+    "etymology": "French séance, from seoir 'to sit'",
+    "answer": "seance"
+  },
+  {
+    "word": "sebaceous",
+    "audioSource": "spellit7/sebaceous.mp3",
+    "meaning": "relating to or secreting sebum",
+    "wordclass": "adjective",
+    "etymology": "from Latin sebum 'tallow' + -ous",
+    "answer": "sebaceous"
+  },
+  {
+    "word": "seditious",
+    "audioSource": "spellit7/seditious.mp3",
+    "meaning": "tending to incite rebellion or political disorder",
+    "wordclass": "adjective",
+    "etymology": "from Latin seditio 'rebellion'",
+    "answer": "seditious"
+  },
+  {
+    "word": "seethe",
+    "audioSource": "spellit7/seethe.mp3",
+    "meaning": "to be in a state of violent agitation or excitement",
+    "wordclass": "verb",
+    "etymology": "Old English seothan 'to boil'",
+    "answer": "seethe"
+  },
+  {
+    "word": "seigniorage",
+    "audioSource": "spellit7/seigniorage.mp3",
+    "meaning": "the profit made by a government by issuing currency",
+    "wordclass": "noun",
+    "etymology": "from Old French seignorie, from seigneur 'lord'",
+    "answer": "seigniorage"
+  },
+  {
+    "word": "seignioralty",
+    "audioSource": "spellit7/seignioralty.mp3",
+    "meaning": "the authority or jurisdiction of a seignior",
+    "wordclass": "noun",
+    "etymology": "from Old French seigneurie, from seigneur 'lord'",
+    "answer": "seignioralty"
+  },
+  {
+    "word": "semblance",
+    "audioSource": "spellit7/semblance.mp3",
+    "meaning": "the outward appearance or show of something, especially when it is deceptive",
+    "wordclass": "noun",
+    "etymology": "from Old French semblance, from semblant 'seeming'",
+    "answer": "semblance"
+  },
+  {
+    "word": "separable",
+    "audioSource": "spellit7/separable.mp3",
+    "meaning": "able to be separated or divided",
+    "wordclass": "adjective",
+    "etymology": "from Latin separabilis, from separare 'to separate'",
+    "answer": "separable"
+  },
+  {
+    "word": "separatist",
+    "audioSource": "spellit7/separatist.mp3",
+    "meaning": "a person who advocates or promotes the separation of a particular group or area from a larger political or religious unit",
+    "wordclass": "noun",
+    "etymology": "from Latin separatus, past participle of separare 'to separate'",
+    "answer": "separatist"
+  },
+  {
+    "word": "sepulcher",
+    "audioSource": "spellit7/sepulcher.mp3",
+    "meaning": "AME: a tomb or burial place",
+    "wordclass": "noun",
+    "etymology": "from Latin sepulcrum",
+    "answer": "sepulcher"
+  },
+  {
+    "word": "sequacious",
+    "audioSource": "spellit7/sequacious.mp3",
+    "meaning": "following or complying with someone or something closely",
+    "wordclass": "adjective",
+    "etymology": "from Latin sequi 'to follow'",
+    "answer": "sequacious"
+  },
+  {
+    "word": "sequester",
+    "audioSource": "spellit7/sequester.mp3",
+    "meaning": "to set apart or isolate for a special purpose",
+    "wordclass": "verb",
+    "etymology": "from Latin sequester 'one who keeps something in trust'",
+    "answer": "sequester"
+  },
+  {
+    "word": "sequestrate",
+    "audioSource": "spellit7/sequestrate.mp3",
+    "meaning": "to seize and hold (property) by legal authority",
+    "wordclass": "verb",
+    "etymology": "from Latin sequester",
+    "answer": "sequestrate"
+  },
+  {
+    "word": "severance",
+    "audioSource": "spellit7/severance.mp3",
+    "meaning": "the act of cutting something off or apart",
+    "wordclass": "noun",
+    "etymology": "from Latin severus 'grave, serious'",
+    "answer": "severance"
+  },
+  {
+    "word": "sibilate",
+    "audioSource": "spellit7/sibilate.mp3",
+    "meaning": "to make or produce a hissing sound",
+    "wordclass": "verb",
+    "etymology": "from Latin sibilare 'to hiss'",
+    "answer": "sibilate"
+  },
+  {
+    "word": "siege",
+    "audioSource": "spellit7/siege.mp3",
+    "meaning": "the surrounding of a place by an armed force with the intent of capturing it",
+    "wordclass": "noun",
+    "etymology": "from Old French siege 'seat, throne'",
+    "answer": "siege"
+  },
+  {
+    "word": "sinecure",
+    "audioSource": "spellit7/sinecure.mp3",
+    "meaning": "a position that requires little or no work but carries a high salary",
+    "wordclass": "noun",
+    "etymology": "from Latin sine cura 'without care'",
+    "answer": "sinecure"
+  },
+  {
+    "word": "singe",
+    "audioSource": "spellit7/singe.mp3",
+    "meaning": "to burn slightly",
+    "wordclass": "verb",
+    "etymology": "from Old French singer 'to singe'",
+    "answer": "singe"
+  },
+  {
+    "word": "sinus",
+    "audioSource": "spellit7/sinus.mp3",
+    "meaning": "a cavity or hollow place, especially in a bone",
+    "wordclass": "noun",
+    "etymology": "from Latin sinus 'curve, hollow'",
+    "answer": "sinus"
+  },
+  {
+    "word": "sirocco",
+    "audioSource": "spellit7/sirocco.mp3",
+    "meaning": "a hot, dry wind that blows from the Sahara Desert",
+    "wordclass": "noun",
+    "etymology": "from Italian scirocco, from Arabic sharqiyy 'eastern'",
+    "answer": "sirocco"
+  },
+  {
+    "word": "skiff",
+    "audioSource": "spellit7/skiff.mp3",
+    "meaning": "a small, light boat",
+    "wordclass": "noun",
+    "etymology": "from Middle Dutch skif",
+    "answer": "skiff"
+  },
+  {
+    "word": "skiffle",
+    "audioSource": "spellit7/skiffle.mp3",
+    "meaning": "a type of folk music that originated in the United Kingdom in the 1920s",
+    "wordclass": "noun",
+    "etymology": "from Scottish skiffling 'to fiddle'",
+    "answer": "skiffle"
+  },
+  {
+    "word": "sleigh",
+    "audioSource": "spellit7/sleigh.mp3",
+    "meaning": "a long, narrow vehicle with runners, typically pulled by horses, used for traveling over snow",
+    "wordclass": "noun",
+    "etymology": "from Old Norse sleða",
+    "answer": "sleigh"
+  },
+  {
+    "word": "solecism",
+    "audioSource": "spellit7/solecism.mp3",
+    "meaning": "a grammatical or syntactical error",
+    "wordclass": "noun",
+    "etymology": "from Greek solecismos 'mistake in grammar'",
+    "answer": "solecism"
+  },
+  {
+    "word": "somniferous",
+    "audioSource": "spellit7/somniferous.mp3",
+    "meaning": "causing sleep",
+    "wordclass": "adjective",
+    "etymology": "from Latin somnifer 'sleep-bringing'",
+    "answer": "somniferous"
+  },
+  {
+    "word": "somnolence",
+    "audioSource": "spellit7/somnolence.mp3",
+    "meaning": "sleepiness",
+    "wordclass": "noun",
+    "etymology": "from Latin somnolentia",
+    "answer": "somnolence"
+  },
+  {
+    "word": "sonata",
+    "audioSource": "spellit7/sonata.mp3",
+    "meaning": "a piece of instrumental music in three or four movements",
+    "wordclass": "noun",
+    "etymology": "from Italian sonata, from sonare 'to sound'",
+    "answer": "sonata"
+  },
+  {
+    "word": "spherometer",
+    "audioSource": "spellit7/spherometer.mp3",
+    "meaning": "an instrument for measuring the curvature of a surface",
+    "wordclass": "noun",
+    "etymology": "from Greek sphaira 'sphere' + -meter",
+    "answer": "spherometer"
+  },
+  {
+    "word": "spinous",
+    "audioSource": "spellit7/spinous.mp3",
+    "meaning": "having spines or thorns",
+    "wordclass": "adjective",
+    "etymology": "from Latin spinosus, from spina 'thorn'",
+    "answer": "spinous"
+  },
+  {
+    "word": "squatter",
+    "audioSource": "spellit7/squatter.mp3",
+    "meaning": "a person who occupies land without the owner's permission",
+    "wordclass": "noun",
+    "etymology": "from Middle English squatten 'to sit or crouch'",
+    "answer": "squatter"
+  },
+  {
+    "word": "stanchion",
+    "audioSource": "spellit7/stanchion.mp3",
+    "meaning": "a stout post or upright used to support something",
+    "wordclass": "noun",
+    "etymology": "from Old French estançon 'support'",
+    "answer": "stanchion"
+  },
+  {
+    "word": "statuesque",
+    "audioSource": "spellit7/statuesque.mp3",
+    "meaning": "having the beauty or dignity of a statue",
+    "wordclass": "adjective",
+    "etymology": "from Italian statuario, from statua 'statue'",
+    "answer": "statuesque"
+  },
+  {
+    "word": "stealth",
+    "audioSource": "spellit7/stealth.mp3",
+    "meaning": "the ability to move or operate in a way that is undetected",
+    "wordclass": "noun",
+    "etymology": "from Old English stealh 'to steal'",
+    "answer": "stealth"
+  },
+  {
+    "word": "steppe",
+    "audioSource": "spellit7/steppe.mp3",
+    "meaning": "a vast, treeless plain",
+    "wordclass": "noun",
+    "etymology": "from Russian step'",
+    "answer": "steppe"
+  },
+  {
+    "word": "stiletto",
+    "audioSource": "spellit7/stiletto.mp3",
+    "meaning": "a long, thin dagger with a pointed blade",
+    "wordclass": "noun",
+    "etymology": "from Italian stiletto, from stilo 'pointed instrument'",
+    "answer": "stiletto"
+  },
+  {
+    "word": "stripling",
+    "audioSource": "spellit7/stripling.mp3",
+    "meaning": "a young man",
+    "wordclass": "noun",
+    "etymology": "from Middle English stripling, from stripen 'to strip'",
+    "answer": "stripling"
+  },
+  {
+    "word": "suasion",
+    "audioSource": "spellit7/suasion.mp3",
+    "meaning": "the act of persuading someone to do something",
+    "wordclass": "noun",
+    "etymology": "from Latin suadere 'to advise, persuade'",
+    "answer": "suasion"
+  },
+  {
+    "word": "subjacent",
+    "audioSource": "spellit7/subjacent.mp3",
+    "meaning": "lying beneath or below something",
+    "wordclass": "adjective",
+    "etymology": "from Latin subjacentem, from sub- 'under' + jacere 'to lie'",
+    "answer": "subjacent"
+  },
+  {
+    "word": "submersible",
+    "audioSource": "spellit7/submersible.mp3",
+    "meaning": "able to be submerged underwater",
+    "wordclass": "adjective",
+    "etymology": "from Latin submergere 'to plunge under water'",
+    "answer": "submersible"
+  },
+  {
+    "word": "submittal",
+    "audioSource": "spellit7/submittal.mp3",
+    "meaning": "the act of submitting to someone or something",
+    "wordclass": "noun",
+    "etymology": "from Middle English submitten, from Old French soumettre",
+    "answer": "submittal"
+  },
+  {
+    "word": "subterranean",
+    "audioSource": "spellit7/subterranean.mp3",
+    "meaning": "situated or occurring beneath the surface of the earth",
+    "wordclass": "adjective",
+    "etymology": "from Latin subterraneus, from sub- 'under' + terra 'earth'",
+    "answer": "subterranean"
+  },
+  {
+    "word": "sufferance",
+    "audioSource": "spellit7/sufferance.mp3",
+    "meaning": "permission or tolerance",
+    "wordclass": "noun",
+    "etymology": "from Middle English sufferance, from Old French sufferance",
+    "answer": "sufferance"
+  },
+  {
+    "word": "sufficiency",
+    "audioSource": "spellit7/sufficiency.mp3",
+    "meaning": "the state of being sufficient",
+    "wordclass": "noun",
+    "etymology": "from Latin sufficientia, from sufficiens, sufficient- 'sufficient'",
+    "answer": "sufficiency"
+  },
+  
+  {
+    "word": "suffrage",
+    "audioSource": "spellit7/suffrage.mp3",
+    "meaning": "the right to vote",
+    "wordclass": "noun",
+    "etymology": "from Latin suffragium 'vote'",
+    "answer": "suffrage"
+  },
+  {
+    "word": "suffragette",
+    "audioSource": "spellit7/suffragette.mp3",
+    "meaning": "a woman who campaigned for women's suffrage",
+    "wordclass": "noun",
+    "etymology": "from suffrage + -ette",
+    "answer": "suffragette"
+  },
+  {
+    "word": "superannuate",
+    "audioSource": "spellit7/superannuate.mp3",
+    "meaning": "to retire from work because of old age",
+    "wordclass": "verb",
+    "etymology": "from Latin superannuatus, past participle of superannuare 'to pass one's year'",
+    "answer": "superannuate"
+  },
+  {
+    "word": "supernumerary",
+    "audioSource": "spellit7/supernumerary.mp3",
+    "meaning": "an extra person or thing",
+    "wordclass": "noun",
+    "etymology": "from Latin supernumerarius, from super- 'above' + numerus 'number'",
+    "answer": "supernumerary"
+  },
+  {
+    "word": "supplant",
+    "audioSource": "spellit7/supplant.mp3",
+    "meaning": "to take the place of someone or something else",
+    "wordclass": "verb",
+    "etymology": "from Latin supplantare 'to trip up'",
+    "answer": "supplant"
+  },
+  {
+    "word": "supramundane",
+    "audioSource": "spellit7/supramundane.mp3",
+    "meaning": "relating to or existing in a world beyond the material world",
+    "wordclass": "adjective",
+    "etymology": "from Latin supra 'above' + mundus 'world'",
+    "answer": "supramundane"
+  },
+  {
+    "word": "sylph",
+    "audioSource": "spellit7/sylph.mp3",
+    "meaning": "a slender, graceful fairy",
+    "wordclass": "noun",
+    "etymology": "from Greek sylphē 'breeze'",
+    "answer": "sylph"
+  },
+  {
+    "word": "syneresis",
+    "audioSource": "spellit7/syneresis.mp3",
+    "meaning": "the contraction of two vowels into one",
+    "wordclass": "noun",
+    "etymology": "from Greek synairesis 'contraction'",
+    "answer": "syneresis"
+  },
+  {
+    "word": "tangency",
+    "audioSource": "spellit7/tangency.mp3",
+    "meaning": "the point at which two circles or curves touch",
+    "wordclass": "noun",
+    "etymology": "from Latin tangere 'to touch'",
+    "answer": "tangency"
+  },
+  {
+    "word": "tannery",
+    "audioSource": "spellit7/tannery.mp3",
+    "meaning": "a place where leather is made",
+    "wordclass": "noun",
+    "etymology": "from Old French tannerie, from tanner 'to tan'",
+    "answer": "tannery"
+  },
+  {
+    "word": "tapestry",
+    "audioSource": "spellit7/tapestry.mp3",
+    "meaning": "a heavy fabric with a design woven into it",
+    "wordclass": "noun",
+    "etymology": "from Old French tapisserie, from tapis 'carpet'",
+    "answer": "tapestry"
+  },
+  {
+    "word": "taut",
+    "audioSource": "spellit7/taut.mp3",
+    "meaning": "firmly stretched or drawn",
+    "wordclass": "adjective",
+    "etymology": "from Old English tæt 'tight'",
+    "answer": "taut"
+  },
+  {
+    "word": "tautaug",
+    "audioSource": "spellit7/tautaug.mp3",
+    "meaning": "a large, powerful seal",
+    "wordclass": "noun",
+    "etymology": "from Algonquian",
+    "answer": "tautaug"
+  },
+  {
+    "word": "taxidermy",
+    "audioSource": "spellit7/taxidermy.mp3",
+    "meaning": "the art of preserving animal skins and mounting them as specimens",
+    "wordclass": "noun",
+    "etymology": "from Greek taxis 'arrangement' + derma 'skin'",
+    "answer": "taxidermy"
+  },
+  {
+    "word": "teem",
+    "audioSource": "spellit7/teem.mp3",
+    "meaning": "to be full of or abound in",
+    "wordclass": "verb",
+    "etymology": "from Old English tēman 'to bring forth young'",
+    "answer": "teem"
+  },
+  {
+    "word": "tercentenary",
+    "audioSource": "spellit7/tercentenary.mp3",
+    "meaning": "the 300th anniversary of an event",
+    "wordclass": "noun",
+    "etymology": "from Latin tercentenary, from ter centum 'three hundred'",
+    "answer": "tercentenary"
+  },
+  {
+    "word": "termagant",
+    "audioSource": "spellit7/termagant.mp3",
+    "meaning": "a violent, scolding woman",
+    "wordclass": "noun",
+    "etymology": "from Turkish termagant",
+    "answer": "termagant"
+  },
+  {
+    "word": "terra incognita",
+    "audioSource": "spellit7/terra incognita.mp3",
+    "meaning": "a land that is unknown or unexplored",
+    "wordclass": "noun",
+    "etymology": "Latin, from terra 'land' + incognita 'unknown'",
+    "answer": "terra incognita"
+  },
+  {
+    "word": "thoroughbred",
+    "audioSource": "spellit7/thoroughbred.mp3",
+    "meaning": "a horse of pure breed",
+    "wordclass": "noun",
+    "etymology": "from Old English þorfroden, from þorf 'need' + hridd 'heart'",
+    "answer": "thoroughbred"
+  },
+  {
+    "word": "thrall",
+    "audioSource": "spellit7/thrall.mp3",
+    "meaning": "a slave or serf",
+    "wordclass": "noun",
+    "etymology": "from Old English þræl",
+    "answer": "thrall"
+  },
+  {
+    "word": "tilth",
+    "audioSource": "spellit7/tilth.mp3",
+    "meaning": "the state of being tilled",
+    "wordclass": "noun",
+    "etymology": "from Old English tilth 'tilling'",
+    "answer": "tilth"
+  },
+  {
+    "word": "tinge",
+    "audioSource": "spellit7/tinge.mp3",
+    "meaning": "a slight trace or amount of something",
+    "wordclass": "noun",
+    "etymology": "from Old French tinger 'to dye'",
+    "answer": "tinge"
+  },
+  {
+    "word": "transferrers",
+    "audioSource": "spellit7/transferrers.mp3",
+    "meaning": "people who transfer something",
+    "wordclass": "noun",
+    "etymology": "",
+    "answer":"transferrers"
+  },
+  {
+    "word": "translucence",
+    "audioSource": "spellit7/translucence.mp3",
+    "meaning": "the quality of being translucent",
+    "wordclass": "noun",
+    "etymology": "from Latin translucens, translucent- 'shining through'",
+    "answer": "translucence"
+  },
+  {
+    "word": "transmeate",
+    "audioSource": "spellit7/transmeate.mp3",
+    "meaning": "to pass or spread through something",
+    "wordclass": "verb",
+    "etymology": "from Latin transmeare 'to pass through'",
+    "answer": "transmeate"
+  },
+  {
+    "word": "triumvir",
+    "audioSource": "spellit7/triumvir.mp3",
+    "meaning": "one of three men sharing power",
+    "wordclass": "noun",
+    "etymology": "from Latin triumvir, from trium 'three' + vir 'man'",
+    "answer": "triumvir"
+  },
+  {
+    "word": "truculence",
+    "audioSource": "spellit7/truculence.mp3",
+    "meaning": "aggressiveness or violence",
+    "wordclass": "noun",
+    "etymology": "from Latin truculentus 'fierce, cruel'",
+    "answer": "truculence"
+  },
+  {
+    "word": "tutelage",
+    "audioSource": "spellit7/tutelage.mp3",
+    "meaning": "the state of being under the guidance or protection of someone",
+    "wordclass": "noun",
+    "etymology": "from Old French tutelle, from Latin tutela 'guardianship'",
+    "answer": "tutelage"
+  },
+  {
+    "word": "tutelar",
+    "audioSource": "spellit7/tutelar.mp3",
+    "meaning": "providing protection or guidance",
+    "wordclass": "adjective",
+    "etymology": "from Latin tutelaris, from tutela 'guardianship'",
+    "answer": "tutelar"
+  },
+  {
+    "word": "tutelar",
+    "audioSource": "spellit7/tutelar.mp3",
+    "meaning": "a guardian spirit",
+    "wordclass": "noun",
+    "etymology": "from Latin tutelaris, from tutela 'guardianship'",
+    "answer": "tutelar"
+  },
+  {
+    "word": "twinge",
+    "audioSource": "spellit7/twinge.mp3",
+    "meaning": "a sudden sharp pain",
+    "wordclass": "noun",
+    "etymology": "from Old English twincian 'to twitch'",
+    "answer": "twinge"
+  },
+  {
+    "word": "tyro",
+    "audioSource": "spellit7/tyro.mp3",
+    "meaning": "a beginner or novice",
+    "wordclass": "noun",
+    "etymology": "from Latin tiro 'recruit'",
+    "answer": "tyro"
+  },
+  {
+    "word": "ultramontane",
+    "audioSource": "spellit7/ultramontane.mp3",
+    "meaning": "of or relating to the pope or the Roman Catholic Church",
+    "wordclass": "adjective",
+    "etymology": "from Latin ultramontanus 'beyond the mountains'",
+    "answer": "ultramontane"
+  },
+  {
+    "word": "univalence",
+    "audioSource": "spellit7/univalence.mp3",
+    "meaning": "the property of having only one possible value",
+    "wordclass": "noun",
+    "etymology": "from Latin uni- 'one' + valens, valentia 'strong, powerful'",
+    "answer": "univalence"
+  },
+  {
+    "word": "urchin",
+    "audioSource": "spellit7/urchin.mp3",
+    "meaning": "a mischievous child",
+    "wordclass": "noun",
+    "etymology": "from Old French herichon, from Latin hircus 'he-goat'",
+    "answer": "urchin"
+  },
+  {
+    "word": "vacillate",
+    "audioSource": "spellit7/vacillate.mp3",
+    "meaning": "to waver or fluctuate between different opinions or courses of action",
+    "wordclass": "verb",
+    "etymology": "from Latin vacillare 'to stagger'",
+    "answer": "vacillate"
+  },
+  {
+    "word": "venereal",
+    "audioSource": "spellit7/venereal.mp3",
+    "meaning": "relating to or caused by sexual activity",
+    "wordclass": "adjective",
+    "etymology": "from Latin venereus 'of Venus'",
+    "answer": "venereal"
+  },
+  {
+    "word": "venereally",
+    "audioSource": "spellit7/venereally.mp3",
+    "meaning": "in a venereal manner",
+    "wordclass": "adverb",
+    "etymology": "from Latin venereus 'of Venus'",
+    "answer": "venereally"
+  },
+  {
+    "word": "venison",
+    "audioSource": "spellit7/venison.mp3",
+    "meaning": "the flesh of a deer",
+    "wordclass": "noun",
+    "etymology": "from Old French venaison, from Latin venatio 'hunting'",
+    "answer": "venison"
+  },
+  {
+    "word": "venous",
+    "audioSource": "spellit7/venous.mp3",
+    "meaning": "relating to or containing veins",
+    "wordclass": "adjective",
+    "etymology": "from Latin venosus, from vena 'vein'",
+    "answer": "venous"
+  },
+  {
+    "word": "veracious",
+    "audioSource": "spellit7/veracious.mp3",
+    "meaning": "truthful or accurate",
+    "wordclass": "adjective",
+    "etymology": "from Latin verāx, veraci- 'truthful'",
+    "answer": "veracious"
+  },
+  {
+    "word": "veracity",
+    "audioSource": "spellit7/veracity.mp3",
+    "meaning": "the quality of being truthful",
+    "wordclass": "noun",
+    "etymology": "from Latin vēritās, vēritātis 'truth'",
+    "answer": "veracity"
+  },
+  {
+    "word": "vie",
+    "audioSource": "spellit7/vie.mp3",
+    "meaning": "to compete or contend with someone",
+    "wordclass": "verb",
+    "etymology": "from Old French vie 'life'",
+    "answer": "vie"
+  },
+  {
+    "word": "vied",
+    "audioSource": "spellit7/vied.mp3",
+    "meaning": "past tense of vie",
+    "wordclass": "verb",
+    "etymology": "from Old French vie 'life'",
+    "answer": "vied"
+  },
+  {
+    "word": "vienna",
+    "audioSource": "spellit7/vienna.mp3",
+    "meaning": "the capital of Austria",
+    "wordclass": "noun",
+    "etymology": "from Latin Vindobona, from Celtic *windo- 'white' + *bona 'place'",
+    "answer": "vienna"
+  }
+    ]
+}

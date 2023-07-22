@@ -1,0 +1,390 @@
+{
+    "words":[
+        {
+            "audioSource": "audio7/chartaceous.mp3",
+            "meaning": "having the texture or qualities of paper",
+            "wordclass": "adjective",
+            "Etymology": "Latin 'charta' (paper)",
+            "answer": "chartaceous"
+            },
+            
+            {
+            "audioSource": "audio7/chartreuse.mp3",
+            "meaning": "a color halfway between yellow and green",
+            "wordclass": "noun",
+            "Etymology": "French 'chartreuse' (charterhouse)",
+            "answer": "chartreuse"
+            },
+            
+            {
+            "audioSource": "audio7/chauvinism.mp3",
+            "meaning": "excessive or aggressive patriotism, often exhibiting hostility towards other countries or groups",
+            "wordclass": "noun",
+            "Etymology": "Nicolas Chauvin, a soldier of the First French Empire who was renowned for his fanatical loyalty and devotion to Napoleon",
+            "answer": "chauvinism"
+            },
+            
+            {
+            "audioSource": "audio7/chayote.mp3",
+            "meaning": "a tropical American plant resembling a squash, with edible flesh and pear-shaped fruit",
+            "wordclass": "noun",
+            "Etymology": "Nahuatl 'chayohtli' (edible plant)",
+            "answer": "chayote"
+            },
+            
+            {
+            "audioSource": "audio7/chernozem.mp3",
+            "meaning": "a black-colored soil with a high percentage of humus, found in Russia and other regions of eastern Europe and central Asia",
+            "wordclass": "noun",
+            "Etymology": "Russian 'chernozem' (black soil)",
+            "answer": "chernozem"
+            },
+            
+            {
+            "audioSource": "audio7/chlorine.mp3",
+            "meaning": "a chemical element with the symbol Cl and atomic number 17, a greenish-yellow gas",
+            "wordclass": "noun",
+            "Etymology": "Greek 'khloros' (pale green)",
+            "answer": "chlorine"
+            },
+            
+            {
+            "audioSource": "audio7/choleric.mp3",
+            "meaning": "easily angered or irritable",
+            "wordclass": "adjective",
+            "Etymology": "Greek 'khole' (bile)",
+            "answer": "choleric"
+            },
+            
+            {
+            "audioSource": "audio7/cholesterosis.mp3",
+            "meaning": "the accumulation of cholesterol in the tissues, especially the arteries",
+            "wordclass": "noun",
+            "Etymology": "Greek 'khole' (bile) + 'stereos' (solid) + 'osis' (condition)",
+            "answer": "cholesterosis"
+            },
+            
+            {
+            "audioSource": "audio7/chonolith.mp3",
+            "meaning": "a mass of igneous rock that has intruded into the surrounding strata and has not reached the surface",
+            "wordclass": "noun",
+            "Etymology": "Greek 'khonos' (like snow) + 'lithos' (stone)",
+            "answer": "chonolith"
+            },
+            
+            {
+            "audioSource": "audio7/chrysalis.mp3",
+            "meaning": "the pupal stage of a butterfly or moth",
+            "wordclass": "noun",
+            "Etymology": "Greek 'khrusos' (gold)",
+            "answer": "chrysalis"
+            },
+            {
+                
+                "audioSource": "audio7/coyote.mp3",
+                "meaning": "a small, wolf-like mammal native to North and Central America",
+                "wordclass": "noun",
+                "Etymology": "From Nahuatl 'coyōtl'",
+                "answer": "coyote"
+                },
+                
+                {
+                "audioSource": "audio7/chrysanthemum.mp3",
+                "meaning": "a flowering plant of the daisy family, typically with brightly colored ornamental flowers",
+                "wordclass": "noun",
+                "Etymology": "Greek 'khrysos' (gold) + 'anthemon' (flower)",
+                "answer": "chrysanthemum"
+                },
+                
+                {
+                "audioSource": "audio7/churrasco.mp3",
+                "meaning": "a barbecue beef dish from South America",
+                "wordclass": "noun",
+                "Etymology": "From Spanish 'churrasco', from Basque 'txurrasko' (grilled meat)",
+                "answer": "churrasco"
+                },
+                
+                {
+                "audioSource": "audio7/chutney.mp3",
+                "meaning": "a spicy condiment made from fruits, vinegar, sugar, and spices",
+                "wordclass": "noun",
+                "Etymology": "From Hindi-Urdu 'caṭnī'",
+                "answer": "chutney"
+                },
+                
+                {
+                "audioSource": "audio7/ciguatera.mp3",
+                "meaning": "a form of food poisoning caused by eating certain reef fish that have accumulated ciguatoxins",
+                "wordclass": "noun",
+                "Etymology": "From Spanish 'cigua' (sea snail)",
+                "answer": "ciguatera"
+                },
+                
+                {
+                "audioSource": "audio7/cinematographer.mp3",
+                "meaning": "a person who works in the art and technique of film photography, including camera work and lighting",
+                "wordclass": "noun",
+                "Etymology": "From Greek 'kinema' (motion) + 'graphos' (writer)",
+                "answer": "cinematographer"
+                },
+                
+                {
+                "audioSource": "audio7/cinnamon.mp3",
+                "meaning": "a spice obtained from the bark of certain trees, used to flavor sweet dishes",
+                "wordclass": "noun",
+                "Etymology": "From Greek 'kinnamomon'",
+                "answer": "cinnamon"
+                },
+                
+                {
+                "audioSource": "audio7/conduit.mp3",
+                "meaning": "a channel for conveying fluids or electrical wiring",
+                "wordclass": "noun",
+                "Etymology": "From Old French 'conduit', from Latin 'conductus' (conveyed)",
+                "answer": "conduit"
+                },
+                
+                {
+                "audioSource": "audio7/confetti.mp3",
+                "meaning": "small pieces of colored paper thrown at celebrations, especially weddings",
+                "wordclass": "noun",
+                "Etymology": "From Italian 'confetto' (sweetmeat)",
+                "answer": "confetti"
+                },
+                {
+                    "audioSource": "audio7/consensus.mp3",
+                    "meaning": "general agreement among a group of people",
+                    "wordclass": "noun",
+                    "Etymology": "Latin 'consensus' (agreement)",
+                    "answer": "consensus"
+                    },
+                    {
+                        "audioSource": "audio7/billiards.mp3",
+                        "meaning": "a game played on a table with cues and balls",
+                        "wordclass": "noun",
+                        "Etymology": "origin unknown",
+                        "answer": "billiards"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/chiaroscuro.mp3",
+                        "meaning": "the use of strong contrasts of light and shade in art",
+                        "wordclass": "noun",
+                        "Etymology": "Italian 'chiaro' (light) + 'oscuro' (dark)",
+                        "answer": "chiaroscuro"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/bilge.mp3",
+                        "meaning": "the lowest part of a ship's hull, where water accumulates",
+                        "wordclass": "noun",
+                        "Etymology": "origin unknown",
+                        "answer": "bilge"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/beret.mp3",
+                        "meaning": "a soft, round, flat-crowned hat, typically made of wool",
+                        "wordclass": "noun",
+                        "Etymology": "French 'béret' (cap)",
+                        "answer": "beret"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/blatherskite.mp3",
+                        "meaning": "a person who talks at great length without making much sense",
+                        "wordclass": "noun",
+                        "Etymology": "Scots 'blather' (talk foolishly) + 'skite' (contemptible person)",
+                        "answer": "blatherskite"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/blitzkrieg.mp3",
+                        "meaning": "an intense military campaign intended to bring about a swift victory",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Blitzkrieg' (lightning war)",
+                        "answer": "blitzkrieg"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/consortium.mp3",
+                        "meaning": "an association of several companies for a common purpose",
+                        "wordclass": "noun",
+                        "Etymology": "Latin 'consortium' (partnership)",
+                        "answer": "consortium"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/constabulary.mp3",
+                        "meaning": "the police force of a particular area",
+                        "wordclass": "noun",
+                        "Etymology": "Latin 'constabularius' (officer in charge of a stable)",
+                        "answer": "constabulary"
+                        },
+                        
+                        {
+                        "audioSource": "audio7/beriberi.mp3",
+                        "meaning": "a disease caused by a deficiency of thiamine (vitamin B1)",
+                        "wordclass": "noun",
+                        "Etymology": "Sinhalese 'beri-beri' (weakness)",
+                        "answer": "beriberi"
+                        },
+                        {
+                            "audioSource": "audio7/bravura.mp3",
+                            "meaning": "great technical skill and brilliance shown in a performance or activity",
+                            "wordclass": "noun",
+                            "Etymology": "Italian 'bravura' (bravery, skill)",
+                            "answer": "bravura"
+                            },
+                            {
+                                "audioSource": "audio7/kaleidoscope.mp3",
+                                "meaning": "a complex pattern or sequence of objects or events; a constantly changing set of colours or elements",
+                                "wordclass": "noun",
+                                "Etymology": "Greek 'kalos' (beautiful) + 'eidos' (form) + 'skopein' (to view)",
+                                "answer": "kaleidoscope"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/khan.mp3",
+                                "meaning": "a ruler or leader in certain countries of central Asia and the Middle East",
+                                "wordclass": "noun",
+                                "Etymology": "Mongolian 'khagan' (ruler)",
+                                "answer": "khan"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/breccia.mp3",
+                                "meaning": "a rock composed of broken fragments of minerals or rock cemented together by a fine-grained matrix",
+                                "wordclass": "noun",
+                                "Etymology": "Italian 'breccia' (fragments)",
+                                "answer": "breccia"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/brigand.mp3",
+                                "meaning": "a bandit or outlaw, especially one of a group living in mountainous areas",
+                                "wordclass": "noun",
+                                "Etymology": "French 'brigand' (bandit)",
+                                "answer": "brigand"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/brigantine.mp3",
+                                "meaning": "a two-masted sailing ship with square-rigged sails on the foremast and fore-and-aft rigged sails on the mainmast",
+                                "wordclass": "noun",
+                                "Etymology": "Italian 'brigantino' (small brig)",
+                                "answer": "brigantine"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/nepenthes.mp3",
+                                "meaning": "a genus of carnivorous plants known as tropical pitcher plants",
+                                "wordclass": "noun",
+                                "Etymology": "Greek 'nepenthes' (soothing grief)",
+                                "answer": "nepenthes"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/brocade.mp3",
+                                "meaning": "a rich fabric woven with a raised design, often using gold or silver threads",
+                                "wordclass": "noun",
+                                "Etymology": "Italian 'broccato' (embossed fabric)",
+                                "answer": "brocade"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/brochette.mp3",
+                                "meaning": "a skewer or small spit, used for holding pieces of meat, vegetables, or other food for cooking",
+                                "wordclass": "noun",
+                                "Etymology": "French 'brochette' (skewer)",
+                                "answer": "brochette"
+                                },
+                                
+                                {
+                                "audioSource": "audio7/caisson.mp3",
+                                "meaning": "a large, watertight structure used for construction underwater, especially for building bridges or repairing ships",
+                                "wordclass": "noun",
+                                "Etymology": "French 'caisson' (box)",
+                                "answer": "caisson"
+                                },
+                                {
+                                    "audioSource": "audio7/canape.mp3",
+                                    "meaning": "a small, decorative piece of furniture like a sofa, usually used in a reception area",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'canapé' (couch)",
+                                    "answer": "canape"
+                                    },
+                                    {
+                                        "audioSource": "audio7/jacaranda.mp3",
+                                        "meaning": "a tree with large purple flowers that grows in tropical and subtropical regions",
+                                        "wordclass": "noun",
+                                        "Etymology": "Portuguese 'jacarandá'",
+                                        "answer": "jacaranda"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/jackanapes.mp3",
+                                        "meaning": "an impertinent person, often used as a term of playful abuse",
+                                        "wordclass": "noun",
+                                        "Etymology": "Middle English 'Jack Napes' (literally 'Jack of Naples', a common name for a monkey)",
+                                        "answer": "jackanapes"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/jojoba.mp3",
+                                        "meaning": "a desert shrub that produces an oil used in cosmetics and as a lubricant",
+                                        "wordclass": "noun",
+                                        "Etymology": "Spanish 'hojoba'",
+                                        "answer": "jojoba"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/diapason.mp3",
+                                        "meaning": "the full range of notes in a musical instrument or voice; a tuning fork",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'diapason' (consonance)",
+                                        "answer": "diapason"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/prairie.mp3",
+                                        "meaning": "a large open area of grassland, often with few trees",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'prairie' (meadow)",
+                                        "answer": "prairie"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/whanau.mp3",
+                                        "meaning": "a Maori term for extended family, including both blood and non-blood relatives",
+                                        "wordclass": "noun",
+                                        "Etymology": "Maori",
+                                        "answer": "whanau"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/oubliette.mp3",
+                                        "meaning": "a secret dungeon with a trapdoor in the ceiling as its only entrance or exit",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'oubliette' (a place of forgetting)",
+                                        "answer": "oubliette"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/ouija.mp3",
+                                        "meaning": "a board with letters and symbols used to communicate with spirits or the dead",
+                                        "wordclass": "noun",
+                                        "Etymology": "unknown",
+                                        "answer": "ouija"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio7/caitiff.mp3",
+                                        "meaning": "a cowardly or despicable person; a captive or prisoner",
+                                        "wordclass": "noun",
+                                        "Etymology": "Middle English 'caitif' (wretched, captive)",
+                                        "answer": "caitiff"
+                                        }
+                        
+    ]
+}

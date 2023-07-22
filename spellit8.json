@@ -1,0 +1,790 @@
+{
+    "words":[
+        {
+            "word": "alphabetically",
+            "audioSource": "spellit8/alphabetically.mp3",
+            "meaning": "in order of the letters of the alphabet",
+            "wordclass": "adverb",
+            "etymology": "from Greek alpha 'alpha' + beta 'beta', the first two letters of the Greek alphabet",
+            "answer": "alphabetically"
+          },
+          {
+            "word": "ancillary",
+            "audioSource": "spellit8/ancillary.mp3",
+            "meaning": "providing support or assistance",
+            "wordclass": "adjective",
+            "etymology": "from Latin ancillarius 'pertaining to a servant'",
+            "answer": "ancillary"
+          },
+          {
+            "word": "apparition",
+            "audioSource": "spellit8/apparition.mp3",
+            "meaning": "a sudden or unexpected appearance",
+            "wordclass": "noun",
+            "etymology": "from Latin apparitio 'appearance'",
+            "answer": "apparition"
+          },
+          {
+            "word": "aqueduct",
+            "audioSource": "spellit8/aqueduct.mp3",
+            "meaning": "a structure that carries water over a long distance",
+            "wordclass": "noun",
+            "etymology": "from Latin aqua 'water' + ducere 'to lead'",
+            "answer": "aqueduct"
+          },
+          {
+            "word": "armadillo",
+            "audioSource": "spellit8/armadillo.mp3",
+            "meaning": "a small, armored mammal native to South America",
+            "wordclass": "noun",
+            "etymology": "from Spanish armadillo, from Taíno aramayagua",
+            "answer": "armadillo"
+          },
+          {
+            "word": "auxiliary",
+            "audioSource": "spellit8/auxiliary.mp3",
+            "meaning": "providing help or support",
+            "wordclass": "adjective",
+            "etymology": "from Latin auxiliaris 'pertaining to help'",
+            "answer": "auxiliary"
+          },
+          {
+            "word": "bailie",
+            "audioSource": "spellit8/bailie.mp3",
+            "meaning": "a Scottish official who administers justice in a district",
+            "wordclass": "noun",
+            "etymology": "from Old French bailli, from Latin bajulus 'bearer'",
+            "answer": "bailie"
+          },
+          {
+            "word": "ballyhoo",
+            "audioSource": "spellit8/ballyhoo.mp3",
+            "meaning": "noisy or sensational advertising",
+            "wordclass": "noun",
+            "etymology": "from Irish balbhóg 'chatterbox'",
+            "answer": "ballyhoo"
+          },
+          {
+            "word": "beet",
+            "audioSource": "spellit8/beet.mp3",
+            "meaning": "a round, red or yellow vegetable that is a member of the cabbage family",
+            "wordclass": "noun",
+            "etymology": "from Old English bete",
+            "answer": "beet"
+          },
+          {
+            "word": "beethovenian",
+            "audioSource": "spellit8/beethovenian.mp3",
+            "meaning": "relating to or characteristic of Beethoven",
+            "wordclass": "adjective",
+            "etymology": "from Beethoven, German composer",
+            "answer": "beethovenian"
+          },
+          {
+            "word": "braille",
+            "audioSource": "spellit8/braille.mp3",
+            "meaning": "a system of raised dots that can be read by touch",
+            "wordclass": "noun",
+            "etymology": "from Louis Braille, French inventor",
+            "answer": "braille"
+          },
+          {
+            "word": "butterscotch",
+            "audioSource": "spellit8/butterscotch.mp3",
+            "meaning": "a type of hard candy with a rich, buttery flavor",
+            "wordclass": "noun",
+            "etymology": "from butter + Scotch, referring to the Scottish origin of the candy",
+            "answer": "butterscotch"
+          },
+          {
+            "word": "camera obscura",
+            "audioSource": "spellit8/camera obscura.mp3",
+            "meaning": "a darkened room or box with a small hole in one wall through which images of objects outside are projected onto a opposite wall",
+            "wordclass": "noun",
+            "etymology": "from Latin camera 'room' + obscurus 'dark'",
+            "answer": "camera obscura"
+          },
+          {
+            "word": "chalice",
+            "audioSource": "spellit8/chalice.mp3",
+            "meaning": "a large, stemmed cup used for ceremonial purposes",
+            "wordclass": "noun",
+            "etymology": "from Latin calix 'cup'",
+            "answer": "chalice"
+          },
+          {
+            "word": "char",
+            "audioSource": "spellit8/char.mp3",
+            "meaning": "to burn something to a crisp",
+            "wordclass": "verb",
+            "etymology": "from Old French charrer 'to burn'",
+            "answer": "char"
+          },
+          {
+            "word": "charabanc",
+            "audioSource": "spellit8/charabanc.mp3",
+            "meaning": "an open-topped carriage for sightseeing",
+            "wordclass": "noun",
+            "etymology": "from French char à bancs 'coach with benches'",
+            "answer": "charabanc"
+          },
+          {
+            "word": "cognac",
+            "audioSource": "spellit8/cognac.mp3",
+            "meaning": "a type of brandy made in the Cognac region of France",
+            "wordclass": "noun",
+            "etymology": "from Cognac, France",
+            "answer": "cognac"
+          },
+          {
+            "word": "collectibles",
+            "audioSource": "spellit8/collectibles.mp3",
+            "meaning": "items that are collected for their rarity or value",
+            "wordclass": "noun",
+            "etymology": "from collect + -ibles",
+            "answer": "collectibles"
+          },
+          {
+            "word": "cosi fan tutte",
+            "audioSource": "spellit8/cosi fan tutte.mp3",
+            "meaning": "an opera by Wolfgang Amadeus Mozart",
+            "wordclass": "noun",
+            "etymology": "Italian, 'Thus do all women'",
+            "answer": "cosi fan tutte"
+          },
+          {
+            "word": "crease",
+            "audioSource": "spellit8/crease.mp3",
+            "meaning": "a line or fold in a surface",
+            "wordclass": "noun",
+            "etymology": "from Old French craise 'fold'",
+            "answer": "crease"
+          },
+          {
+            "word": "curdled",
+            "audioSource": "spellit8/curdled.mp3",
+            "meaning": "having become lumpy or thickened",
+            "wordclass": "adjective",
+            "etymology": "from curd + -led",
+            "answer": "curdled"
+          },
+          {
+            "word": "doldrums",
+            "audioSource": "spellit8/doldrums.mp3",
+            "meaning": "a state of inactivity or boredom",
+            "wordclass": "noun",
+            "etymology": "from Portuguese dolda 'calm'",
+            "answer": "doldrums"
+          },
+          {
+            "word": "don quixote",
+            "audioSource": "spellit8/don quixote.mp3",
+            "meaning": "a chivalrous but impractical idealist",
+            "wordclass": "noun",
+            "etymology": "from Spanish Don Quijote",
+            "answer": "don quixote"
+          },
+          {
+            "word": "dromedary",
+            "audioSource": "spellit8/dromedary.mp3",
+            "meaning": "a type of camel with one hump",
+            "wordclass": "noun",
+            "etymology": "from Greek dromas 'swift'",
+            "answer": "dromedary"
+          },
+          {
+            "word": "en passant",
+            "audioSource": "spellit8/en passant.mp3",
+            "meaning": "a chess move in which a pawn captures an enemy pawn that has just moved two squares forward",
+            "wordclass": "phrase",
+            "etymology": "from French en passant 'in passing'",
+            "answer": "en passant"
+          },
+          {
+            "word": "exoneration",
+            "audioSource": "spellit8/exoneration.mp3",
+            "meaning": "the act of freeing someone from a charge or obligation",
+            "wordclass": "noun",
+            "etymology": "from Latin exonerare 'to unload'",
+            "answer": "exoneration"
+          },
+          {
+            "word": "farrago",
+            "audioSource": "spellit8/farrago.mp3",
+            "meaning": "a confused mixture of things",
+            "wordclass": "noun",
+            "etymology": "from Latin farrago 'mixture of fodder'",
+            "answer": "farrago"
+          },
+          {
+            "word": "fritillary",
+            "audioSource": "spellit8/fritillary.mp3",
+            "meaning": "a type of flower with a checkered or spotted pattern",
+            "wordclass": "noun",
+            "etymology": "from Latin fritillus 'dice box'",
+            "answer": "fritillary"
+          },
+          {
+            "word": "gaffe",
+            "audioSource": "spellit8/gaffe.mp3",
+            "meaning": "a social blunder",
+            "wordclass": "noun",
+            "etymology": "from French gaffe 'fish spear'",
+            "answer": "gaffe"
+          },
+          {
+            "word": "hendiadys",
+            "audioSource": "spellit8/hendiadys.mp3",
+            "meaning": "a figure of speech in which two words are used together to express a single idea",
+            "wordclass": "noun",
+            "etymology": "from Greek hendiadys 'one through two'",
+            "answer": "hendiadys"
+          },
+          {
+            "word": "hobnob",
+            "audioSource": "spellit8/hobnob.mp3",
+            "meaning": "to associate with someone in a friendly or familiar way",
+            "wordclass": "verb",
+            "etymology": "from Middle English hobnobben 'to drink together'",
+            "answer": "hobnob"
+          },
+
+          {
+            "word": "hubcap",
+            "audioSource": "spellit8/hubcap.mp3",
+            "meaning": "a metal cover that protects the hub of a wheel",
+            "wordclass": "noun",
+            "etymology": "from hub + cap",
+            "answer": "hubcap"
+          },
+          {
+            "word": "impute",
+            "audioSource": "spellit8/impute.mp3",
+            "meaning": "to attribute something to someone or something",
+            "wordclass": "verb",
+            "etymology": "from Latin imputāre 'to charge'",
+            "answer": "impute"
+          },
+          {
+            "word": "ischaemia",
+            "audioSource": "spellit8/ischaemia.mp3",
+            "meaning": "a restriction of blood flow to a part of the body",
+            "wordclass": "noun",
+            "etymology": "from Greek iskhēmia 'constricted state'",
+            "answer": "ischaemia"
+          },
+          {
+            "word": "jackanapes",
+            "audioSource": "spellit8/jackanapes.mp3",
+            "meaning": "a mischievous or arrogant person",
+            "wordclass": "noun",
+            "etymology": "from Middle English jackanapes 'monkey'",
+            "answer": "jackanapes"
+          },
+          {
+            "word": "kerfuffle",
+            "audioSource": "spellit8/kerfuffle.mp3",
+            "meaning": "a noisy disturbance or commotion",
+            "wordclass": "noun",
+            "etymology": "from Scottish Gaelic cur-fuffle 'to stir up'",
+            "answer": "kerfuffle"
+          },
+          {
+            "word": "kleenex",
+            "audioSource": "spellit8/kleenex.mp3",
+            "meaning": "a brand of tissue paper",
+            "wordclass": "noun",
+            "etymology": "from Kimberly-Clark, the company that produces Kleenex",
+            "answer": "kleenex"
+          },
+          {
+            "word": "lozenge",
+            "audioSource": "spellit8/lozenge.mp3",
+            "meaning": "a small, flat, sweet candy",
+            "wordclass": "noun",
+            "etymology": "from Old French losenge 'diamond-shaped figure'",
+            "answer": "lozenge"
+          },
+          {
+            "word": "modicum",
+            "audioSource": "spellit8/modicum.mp3",
+            "meaning": "a small amount",
+            "wordclass": "noun",
+            "etymology": "from Latin modicus 'moderate'",
+            "answer": "modicum"
+          },
+          {
+            "word": "paean",
+            "audioSource": "spellit8/paean.mp3",
+            "meaning": "a song of praise or thanksgiving",
+            "wordclass": "noun",
+            "etymology": "from Greek paian 'song to Apollo'",
+            "answer": "paean"
+          },
+          {
+            "word": "prescient",
+            "audioSource": "spellit8/prescient.mp3",
+            "meaning": "having knowledge of events before they happen",
+            "wordclass": "adjective",
+            "etymology": "from Latin praescius 'foreknowing'",
+            "answer": "prescient"
+          },
+          {
+            "word": "protrude",
+            "audioSource": "spellit8/protrude.mp3",
+            "meaning": "to stick out or project",
+            "wordclass": "verb",
+            "etymology": "from Latin protrudere 'to thrust forward'",
+            "answer": "protrude"
+          },
+          {
+            "word": "quince",
+            "audioSource": "spellit8/quince.mp3",
+            "meaning": "a round, yellow fruit with a hard, acidic flesh",
+            "wordclass": "noun",
+            "etymology": "from Latin quince 'quince'",
+            "answer": "quince"
+          },
+          {
+            "word": "quincentennial",
+            "audioSource": "spellit8/quincentennial.mp3",
+            "meaning": "a 150th anniversary",
+            "wordclass": "noun",
+            "etymology": "from Latin quinque 'five' + centum 'hundred' + -ennial",
+            "answer": "quincentennial"
+          },
+          {
+            "word": "quincewort",
+            "audioSource": "spellit8/quincewort.mp3",
+            "meaning": "a plant with yellow flowers and a sour fruit",
+            "wordclass": "noun",
+            "etymology": "from quince + wort",
+            "answer": "quincewort"
+          },
+          {
+            "word": "ragout",
+            "audioSource": "spellit8/ragout.mp3",
+            "meaning": "a stew of meat, vegetables, and often wine",
+            "wordclass": "noun",
+            "etymology": "from French ragoût 'to stir up'",
+            "answer": "ragout"
+          },
+          {
+            "word": "raucous",
+            "audioSource": "spellit8/raucous.mp3",
+            "meaning": "harsh and loud",
+            "wordclass": "adjective",
+            "etymology":"from Old French rauque 'hoarse'",
+            "answer": "raucous"
+          },
+          {
+            "word": "ruckus",
+            "audioSource": "spellit8/ruckus.mp3",
+            "meaning": "a noisy disturbance",
+            "wordclass": "noun",
+            "etymology": "from Scottish Gaelic ruacas 'noise'",
+            "answer": "ruckus"
+          },
+          {
+            "word": "scorch",
+            "audioSource": "spellit8/scorch.mp3",
+            "meaning": "to burn or blacken the surface of something",
+            "wordclass": "verb",
+            "etymology": "from Old English scorcian 'to burn'",
+            "answer": "scorch"
+          },
+          {
+            "word": "scotch",
+            "audioSource": "spellit8/scotch.mp3",
+            "meaning": "to extinguish a fire by pouring water on it",
+            "wordclass": "verb",
+            "etymology": "from Scottish Gaelic sgoth 'to extinguish'",
+            "answer": "scotch"
+          },
+          {
+            "word": "slovenly",
+            "audioSource": "spellit8/slovenly.mp3",
+            "meaning": "untidy or dirty",
+            "wordclass": "adjective",
+            "etymology": "from Old English slæpan 'to be lazy' + -ly",
+            "answer": "slovenly"
+          },
+          {
+            "word": "solicitous",
+            "audioSource": "spellit8/solicitous.mp3",
+            "meaning": "showing concern or care",
+            "wordclass": "adjective",
+            "etymology": "from Latin sollicitus 'anxious'",
+            "answer": "solicitous"
+          },
+          {
+            "word": "supercilious",
+            "audioSource": "spellit8/supercilious.mp3",
+            "meaning": "arrogant or haughty",
+            "wordclass": "adjective",
+            "etymology": "from Latin supercilium 'eyebrow'",
+            "answer": "supercilious"
+          },
+          {
+            "word": "thyme",
+            "audioSource": "spellit8/thyme.mp3",
+            "meaning": "a fragrant herb used in cooking and medicine",
+            "wordclass": "noun",
+            "etymology":"from Greek thymon 'courage'",
+            "answer": "thyme"
+          },
+          {
+            "word": "thymi",
+            "audioSource": "spellit8/thymi.mp3",
+            "meaning": "the plural form of thyme",
+            "wordclass": "noun",
+            "etymology": "from Greek thymon 'courage'",
+            "answer": "thymi"
+          },
+          {
+            "word": "tussle",
+            "audioSource": "spellit8/tussle.mp3",
+            "meaning": "a physical or verbal fight or struggle",
+            "wordclass": "noun",
+            "etymology": "Unknown",
+            "answer": "tussle"
+            },
+            {
+            "word": "ute",
+            "audioSource": "spellit8/ute.mp3",
+            "meaning": "a small utility vehicle, typically with an open rear cargo area",
+            "wordclass": "noun",
+            "etymology": "Shortened form of 'utility'",
+            "answer": "ute"
+            },
+            {
+            "word": "vamoose",
+            "audioSource": "spellit8/vamoose.mp3",
+            "meaning": "to depart quickly or hurriedly",
+            "wordclass": "verb",
+            "etymology": "Spanish vamos, meaning 'let's go'",
+            "answer": "vamoose"
+            },
+            {
+            "word": "vehicular",
+            "audioSource": "spellit8/vehicular.mp3",
+            "meaning": "relating to or designed for vehicles",
+            "wordclass": "adjective",
+            "etymology": "Latin vehiculum, meaning 'vehicle'",
+            "answer": "vehicular"
+            },
+            {
+            "word": "vehiculary",
+            "audioSource": "spellit8/vehiculary.mp3",
+            "meaning": "This word does not exist.",
+            "wordclass": "N/A",
+            "etymology": "N/A",
+            "answer": "N/A"
+            },
+            {
+            "word": "veracity",
+            "audioSource": "spellit8/veracity.mp3",
+            "meaning": "habitual observance of truthfulness",
+            "wordclass": "noun",
+            "etymology": "Latin veritas, meaning 'truth'",
+            "answer": "veracity"
+            },
+            {
+            "word": "vinery",
+            "audioSource": "spellit8/vinery.mp3",
+            "meaning": "a place where grapevines are grown",
+            "wordclass": "noun",
+            "etymology": "From 'vine'",
+            "answer": "vinery"
+            },
+            {
+            "word": "vinyl",
+            "audioSource": "spellit8/vinyl.mp3",
+            "meaning": "a synthetic resin or plastic consisting of polyvinyl chloride or a related polymer",
+            "wordclass": "noun",
+            "etymology": "From 'polyvinyl'",
+            "answer": "vinyl"
+            },
+            {
+            "word": "viol",
+            "audioSource": "spellit8/viol.mp3",
+            "meaning": "a bowed stringed instrument with four strings",
+            "wordclass": "noun",
+            "etymology": "From Old French viole, from Latin vitula",
+            "answer": "viol"
+            },
+            {
+            "word": "viola d amora",
+            "audioSource": "spellit8/viola_damora.mp3",
+            "meaning": "a bowed string instrument, similar to the viola, but with sympathetic strings",
+            "wordclass": "noun",
+            "etymology": "Italian, meaning 'viola of love'",
+            "answer": "viola d'amora"
+            },
+            
+            {
+                "word": "violoncello",
+                "audioSource": "spellit8/violoncello.mp3",
+                "meaning": "a large stringed musical instrument of the violin family, also known as the cello",
+                "wordclass": "noun",
+                "etymology": "Italian, diminutive of violone 'large viol'",
+                "answer": "violoncello"
+                },
+                {
+                "word": "vituperable",
+                "audioSource": "spellit8/vituperable.mp3",
+                "meaning": "subject to blame, censure, or verbal abuse",
+                "wordclass": "adjective",
+                "etymology": "Latin vituperabilis, from vituperare 'to find fault with'",
+                "answer": "vituperable"
+                },
+                {
+                "word": "volant",
+                "audioSource": "spellit8/volant.mp3",
+                "meaning": "in heraldry, a figure in the shape of a bird or wing with outstretched wings",
+                "wordclass": "adjective",
+                "etymology": "French, meaning 'flying'",
+                "answer": "volant"
+                },
+                {
+                "word": "volante",
+                "audioSource": "spellit8/volante.mp3",
+                "meaning": "a light two-wheeled carriage",
+                "wordclass": "noun",
+                "etymology": "Italian, meaning 'flying'",
+                "answer": "volante"
+                },
+                {
+                "word": "volitive",
+                "audioSource": "spellit8/volitive.mp3",
+                "meaning": "pertaining to or characterized by the exercise of will or choice",
+                "wordclass": "adjective",
+                "etymology": "Latin volitivus, from velle 'to wish, want'",
+                "answer": "volitive"
+                },
+                {
+                "word": "voracious",
+                "audioSource": "spellit8/voracious.mp3",
+                "meaning": "having a great appetite, devouring large quantities of food",
+                "wordclass": "adjective",
+                "etymology": "Latin vorax, vorac- 'greedy, ravenous'",
+                "answer": "voracious"
+                },
+                {
+                "word": "weazen",
+                "audioSource": "spellit8/weazen.mp3",
+                "meaning": "thin, weak, or emaciated in appearance",
+                "wordclass": "adjective",
+                "etymology": "Unknown",
+                "answer": "weazen"
+                },
+                {
+                "word": "wee",
+                "audioSource": "spellit8/wee.mp3",
+                "meaning": "very small in size or extent",
+                "wordclass": "adjective",
+                "etymology": "Scottish, from Old English wēoh",
+                "answer": "wee"
+                },
+                {
+                "word": "wha gwan",
+                "audioSource": "spellit8/wha_gwan.mp3",
+                "meaning": "Jamaican Patois, short for 'What's going on?' or 'What's happening?'",
+                "wordclass": "phrase",
+                "etymology": "Jamaican Patois",
+                "answer": "wha gwan"
+                },
+                {
+                    "word": "whet",
+                    "audioSource": "spellit8/whet.mp3",
+                    "meaning": "to sharpen the blade of a tool or weapon",
+                    "wordclass": "verb",
+                    "etymology": "Old English hwettan, from Proto-Germanic *hwatjanan",
+                    "answer": "whet"
+                    },
+                    {
+                    "word": "whey",
+                    "audioSource": "spellit8/whey.mp3",
+                    "meaning": "the watery part of milk that separates from the curds, often used in cheesemaking",
+                    "wordclass": "noun",
+                    "etymology": "Old English hwǣg",
+                    "answer": "whey"
+                    },
+                    {
+                    "word": "whimsically",
+                    "audioSource": "spellit8/whimsically.mp3",
+                    "meaning": "in a quaint, fanciful, or playful manner",
+                    "wordclass": "adverb",
+                    "etymology": "Whimsical + -ly",
+                    "answer": "whimsically"
+                    },
+                    {
+                    "word": "wholly",
+                    "audioSource": "spellit8/wholly.mp3",
+                    "meaning": "entirely, completely, or fully",
+                    "wordclass": "adverb",
+                    "etymology": "Middle English holliche, from Old English hallice",
+                    "answer": "wholly"
+                    },
+                    {
+                    "word": "wiccan",
+                    "audioSource": "spellit8/wiccan.mp3",
+                    "meaning": "relating to or associated with the modern pagan witchcraft religion of Wicca",
+                    "wordclass": "adjective",
+                    "etymology": "From Old English wicca 'sorcerer, male witch'",
+                    "answer": "wiccan"
+                    },
+                    {
+                    "word": "wickham",
+                    "audioSource": "spellit8/wickham.mp3",
+                    "meaning": "This word does not exist.",
+                    "wordclass": "N/A",
+                    "etymology": "N/A",
+                    "answer": "N/A"
+                    },
+                    {
+                    "word": "wile",
+                    "audioSource": "spellit8/wile.mp3",
+                    "meaning": "a cunning or devious trick",
+                    "wordclass": "noun",
+                    "etymology": "Middle English wil, from Old English wīl, of Germanic origin",
+                    "answer": "wile"
+                    },
+                    {
+                    "word": "winsome",
+                    "audioSource": "spellit8/winsome.mp3",
+                    "meaning": "charming, attractive, or appealing in a sweet or innocent way",
+                    "wordclass": "adjective",
+                    "etymology": "Middle English winsum, from Old English wynsum",
+                    "answer": "winsome"
+                    },
+                    {
+                    "word": "winsomely",
+                    "audioSource": "spellit8/winsomely.mp3",
+                    "meaning": "in a charming or appealing manner",
+                    "wordclass": "adverb",
+                    "etymology": "Winsome + -ly",
+                    "answer": "winsomely"
+                    },
+                    {
+                        "word": "wintry",
+                        "audioSource": "spellit8/wintry.mp3",
+                        "meaning": "relating to or characteristic of winter",
+                        "wordclass": "adjective",
+                        "etymology": "Old English wintorlic, from winter 'winter'",
+                        "answer": "wintry"
+                        },
+                        {
+                        "word": "wiry",
+                        "audioSource": "spellit8/wiry.mp3",
+                        "meaning": "thin and strong, resembling wire in form or texture",
+                        "wordclass": "adjective",
+                        "etymology": "From wire",
+                        "answer": "wiry"
+                        },
+                        {
+                        "word": "witticism",
+                        "audioSource": "spellit8/witticism.mp3",
+                        "meaning": "a clever or witty remark or saying",
+                        "wordclass": "noun",
+                        "etymology": "From witticize, from wittic, from wit",
+                        "answer": "witticism"
+                        },
+                        {
+                        "word": "witting",
+                        "audioSource": "spellit8/witting.mp3",
+                        "meaning": "knowing or done with knowledge and intention",
+                        "wordclass": "adjective",
+                        "etymology": "Middle English witing, present participle of witen 'to know'",
+                        "answer": "witting"
+                        },
+                        {
+                        "word": "wittingly",
+                        "audioSource": "spellit8/wittingly.mp3",
+                        "meaning": "in a knowing or intentional manner",
+                        "wordclass": "adverb",
+                        "etymology": "Witting + -ly",
+                        "answer": "wittingly"
+                        },
+                        {
+                        "word": "wizen",
+                        "audioSource": "spellit8/wizen.mp3",
+                        "meaning": "to become or cause to become dry, shrunken, and wrinkled, especially due to aging",
+                        "wordclass": "verb",
+                        "etymology": "Unknown",
+                        "answer": "wizen"
+                        },
+                        {
+                        "word": "wrangle",
+                        "audioSource": "spellit8/wrangle.mp3",
+                        "meaning": "to have an argument or dispute, especially in a noisy or angry manner",
+                        "wordclass": "verb",
+                        "etymology": "Middle English, from Low German wrangeln 'to dispute'",
+                        "answer": "wrangle"
+                        },
+                        {
+                        "word": "wry",
+                        "audioSource": "spellit8/wry.mp3",
+                        "meaning": "using or expressing dry, especially mocking, humor",
+                        "wordclass": "adjective",
+                        "etymology": "Middle English, from Old English wrīgian 'to turn, bend'",
+                        "answer": "wry"
+                        },
+                        {
+                        "word": "wryest",
+                        "audioSource": "spellit8/wryest.mp3",
+                        "meaning": "superlative form of wry, meaning most wry or twisted",
+                        "wordclass": "adjective",
+                        "etymology": "Wry + -est",
+                        "answer": "wryest"
+                        },
+                        {
+                        "word": "yacht",
+                        "audioSource": "spellit8/yacht.mp3",
+                        "meaning": "a medium-sized sailing vessel equipped for cruising or racing",
+                        "wordclass": "noun",
+                        "etymology": "Dutch jaght, short for jachtschip 'fast pirate ship'",
+                        "answer": "yacht"
+                        },
+                        {
+                            "word": "zephyr",
+                            "audioSource": "spellit8/zephyr.mp3",
+                            "meaning": "a soft, gentle breeze",
+                            "wordclass": "noun",
+                            "etymology": "From Zephyrus, the Greek god of the west wind",
+                            "answer": "zephyr"
+                            },
+                            {
+                                "word": "zephyrosaurus",
+                                "audioSource": "spellit8/zephyrosaurus.mp3",
+                                "meaning": "a genus of orodromine ornithischian dinosaur",
+                                "wordclass": "noun",
+                                "etymology": "Unknown",
+                                "answer": "zephyrosaurus"
+                            },
+                            {
+                            "word": "zephyrous",
+                            "audioSource": "spellit8/zephyrous.mp3",
+                            "meaning": "resembling or relating to Zephyrus, the Greek god of the west wind",
+                            "wordclass": "adjective",
+                            "etymology": "Zephyr + -ous",
+                            "answer": "zephyrous"
+                            },
+                            {
+                            "word": "zephyrus",
+                            "audioSource": "spellit8/zephyrus.mp3",
+                            "meaning": "the Greek god of the west wind",
+                            "wordclass": "noun",
+                            "etymology": "From Greek Zephyros",
+                            "answer": "zephyrus"
+                            },
+                            {
+                            "word": "zouave",
+                            "audioSource": "spellit8/zouave.mp3",
+                            "meaning": "a member of a former French infantry unit known for its distinctive uniform and active in North Africa and the Middle East in the 19th and early 20th centuries",
+                            "wordclass": "noun",
+                            "etymology": "From French zouave, from Arabic Zwāwa",
+                            "answer": "zouave"
+                            }
+    ]
+}

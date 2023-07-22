@@ -1,0 +1,763 @@
+{
+    "words":[
+        {
+            "audioSource": "spellit2/brine.mp3",
+            "meaning": "salty water",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "brine"
+          },
+          {
+            "audioSource": "spellit2/brogan.mp3",
+            "meaning": "a type of heavy, thick-soled shoe",
+            "wordclass": "noun",
+            "Etymology": "Irish",
+            "answer": "brogan"
+          },
+          {
+            "audioSource": "spellit2/brogue.mp3",
+            "meaning": "a type of shoe with a thick sole and a decorative stitching",
+            "wordclass": "noun",
+            "Etymology": "Irish",
+            "answer": "brogue"
+          },
+          {
+            "audioSource": "spellit2/brogueing.mp3",
+            "meaning": "the process of decorating a shoe with brogueing",
+            "wordclass": "noun",
+            "Etymology": "Irish",
+            "answer": "brogueing"
+          },
+          {
+            "audioSource": "spellit2/bromine.mp3",
+            "meaning": "a chemical element with a strong, irritating smell",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "bromine"
+          },
+          {
+            "audioSource": "spellit2/bronchitis.mp3",
+            "meaning": "an inflammation of the bronchi",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "bronchitis"
+          },
+          {
+            "audioSource": "spellit2/bronchus.mp3",
+            "meaning": "a tube that carries air to the lungs",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "bronchus"
+          },
+          {
+            "audioSource": "spellit2/brooch.mp3",
+            "meaning": "an ornament worn on the clothing",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "brooch"
+          },
+          {
+            "audioSource": "spellit2/buffoonery.mp3",
+            "meaning": "ridiculous or foolish behavior",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "buffoonery"
+          },
+          {
+            "audioSource": "spellit2/bulbous.mp3",
+            "meaning": "having a rounded, swollen shape",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "bulbous"
+          },
+          {
+            "audioSource": "spellit2/bulrushes.mp3",
+            "meaning": "tall, reedy plants that grow in marshes",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "bulrushes"
+          },
+          {
+            "audioSource": "spellit2/bulwark.mp3",
+            "meaning": "a defensive wall or embankment",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "bulwark"
+          },
+          {
+            "audioSource": "spellit2/bumptious.mp3",
+            "meaning": "overbearingly self-assertive",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "bumptious"
+          },
+          {
+            "audioSource": "spellit2/buoyancy.mp3",
+            "meaning": "the ability to float or rise in water",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "buoyancy"
+          },
+          {
+            "audioSource": "spellit2/buoyant.mp3",
+            "meaning": "able to float or rise in water",
+            "wordclass": "adjective",
+            "Etymology": "French",
+            "answer": "buoyant"
+          },
+          {
+            "audioSource": "spellit2/burgher.mp3",
+            "meaning": "a citizen of a town or city",
+            "wordclass": "noun",
+            "Etymology": "Germanic",
+            "answer": "burgher"
+          },
+          {
+            "audioSource": "spellit2/butte des mort.mp3",
+            "meaning": "a hill or mound in the American Midwest",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "butte des mort"
+          },
+          {
+            "audioSource": "spellit2/butte.mp3",
+            "meaning": "a small hill or mound",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "butte"
+          },
+          {
+            "audioSource": "spellit2/calumny.mp3",
+            "meaning": "false and malicious statements made to damage someone's reputation",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "calumny"
+          },
+          {
+            "audioSource": "spellit2/cameo.mp3",
+            "meaning": "a small, carved gem or piece of jewelry",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "cameo"
+          },
+          {
+            "audioSource": "spellit2/canaanite.mp3",
+            "meaning": "a member of an ancient Semitic people who lived in what is now Israel and Palestine",
+            "wordclass": "noun",
+            "Etymology": "Hebrew",
+            "answer": "canaanite"
+          },
+          {
+            "audioSource": "spellit2/capillary.mp3",
+            "meaning": "a very small blood vessel",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "capillary"
+          },
+          {
+            "audioSource": "spellit2/capricious.mp3",
+            "meaning": "subject to sudden and unpredictable changes of mood",
+            "wordclass": "adjective",
+            "Etymology": "Italian",
+            "answer": "capricious"
+          },
+          {
+            "audioSource": "spellit2/carnage.mp3",
+            "meaning": "the slaughter of a large number of people",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "carnage"
+          },
+          {
+            "audioSource": "spellit2/carouse.mp3",
+            "meaning": "to drink heavily and noisily",
+            "wordclass": "verb",
+            "Etymology": "French",
+            "answer": "carouse"
+          },
+          {
+            "audioSource": "spellit2/cartilage.mp3",
+            "meaning": "a flexible, rubbery tissue that supports and protects joints",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "cartilage"
+          },
+          {
+            "audioSource": "spellit2/cartridge.mp3",
+            "meaning": "a container that holds ammunition",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "cartridge"
+          },
+          {
+            "audioSource": "spellit2/cauterize.mp3",
+            "meaning": "to burn or sear with a hot iron or other instrument",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "cauterize"
+          },
+          {
+            "audioSource": "spellit2/cede.mp3",
+            "meaning": "to give up or surrender something",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "cede"
+          },
+          {
+            "audioSource": "spellit2/censor.mp3",
+            "meaning": "to examine and suppress material that is considered to be offensive, harmful, or illegal",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "censor"
+          },
+          {
+            "audioSource": "spellit2/chagrin.mp3",
+            "meaning": "a feeling of disappointment or humiliation",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "chagrin"
+          },
+          {
+            "audioSource": "spellit2/charlatan.mp3",
+            "meaning": "a person who pretends to have knowledge or skill that they do not actually possess",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "charlatan"
+          },
+          {
+            "audioSource": "spellit2/chattel.mp3",
+            "meaning": "a movable item of personal property",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "chattel"
+          },
+          {
+            "audioSource": "spellit2/christendom.mp3",
+            "meaning": "the Christian world",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "christendom"
+          },
+          {
+            "audioSource": "spellit2/collapsible.mp3",
+            "meaning": "able to be folded or collapsed",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "collapsible"
+          },
+          {
+            "audioSource": "spellit2/collision.mp3",
+            "meaning": "a violent impact between two or more moving objects",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "collision"
+          },
+          {
+            "audioSource": "spellit2/comely.mp3",
+            "meaning": "attractive or pleasing in appearance",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "comely"
+          },
+          {
+            "audioSource": "spellit2/commingle.mp3",
+            "meaning": "to mix or blend together",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "commingle"
+          },
+          {
+            "audioSource": "spellit2/commissariat.mp3",
+            "meaning": "a military department responsible for the provision of food, clothing, and other supplies",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "commissariat"
+          },
+          {
+            "audioSource": "spellit2/committal.mp3",
+            "meaning": "the act of committing or entrusting something to someone",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "committal"
+          },
+          {
+            "audioSource": "spellit2/conceit.mp3",
+            "meaning": "an exaggerated opinion of one's own importance or abilities",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "conceit"
+          },
+          {
+            "audioSource": "spellit2/conciliatory.mp3",
+            "meaning": "tending to make peace or to restore friendly relations",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "conciliatory"
+          },
+          {
+            "audioSource": "spellit2/coniferous.mp3",
+            "meaning": "having cones or cone-bearing",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "coniferous"
+          },
+          {
+            "audioSource": "spellit2/conjecture.mp3",
+            "meaning": "a conclusion or opinion formed on the basis of incomplete evidence",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "conjecture"
+          },
+          {
+            "audioSource": "spellit2/connive.mp3",
+            "meaning": "to secretly agree or cooperate with someone to do something wrong",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "connive"
+          },
+          {
+            "audioSource": "spellit2/connoisseur.mp3",
+            "meaning": "a person who is an expert in or has a great appreciation for something",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "connoisseur"
+          },
+          {
+            "audioSource": "spellit2/consignee.mp3",
+            "meaning": "the person to whom goods are consigned",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "consignee"
+          },
+          {
+            "audioSource": "spellit2/contrite.mp3",
+            "meaning": "feeling or showing sincere regret or remorse",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "contrite"
+          },
+          {
+            "audioSource": "spellit2/contumacy.mp3",
+            "meaning": "stubborn or wilful disobedience",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "contumacy"
+          },
+          {
+            "audioSource": "spellit2/copious.mp3",
+            "meaning": "large in quantity or amount",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "copious"
+          },
+          {
+            "word": "cornice",
+            "audioSource": "spellit2/cornice.mp3",
+            "meaning": "a decorative molding along the top of a wall or building",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "cornice"
+          },
+          {
+            "word": "cornucopia",
+            "audioSource": "spellit2/cornucopia.mp3",
+            "meaning": "a horn-shaped container overflowing with fruit and flowers, a symbol of abundance",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "cornucopia"
+          },
+          {
+            "word": "corollary",
+            "audioSource": "spellit2/corollary.mp3",
+            "meaning": "a proposition that follows from or is suggested by another proposition",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "corollary"
+          },
+          {
+            "word": "corporeal",
+            "audioSource": "spellit2/corporeal.mp3",
+            "meaning": "of or relating to the body",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "corporeal"
+          },
+          {
+            "word": "corps",
+            "audioSource": "spellit2/corps.mp3",
+            "meaning": "a large body of people organized for a particular purpose",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "corps"
+          },
+          {
+            "word": "corrigible",
+            "audioSource": "spellit2/corrigible.mp3",
+            "meaning": "capable of being corrected or improved",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "corrigible"
+          },
+          {
+            "word": "courser",
+            "audioSource": "spellit2/courser.mp3",
+            "meaning": "a swift horse",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "courser"
+          },
+          {
+            "word": "coxswain",
+            "audioSource": "spellit2/coxswain.mp3",
+            "meaning": "the person who steers a boat",
+            "wordclass": "noun",
+            "Etymology": "Dutch",
+            "answer": "coxswain"
+          },
+          {
+            "word": "creamery",
+            "audioSource": "spellit2/creamery.mp3",
+            "meaning": "a place where cream is processed and made into butter, cheese, and other dairy products",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "creamery"
+          },
+          {
+            "word": "crematory",
+            "audioSource": "spellit2/crematory.mp3",
+            "meaning": "a building where dead bodies are cremated",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "crematory"
+          },
+          {
+            "word": "crevasse",
+            "audioSource": "spellit2/crevasse.mp3",
+            "meaning": "a deep fissure in a glacier or ice sheet",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "crevasse"
+          },
+          {
+            "word": "crevice",
+            "audioSource": "spellit2/crevice.mp3",
+            "meaning": "a small, narrow opening or crack",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "crevice"
+          },
+          {
+            "word": "crockery",
+            "audioSource": "spellit2/crockery.mp3",
+            "meaning": "earthenware or china dishes",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "crockery"
+          },
+          {
+            "word": "crucible",
+            "audioSource": "spellit2/crucible.mp3",
+            "meaning": "a container made of a refractory material, used for melting and purifying metals or other substances",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "crucible"
+          },
+          {
+            "word": "cull",
+            "audioSource": "spellit2/cull.mp3",
+            "meaning": "to select and remove a portion of (something, especially a population) as being inferior or unwanted",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "cull"
+          },
+          {
+            "word": "culvert",
+            "audioSource": "spellit2/culvert.mp3",
+            "meaning": "a channel or passage for carrying water or sewage under a road or railway",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "culvert"
+          },
+          {
+            "word": "curio",
+            "audioSource": "spellit2/curio.mp3",
+            "meaning": "a rare or interesting object, especially one from a foreign country",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "curio"
+          },
+          {
+            "word": "darkling",
+            "audioSource": "spellit2/darkling.mp3",
+            "meaning": "in the darkness",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "darkling"
+          },
+          {
+            "word": "darwinism",
+            "audioSource": "spellit2/darwinism.mp3",
+            "meaning": "the theory of evolution that states that all species of living things have descended from common ancestors through the process of natural selection",
+            "wordclass": "noun",
+            "Etymology": "after Charles Darwin",
+            "answer": "darwinism"
+          },
+          {
+            "word": "debonair",
+            "audioSource": "spellit2/debonair.mp3",
+            "meaning": "having or showing a confident and sophisticated charm",
+            "wordclass": "adjective",
+            "Etymology": "French",
+            "answer": "debonair"
+          },
+          {
+            "word": "dacacuminate",
+            "audioSource": "spellit2/dacacuminate.mp3",
+            "meaning": "to remove the tip or point of something",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "dacacuminate"
+          },
+          {
+            "word": "decaliter",
+            "audioSource": "spellit2/decaliter.mp3",
+            "meaning": "a unit of volume equal to ten liters",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "decaliter"
+          },
+          {
+            "word": "decisive",
+            "audioSource": "spellit2/decisive.mp3",
+            "meaning": "having the power to decide something; having great importance",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "decisive"
+          },
+          {
+            "word": "declamation",
+            "audioSource": "spellit2/declamation.mp3",
+            "meaning": "a formal or public speech or oration",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "declamation"
+          },
+          {
+            "word": "declamatory",
+            "audioSource": "spellit2/declamatory.mp3",
+            "meaning": "of or relating to declamation",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "declamatory"
+          },
+          {
+            "word": "deface",
+            "audioSource": "spellit2/deface.mp3",
+            "meaning": "to spoil or mar the appearance of something",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "deface"
+          },
+          {
+            "word": "defalcate",
+            "audioSource": "spellit2/defalcate.mp3",
+            "meaning": "to steal money or other property entrusted to one's care",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "defalcate"
+          },
+          {
+            "word": "deign",
+            "audioSource": "spellit2/deign.mp3",
+            "meaning": "to condescend to do something",
+            "wordclass": "verb",
+            "Etymology": "Old French",
+            "answer": "deign"
+          },
+          {
+            "word": "deist",
+            "audioSource": "spellit2/deist.mp3",
+            "meaning": "a person who believes that God exists but does not intervene in the natural world",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "deist"
+          },
+          {
+            "word": "denizen",
+            "audioSource": "spellit2/denizen.mp3",
+            "meaning": "a person who lives in a particular place or country",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "denizen"
+          },
+          {
+            "word": "dentifrice",
+            "audioSource": "spellit2/dentifrice.mp3",
+            "meaning": "a substance used for cleaning the teeth",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "dentifrice"
+          },
+          {
+            "word": "derisible",
+            "audioSource": "spellit2/derisible.mp3",
+            "meaning": "deserving to be laughed at",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "derisible"
+          },
+          {
+            "word": "derrick",
+            "audioSource": "spellit2/derrick.mp3",
+            "meaning": "a tall structure with a movable arm used for lifting heavy objects",
+            "wordclass": "noun",
+            "Etymology": "Dutch",
+            "answer": "derrick"
+          },
+          {
+            "word": "desultory",
+            "audioSource": "spellit2/desultory.mp3",
+            "meaning": "not continuous or connected; rambling",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "desultory"
+          },
+          {
+            "word": "deter",
+            "audioSource": "spellit2/deter.mp3",
+            "meaning": "to discourage or prevent someone from doing something",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "deter"
+          },
+          {
+            "word": "devilry",
+            "audioSource": "spellit2/devilry.mp3",
+            "meaning": "mischievous or malicious behavior",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "devilry"
+          },
+          {
+            "word": "dictum",
+            "audioSource": "spellit2/dictum.mp3",
+            "meaning": "a short, pithy statement of a principle or belief",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "dictum"
+          },
+          {
+            "word": "diffusible",
+            "audioSource": "spellit2/diffusible.mp3",
+            "meaning": "able to be spread or dispersed",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "diffusible"
+          },
+          {
+            "word": "dilemma",
+            "audioSource": "spellit2/dilemma.mp3",
+            "meaning": "a situation in which there are two or more choices, each of which has disadvantages",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "dilemma"
+          },
+          {
+            "word": "dilettante",
+            "audioSource": "spellit2/dilettante.mp3",
+            "meaning": "a person who engages in an activity for pleasure rather than as a serious pursuit",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "dilettante"
+          },
+          
+  {
+    "word": "dishabille",
+    "audioSource": "spellit2/dishabille.mp3",
+    "meaning": "a state of being dressed in a casual or informal manner",
+    "wordclass": "noun",
+    "Etymology": "French",
+    "answer": "dishabille"
+  },
+  {
+    "word": "dissertation",
+    "audioSource": "spellit2/dissertation.mp3",
+    "meaning": "a long, formal piece of writing on a particular subject, especially one submitted as part of a university degree",
+    "wordclass": "noun",
+    "Etymology": "Latin",
+    "answer": "dissertation"
+  },
+  {
+    "word": "disservice",
+    "audioSource": "spellit2/disservice.mp3",
+    "meaning": "an act that is harmful or unhelpful",
+    "wordclass": "noun",
+    "Etymology": "Old French",
+    "answer": "disservice"
+  },
+  {
+    "word": "dissever",
+    "audioSource": "spellit2/dissever.mp3",
+    "meaning": "to separate or divide something into two or more parts",
+    "wordclass": "verb",
+    "Etymology": "Latin",
+    "answer": "dissever"
+  },
+  {
+    "word": "disserverance",
+    "audioSource": "spellit2/disserverance.mp3",
+    "meaning": "the act of failing to serve someone or something properly",
+    "wordclass": "noun",
+    "Etymology": "Latin",
+    "answer": "disserverance"
+  },
+  {
+    "word": "diurnal",
+    "audioSource": "spellit2/diurnal.mp3",
+    "meaning": "relating to or occurring during the day",
+    "wordclass": "adjective",
+    "Etymology": "Latin",
+    "answer": "diurnal"
+  },
+  {
+    "word": "donee",
+    "audioSource": "spellit2/donee.mp3",
+    "meaning": "a person who receives a gift",
+    "wordclass": "noun",
+    "Etymology": "French",
+    "answer": "donee"
+  },
+  {
+    "word": "drachma",
+    "audioSource": "spellit2/drachma.mp3",
+    "meaning": "a former Greek unit of currency, equal to 100 leptas",
+    "wordclass": "noun",
+    "Etymology": "Greek",
+    "answer": "drachma"
+  },
+  {
+    "word": "drudgery",
+    "audioSource": "spellit2/drudgery.mp3",
+    "meaning": "hard, boring, or monotonous work",
+    "wordclass": "noun",
+    "Etymology": "Old English",
+    "answer": "drudgery"
+  },
+  {
+    "word": "dun",
+    "audioSource": "spellit2/dun.mp3",
+    "meaning": "dark gray or brownish-gray",
+    "wordclass": "adjective",
+    "Etymology": "Old English",
+    "answer": "dun"
+  },
+  {
+    "word": "dilettante",
+    "audioSource": "spellit2/dilettante.mp3",
+    "meaning": "a person who engages in an activity for pleasure rather than as a serious pursuit",
+    "wordclass": "noun",
+    "Etymology": "Italian",
+    "answer": "dilettante"
+  }
+    ]
+}

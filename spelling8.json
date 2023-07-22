@@ -1,0 +1,391 @@
+{
+    "words":[
+        {
+            "audioSource": "audio8/troubadour.mp3",
+            "meaning": "a poet who composes and sings songs about chivalry and courtly love",
+            "wordclass": "noun",
+            "Etymology": "Old Occitan 'trobadour' (inventor, composer)",
+            "answer": "troubadour"
+            },
+            
+            {
+            "audioSource": "audio8/rejoneador.mp3",
+            "meaning": "a bullfighter who performs on horseback",
+            "wordclass": "noun",
+            "Etymology": "Spanish 'rejonador' (lance user)",
+            "answer": "rejoneador"
+            },
+            
+            {
+            "audioSource": "audio8/cajolery.mp3",
+            "meaning": "the act of persuading someone to do something by flattery or deception",
+            "wordclass": "noun",
+            "Etymology": "French 'cajolerie' (cuddle, caress)",
+            "answer": "cajolery"
+            },
+            
+            {
+            "audioSource": "audio8/knavery.mp3",
+            "meaning": "dishonest or unscrupulous behavior",
+            "wordclass": "noun",
+            "Etymology": "Middle English 'knaverie' (trickery, roguery)",
+            "answer": "knavery"
+            },
+            
+            {
+            "audioSource": "audio8/caladium.mp3",
+            "meaning": "a tropical plant with brightly colored leaves",
+            "wordclass": "noun",
+            "Etymology": "New Latin 'Caladium' (genus name)",
+            "answer": "caladium"
+            },
+            
+            {
+            "audioSource": "audio8/carcinogen.mp3",
+            "meaning": "a substance capable of causing cancer in living tissue",
+            "wordclass": "noun",
+            "Etymology": "Greek 'karkinos' (crab) + -gen (producing)",
+            "answer": "carcinogen"
+            },
+            
+            {
+            "audioSource": "audio8/pisces.mp3",
+            "meaning": "the twelfth sign of the zodiac",
+            "wordclass": "noun",
+            "Etymology": "Latin 'pisces' (fish)",
+            "answer": "pisces"
+            },
+            
+            {
+            "audioSource": "audio8/sagittarius.mp3",
+            "meaning": "the ninth sign of the zodiac",
+            "wordclass": "noun",
+            "Etymology": "Latin 'sagittarius' (archer)",
+            "answer": "sagittarius"
+            },
+            
+            {
+            "audioSource": "audio8/ares.mp3",
+            "meaning": "the god of war in Greek mythology",
+            "wordclass": "noun",
+            "Etymology": "Greek 'Ares' (god of war)",
+            "answer": "ares"
+            },
+            
+            {
+            "audioSource": "audio8/aries.mp3",
+            "meaning": "the first sign of the zodiac",
+            "wordclass": "noun",
+            "Etymology": "Latin 'aries' (ram)",
+            "answer": "aries"
+            },
+            {
+                "audioSource": "audio8/cardiomegaly.mp3",
+                "meaning": "an enlarged heart",
+                "wordclass": "noun",
+                "Etymology": "Greek 'kardia' (heart) + 'megas' (big) + '-ia' (condition)",
+                "answer": "cardiomegaly"
+                },
+                {
+                    "audioSource": "audio8/caribou.mp3",
+                    "meaning": "a large Arctic deer with large branching antlers",
+                    "wordclass": "noun",
+                    "Etymology": "Mi'kmaq 'qalipu' (snow shoveler)",
+                    "answer": "caribou"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/carillon.mp3",
+                    "meaning": "a set of bells in a tower, played using a keyboard or by an automatic mechanism similar to a music box",
+                    "wordclass": "noun",
+                    "Etymology": "French 'carillon', from Old French 'caril' (small bell)",
+                    "answer": "carillon"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/carpaccio.mp3",
+                    "meaning": "a dish of thinly sliced raw meat or fish, typically served as an appetizer",
+                    "wordclass": "noun",
+                    "Etymology": "Named after Italian painter Vittore Carpaccio, whose paintings were characterized by their bright red and white tones",
+                    "answer": "carpaccio"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/cartonnage.mp3",
+                    "meaning": "a material consisting of several layers of paper or fabric glued together, used to make boxes, book covers, etc.",
+                    "wordclass": "noun",
+                    "Etymology": "French 'carton' (cardboard)",
+                    "answer": "cartonnage"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/caryatid.mp3",
+                    "meaning": "a stone carving of a draped female figure, used as a pillar to support the entablature of a Greek or Greek-style building",
+                    "wordclass": "noun",
+                    "Etymology": "Greek 'karyatides', from 'Karyai' (a town in Laconia, southern Greece, where a temple dedicated to Artemis was built)",
+                    "answer": "caryatid"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/cashew.mp3",
+                    "meaning": "a tree that bears kidney-shaped nuts that are edible only when roasted",
+                    "wordclass": "noun",
+                    "Etymology": "Portuguese 'caju', from Tupi 'acaju' (nut that produces itself)",
+                    "answer": "cashew"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/chancellor.mp3",
+                    "meaning": "a senior state or legal official, especially in Germany and Austria",
+                    "wordclass": "noun",
+                    "Etymology": "Old French 'chancelier', from Late Latin 'cancellarius' (doorkeeper, secretary)",
+                    "answer": "chancellor"
+                    },
+                    
+                    {
+                    "audioSource": "audio8/chandelier.mp3",
+                    "meaning": "a decorative hanging light with branches for several light bulbs or candles",
+                    "wordclass": "noun",
+                    "Etymology": "French 'chandelier', from Latin 'candelabrum' (candlestick)",
+                    "answer": "chandelier"
+                    },
+                    {
+                        "audioSource": "audio8/cassowary.mp3",
+                        "meaning": "a large flightless bird native to Australia and New Guinea",
+                        "wordclass": "noun",
+                        "Etymology": "Malay 'kesuari' (cassowary)",
+                        "answer": "cassowary"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/chinoiserie.mp3",
+                        "meaning": "a style of art or decoration characterized by Chinese motifs",
+                        "wordclass": "noun",
+                        "Etymology": "French 'chinois' (Chinese) + 'erie' (suffix indicating a type or style)",
+                        "answer": "chinoiserie"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/chandelle.mp3",
+                        "meaning": "an acrobatic maneuver in which an airplane makes a steep climb and then levels off",
+                        "wordclass": "noun",
+                        "Etymology": "French 'chandelle' (candle)",
+                        "answer": "chandelle"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/chateaubriand.mp3",
+                        "meaning": "a thick, juicy steak cut from the center of a beef tenderloin",
+                        "wordclass": "noun",
+                        "Etymology": "Named after the French writer and politician François-René de Chateaubriand",
+                        "answer": "chateaubriand"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/chauffeur.mp3",
+                        "meaning": "a person employed to drive a private automobile",
+                        "wordclass": "noun",
+                        "Etymology": "French 'chauffeur' (stoker, operator of a steam engine)",
+                        "answer": "chauffeur"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/chaussure.mp3",
+                        "meaning": "footwear, especially shoes",
+                        "wordclass": "noun",
+                        "Etymology": "French 'chaussure' (shoe)",
+                        "answer": "chaussure"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/chautauqua.mp3",
+                        "meaning": "an educational and cultural movement in the United States, originating in the late 19th century",
+                        "wordclass": "noun",
+                        "Etymology": "Named after Chautauqua Lake in western New York, where the first Chautauqua Assembly was held",
+                        "answer": "chautauqua"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/cioppino.mp3",
+                        "meaning": "a seafood stew originating in San Francisco",
+                        "wordclass": "noun",
+                        "Etymology": "Uncertain; possibly from the Italian word 'ciuppin' (a kind of fish soup)",
+                        "answer": "cioppino"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/circinate.mp3",
+                        "meaning": "shaped like a ring or a circle",
+                        "wordclass": "adjective",
+                        "Etymology": "Latin 'circinatus' (made round)",
+                        "answer": "circinate"
+                        },
+                        
+                        {
+                        "audioSource": "audio8/cirrhosis.mp3",
+                        "meaning": "a chronic liver disease characterized by fibrosis and impaired liver function",
+                        "wordclass": "noun",
+                        "Etymology": "Greek 'kirrhos' (orange-yellow)",
+                        "answer": "cirrhosis"
+                        },
+                        {
+                            "audioSource": "audio8/pocahontas.mp3",
+                            "meaning": "a Native American woman who married an English settler and helped maintain peace between the Jamestown settlers and her own tribe",
+                            "wordclass": "noun",
+                            "Etymology": "Name derived from a Native American language, meaning 'playful one'",
+                            "answer": "pocahontas"
+                            },
+                            {
+                                "audioSource": "audio8/hackmatack.mp3",
+                                "meaning": "a coniferous tree native to northeastern North America",
+                                "wordclass": "noun",
+                                "Etymology": "From an Algonquian word meaning 'sweet wood'",
+                                "answer": "hackmatack"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/braille.mp3",
+                                "meaning": "a system of raised dots that can be read by touch, used by the blind and visually impaired",
+                                "wordclass": "noun",
+                                "Etymology": "Named after its creator, Louis Braille, a Frenchman who lost his sight in childhood",
+                                "answer": "braille"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/cislunar.mp3",
+                                "meaning": "situated between the earth and moon; relating to travel or exploration between the earth and moon",
+                                "wordclass": "adjective",
+                                "Etymology": "Latin 'cis-' (on this side) + 'luna' (moon)",
+                                "answer": "cislunar"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/cistern.mp3",
+                                "meaning": "a tank for storing water, especially one supplying taps or as part of a flushing toilet",
+                                "wordclass": "noun",
+                                "Etymology": "Latin 'cisterna' (underground reservoir)",
+                                "answer": "cistern"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/citronella.mp3",
+                                "meaning": "a fragrant oil that repels insects, obtained from a tropical Asian grass",
+                                "wordclass": "noun",
+                                "Etymology": "Italian 'citronella' (little citron)",
+                                "answer": "citronella"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/civitas.mp3",
+                                "meaning": "a city or town, especially with its dependent territories",
+                                "wordclass": "noun",
+                                "Etymology": "Latin 'civitas' (city, citizenship)",
+                                "answer": "civitas"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/cloche.mp3",
+                                "meaning": "a bell-shaped glass cover used for protecting delicate plants from frost",
+                                "wordclass": "noun",
+                                "Etymology": "French 'cloche' (bell)",
+                                "answer": "cloche"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/cluse.mp3",
+                                "meaning": "a narrow passage or gorge, especially one between hills or mountains",
+                                "wordclass": "noun",
+                                "Etymology": "Latin 'clausus' (closed)",
+                                "answer": "cluse"
+                                },
+                                
+                                {
+                                "audioSource": "audio8/diapason.mp3",
+                                "meaning": "the entire range of musical notes; a tuning fork",
+                                "wordclass": "noun",
+                                "Etymology": "Greek 'dia-' (through) + 'pason' (all)",
+                                "answer": "diapason"
+                                },
+                                {
+                                    "audioSource": "audio8/cnemial.mp3",
+                                    "meaning": "of or relating to the knee",
+                                    "wordclass": "adjective",
+                                    "Etymology": "Greek 'knēmē' (shinbone)",
+                                    "answer": "cnemial"
+                                    },
+                                    {
+                                        "audioSource": "audio8/coacervate.mp3",
+                                        "meaning": "gathered together in a mass or pile",
+                                        "wordclass": "adjective",
+                                        "Etymology": "Latin 'co-' (together) + 'acervare' (heap up)",
+                                        "answer": "coacervate"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/coalesce.mp3",
+                                        "meaning": "to come together and form one group or mass",
+                                        "wordclass": "verb",
+                                        "Etymology": "Latin 'co-' (together) + 'alescere' (to grow up)",
+                                        "answer": "coalesce"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/collabent.mp3",
+                                        "meaning": "falling down or collapsing",
+                                        "wordclass": "adjective",
+                                        "Etymology": "Latin 'collabere' (to fall down together)",
+                                        "answer": "collabent"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/collateral.mp3",
+                                        "meaning": "accompanying; parallel; situated or running side by side",
+                                        "wordclass": "adjective",
+                                        "Etymology": "Latin 'collateralis' (running side by side)",
+                                        "answer": "collateral"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/colloquy.mp3",
+                                        "meaning": "a conversation or dialogue, especially a formal one",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'colloquium' (conversation)",
+                                        "answer": "colloquy"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/cologne.mp3",
+                                        "meaning": "a fragrant perfume",
+                                        "wordclass": "noun",
+                                        "Etymology": "German 'Kölnisch Wasser' (Cologne water)",
+                                        "answer": "cologne"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/colonelcy.mp3",
+                                        "meaning": "the rank or office of a colonel",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'colonel' (a military officer)",
+                                        "answer": "colonelcy"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/colophon.mp3",
+                                        "meaning": "an inscription at the end of a book, typically with facts about its production",
+                                        "wordclass": "noun",
+                                        "Etymology": "Greek 'kolophon' (summit, finishing touch)",
+                                        "answer": "colophon"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio8/coloratura.mp3",
+                                        "meaning": "elaborate ornamentation of a vocal melody, especially in opera",
+                                        "wordclass": "noun",
+                                        "Etymology": "Italian 'coloratura' (coloring)",
+                                        "answer": "coloratura"
+                                        }
+                                        
+                                
+                    
+    ]
+}

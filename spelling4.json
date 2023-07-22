@@ -1,0 +1,319 @@
+{
+    "words":[
+        {
+            "audioSource": "audio4/barbiturate.mp3",
+            "meaning": "a drug that acts as a depressant of the central nervous system, used to induce sleep or reduce anxiety",
+            "wordclass": "noun",
+            "Etymology": "Barbituric acid + -ate",
+            "answer": "barbiturate"
+            },
+            {
+                "audioSource": "audio4/cedilla.mp3",
+                "meaning": "a diacritical mark (¸) placed below the letter 'c' in some languages to indicate that it is pronounced as /s/ rather than /k/",
+                "wordclass": "noun",
+                "Etymology": "French 'cedille' (< Spanish 'cedilla' < 'ceda' (Z), from Arabic 'siddah' (a line))",
+                "answer": "cedilla"
+                },
+                
+                {
+                "audioSource": "audio4/clemency.mp3",
+                "meaning": "mercy, lenience",
+                "wordclass": "noun",
+                "Etymology": "Latin 'clementia'",
+                "answer": "clemency"
+                },
+                
+                {
+                "audioSource": "audio4/clepsydra.mp3",
+                "meaning": "an ancient device for measuring time by the regulated flow of water or mercury through a small aperture",
+                "wordclass": "noun",
+                "Etymology": "Greek 'klepsydra' (< 'kleptein' (to steal) + 'hydor' (water))",
+                "answer": "clepsydra"
+                },
+                
+                {
+                "audioSource": "audio4/clinquant.mp3",
+                "meaning": "glittering, showy",
+                "wordclass": "adjective",
+                "Etymology": "French 'clinquant' (glittering, shiny)",
+                "answer": "clinquant"
+                },
+                
+                {
+                "audioSource": "audio4/concentric.mp3",
+                "meaning": "having a common center",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'concentricus' (< 'con-' (together) + 'centrum' (center))",
+                "answer": "concentric"
+                },
+                
+                {
+                "audioSource": "audio4/conchiform.mp3",
+                "meaning": "shaped like a shell",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'concha' (shell) + '-form'",
+                "answer": "conchiform"
+                },
+                
+                {
+                "audioSource": "audio4/conciliate.mp3",
+                "meaning": "to win over, soothe or reconcile",
+                "wordclass": "verb",
+                "Etymology": "Latin 'conciliare' (to bring together, win over)",
+                "answer": "conciliate"
+                },
+                
+                {
+                "audioSource": "audio4/concinnity.mp3",
+                "meaning": "elegance, harmony, or appropriateness",
+                "wordclass": "noun",
+                "Etymology": "Latin 'concinnitas' (elegance, fitness)",
+                "answer": "concinnity"
+                },
+                
+                {
+                "audioSource": "audio4/concomitant.mp3",
+                "meaning": "accompanying, existing or occurring with something else",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'con-' (with) + 'comitari' (to accompany)",
+                "answer": "concomitant"
+                },
+                {
+                    "audioSource": "audio4/concordat.mp3",
+                    "meaning": "a formal agreement between the Vatican and a government, concerning the regulation of Church affairs within that country",
+                    "wordclass": "noun",
+                    "Etymology": "Latin 'concordata' (agreement)",
+                    "answer": "concordat"
+                    },
+                    {
+                        "audioSource": "audio4/cameline.mp3",
+                        "meaning": "a medieval fabric made from camel hair and silk",
+                        "wordclass": "noun",
+                        "Etymology": "Latin 'camelus' (camel)",
+                        "answer": "cameline"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/camionette.mp3",
+                        "meaning": "a small truck or van",
+                        "wordclass": "noun",
+                        "Etymology": "French 'camionnette' (small truck)",
+                        "answer": "camionette"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/campanile.mp3",
+                        "meaning": "a bell tower, especially one that is freestanding",
+                        "wordclass": "noun",
+                        "Etymology": "Italian 'campana' (bell)",
+                        "answer": "campanile"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/canaille.mp3",
+                        "meaning": "the common people; the masses",
+                        "wordclass": "noun",
+                        "Etymology": "French 'canaille' (rabble)",
+                        "answer": "canaille"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/canard.mp3",
+                        "meaning": "a false or misleading report or story, especially one that is deliberately so",
+                        "wordclass": "noun",
+                        "Etymology": "French 'canard' (duck; false report)",
+                        "answer": "canard"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/canary.mp3",
+                        "meaning": "a small songbird, typically yellow or green",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'canario' (canary)",
+                        "answer": "canary"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/canasta.mp3",
+                        "meaning": "a card game for two to six players",
+                        "wordclass": "noun",
+                        "Etymology": "Spanish 'canasta' (basket)",
+                        "answer": "canasta"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/buffoon.mp3",
+                        "meaning": "a ridiculous but amusing person; a clown",
+                        "wordclass": "noun",
+                        "Etymology": "Italian 'buffone' (jester)",
+                        "answer": "buffoon"
+                        },
+                        
+                        {
+                        "audioSource": "audio4/buffoonery.mp3",
+                        "meaning": "behaviour that is ridiculous but amusing",
+                        "wordclass": "noun",
+                        "Etymology": "Italian 'buffone' (jester)",
+                        "answer": "buffoonery"
+                        },
+                        {
+                            "audioSource": "audio4/aborigine.mp3",
+                            "meaning": "an indigenous inhabitant of a place",
+                            "wordclass": "noun",
+                            "Etymology": "Latin 'aborigines' (original inhabitants)",
+                            "answer": "aborigine"
+                            },
+                            {
+                                "audioSource": "audio4/abscissa.mp3",
+                                "meaning": "the horizontal or x-coordinate in a Cartesian coordinate system",
+                                "wordclass": "noun",
+                                "Etymology": "Latin 'abscissa' (a cutting off)",
+                                "answer": "abscissa"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/abstemious.mp3",
+                                "meaning": "not self-indulgent, especially when eating and drinking",
+                                "wordclass": "adjective",
+                                "Etymology": "Latin 'abstemia' (temperate)",
+                                "answer": "abstemious"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/caesarean.mp3",
+                                "meaning": "a surgical operation for delivering a child by cutting through the walls of the mother's abdomen",
+                                "wordclass": "noun",
+                                "Etymology": "Latin 'caesus' (cut)",
+                                "answer": "caesarean"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/laissez faire.mp3",
+                                "meaning": "a policy or attitude of letting things take their own course, without interfering",
+                                "wordclass": "noun",
+                                "Etymology": "French (let do)",
+                                "answer": "laissez faire"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/gazetteer.mp3",
+                                "meaning": "a geographical dictionary or directory used to locate and describe places",
+                                "wordclass": "noun",
+                                "Etymology": "French 'gazette' (newspaper)",
+                                "answer": "gazetteer"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/myriad.mp3",
+                                "meaning": "a countless or extremely great number of people or things",
+                                "wordclass": "noun",
+                                "Etymology": "Greek 'murias' (10,000)",
+                                "answer": "myriad"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/eyrie.mp3",
+                                "meaning": "a large nest of an eagle or other bird of prey, built high in a tree or on a cliff",
+                                "wordclass": "noun",
+                                "Etymology": "Old French 'aire' (nest)",
+                                "answer": "eyrie"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/diphtheria.mp3",
+                                "meaning": "an infectious bacterial disease causing inflammation of the mucous membranes, typically in the nose and throat",
+                                "wordclass": "noun",
+                                "Etymology": "Greek 'diphthera' (leather membrane)",
+                                "answer": "diphtheria"
+                                },
+                                
+                                {
+                                "audioSource": "audio4/dicerous.mp3",
+                                "meaning": "having two horns",
+                                "wordclass": "adjective",
+                                "Etymology": "Greek 'di-' (two) + 'keras' (horn)",
+                                "answer": "dicerous"
+                                },
+                                {
+                                    "audioSource": "audio4/dietetics.mp3",
+                                    "meaning": "the science or study of diet and nutrition",
+                                    "wordclass": "noun",
+                                    "Etymology": "Greek 'diatetikos' (concerned with diet)",
+                                    "answer": "dietetics"
+                                    },
+                                    {
+                                        "audioSource": "audio4/diffident.mp3",
+                                        "meaning": "lacking confidence in oneself; timid or shy",
+                                        "wordclass": "adjective",
+                                        "Etymology": "Latin 'diffidentem' (distrustful)",
+                                        "answer": "diffident"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/digitalis.mp3",
+                                        "meaning": "a drug prepared from the dried leaves of the foxglove plant, used to treat heart failure",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'digitus' (finger) + '-alis' (pertaining to)",
+                                        "answer": "digitalis"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/dilatory.mp3",
+                                        "meaning": "tending to delay or procrastinate; slow to act",
+                                        "wordclass": "adjective",
+                                        "Etymology": "Latin 'dilatorius' (tending to delay)",
+                                        "answer": "dilatory"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/diluent.mp3",
+                                        "meaning": "a liquid that makes another substance thinner or less concentrated",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'diluens' (diluting)",
+                                        "answer": "diluent"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/diocese.mp3",
+                                        "meaning": "a district under the pastoral care of a bishop in the Christian Church",
+                                        "wordclass": "noun",
+                                        "Etymology": "Greek 'dioikesis' (government, administration)",
+                                        "answer": "diocese"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/decorticate.mp3",
+                                        "meaning": "to remove the outer layer or bark from something; in medicine, to remove a part of the brain cortex",
+                                        "wordclass": "verb",
+                                        "Etymology": "Latin 'decorticatus' (stripped of bark)",
+                                        "answer": "decorticate"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/decoupage.mp3",
+                                        "meaning": "the art or technique of decorating objects with paper cut-outs",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'découper' (to cut out)",
+                                        "answer": "decoupage"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/decussate.mp3",
+                                        "meaning": "to cross in the form of an X; in biology, to arrange in the form of a cross",
+                                        "wordclass": "verb",
+                                        "Etymology": "Latin 'decussatus' (made in the form of an X)",
+                                        "answer": "decussate"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio4/defervescence.mp3",
+                                        "meaning": "a decrease in fever; a period of diminishing excitement or agitation",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'de-' (down) + 'fervescere' (to become hot)",
+                                        "answer": "defervescence"
+                                        }
+                                        
+                                
+                        
+    ]
+}

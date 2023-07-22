@@ -1,0 +1,397 @@
+{
+    "words":[
+        {
+            "audioSource": "audio6/derailleur.mp3",
+            "meaning": "a device on a bicycle that changes gears by moving the chain from one sprocket to another",
+            "wordclass": "noun",
+            "Etymology": "French 'dérailleur' (to derail)",
+            "answer": "derailleur"
+            },
+            
+            {
+            "audioSource": "audio6/derelict.mp3",
+            "meaning": "abandoned and in a poor condition",
+            "wordclass": "adjective",
+            "Etymology": "Latin 'de-' (away from) + 'relinquere' (to abandon)",
+            "answer": "derelict"
+            },
+            
+            {
+            "audioSource": "audio6/demulcent.mp3",
+            "meaning": "a substance that soothes or protects an irritated or inflamed part of the body",
+            "wordclass": "noun",
+            "Etymology": "Latin 'demulcere' (to soothe)",
+            "answer": "demulcent"
+            },
+            
+            {
+            "audioSource": "audio6/bandolier.mp3",
+            "meaning": "a shoulder belt with loops or pockets for holding ammunition",
+            "wordclass": "noun",
+            "Etymology": "French 'bandoulière' (shoulder belt)",
+            "answer": "bandolier"
+            },
+            
+            {
+            "audioSource": "audio6/autumn.mp3",
+            "meaning": "the season between summer and winter, usually in September, October, and November in the northern hemisphere and March, April, and May in the southern hemisphere",
+            "wordclass": "noun",
+            "Etymology": "Latin 'autumnus'",
+            "answer": "autumn"
+            },
+            
+            {
+            "audioSource": "audio6/lampoon.mp3",
+            "meaning": "a piece of writing or speech that ridicules someone or something",
+            "wordclass": "noun",
+            "Etymology": "French 'lampon' (drunken song)",
+            "answer": "lampoon"
+            },
+            
+            {
+            "audioSource": "audio6/diarrhoeal.mp3",
+            "meaning": "relating to or characterized by diarrhea",
+            "wordclass": "adjective",
+            "Etymology": "Greek 'diarrhoia' (a flowing through)",
+            "answer": "diarrhoeal"
+            },
+            
+            {
+            "audioSource": "audio6/bilharzia.mp3",
+            "meaning": "a disease caused by parasitic flatworms that can damage internal organs",
+            "wordclass": "noun",
+            "Etymology": "after Theodor Bilharz, German pathologist",
+            "answer": "bilharzia"
+            },
+            
+            {
+            "audioSource": "audio6/schismatic.mp3",
+            "meaning": "relating to or characterized by schism, or a division or separation",
+            "wordclass": "adjective",
+            "Etymology": "Greek 'skhizein' (to split)",
+            "answer": "schismatic"
+            },
+            
+            {
+            "audioSource": "audio6/crescendo.mp3",
+            "meaning": "a gradual increase in loudness or intensity, especially in music",
+            "wordclass": "noun",
+            "Etymology": "Italian 'crescere' (to grow)",
+            "answer": "crescendo"
+            },
+            {
+                "audioSource": "audio6/crescive.mp3",
+                "meaning": "growing or increasing gradually",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'crescere' (to grow)",
+                "answer": "crescive"
+                },
+                
+                {
+                "audioSource": "audio6/crescograph.mp3",
+                "meaning": "an instrument for measuring growth in plants",
+                "wordclass": "noun",
+                "Etymology": "Latin 'crescere' (to grow) + Greek 'graphein' (to write)",
+                "answer": "crescograph"
+                },
+                
+                {
+                "audioSource": "audio6/cribral.mp3",
+                "meaning": "pertaining to a sieve or sieve-like structure",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'cribrum' (sieve)",
+                "answer": "cribral"
+                },
+                
+                {
+                "audioSource": "audio6/crinoline.mp3",
+                "meaning": "a stiff fabric used for women's undergarments and dresses",
+                "wordclass": "noun",
+                "Etymology": "French 'crin' (horsehair) + '-oline' (suffix denoting a fabric or material)",
+                "answer": "crinoline"
+                },
+                
+                {
+                "audioSource": "audio6/cronyism.mp3",
+                "meaning": "the practice of favoring one's friends or associates, especially in political appointments",
+                "wordclass": "noun",
+                "Etymology": "from 'crony' (close friend)",
+                "answer": "cronyism"
+                },
+                
+                {
+                "audioSource": "audio6/crotchety.mp3",
+                "meaning": "irritable or eccentric, especially due to old age",
+                "wordclass": "adjective",
+                "Etymology": "from 'crotch' (crooked or bent) + '-ety' (suffix denoting a quality or state)",
+                "answer": "crotchety"
+                },
+                
+                {
+                "audioSource": "audio6/cozened.mp3",
+                "meaning": "deceived or tricked",
+                "wordclass": "adjective",
+                "Etymology": "from 'cozen' (to deceive or cheat)",
+                "answer": "cozened"
+                },
+                
+                {
+                "audioSource": "audio6/credenza.mp3",
+                "meaning": "a sideboard or cabinet used for storing dishes, table linens, etc.",
+                "wordclass": "noun",
+                "Etymology": "Italian 'credenza' (belief or trust, also the name of a medieval official)",
+                "answer": "credenza"
+                },
+                
+                {
+                "audioSource": "audio6/creophagy.mp3",
+                "meaning": "the eating of flesh or meat",
+                "wordclass": "noun",
+                "Etymology": "Greek 'kreos' (flesh) + '-phagy' (suffix denoting eating or feeding)",
+                "answer": "creophagy"
+                },
+                
+                {
+                "audioSource": "audio6/copious.mp3",
+                "meaning": "abundant or plentiful",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'copiosus' (plentiful)",
+                "answer": "copious"
+                },
+                {
+"audioSource": "audio6/coquetry.mp3",
+"meaning": "flirtatious behavior or attitude",
+"wordclass": "noun",
+"Etymology": "French 'coquetier' (egg-cup, or a vain, frivolous man)",
+"answer": "coquetry"
+},
+{
+"audioSource": "audio6/cordillera.mp3",
+"meaning": "a mountain range, typically with a series of more or less parallel chains",
+"wordclass": "noun",
+"Etymology": "Spanish 'cordilla' (cord, string)",
+"answer": "cordillera"
+},
+
+{
+"audioSource": "audio6/corduroy.mp3",
+"meaning": "a thick cotton fabric with velvety ribs",
+"wordclass": "noun",
+"Etymology": "French 'corde du roi' (king's cord)",
+"answer": "corduroy"
+},
+
+{
+"audioSource": "audio6/cormorant.mp3",
+"meaning": "a large diving bird with a long neck, a hooked bill, and a distensible pouch for holding fish",
+"wordclass": "noun",
+"Etymology": "Latin 'corvus marinus' (sea raven)",
+"answer": "cormorant"
+},
+
+{
+"audioSource": "audio6/cornice.mp3",
+"meaning": "an ornamental molding around the wall of a room just below the ceiling",
+"wordclass": "noun",
+"Etymology": "Italian 'cornice' (frame, molding)",
+"answer": "cornice"
+},
+
+{
+"audioSource": "audio6/abysmal.mp3",
+"meaning": "extremely bad; appalling",
+"wordclass": "adjective",
+"Etymology": "Greek 'abussos' (bottomless)",
+"answer": "abysmal"
+},
+
+{
+"audioSource": "audio6/alimentary.mp3",
+"meaning": "relating to nourishment or sustenance",
+"wordclass": "adjective",
+"Etymology": "Latin 'alimentum' (nourishment)",
+"answer": "alimentary"
+},
+
+{
+"audioSource": "audio6/anaglyph.mp3",
+"meaning": "a decorative ornament worked in low relief, often made by impressing a design on paper and then covering it with plaster or another material",
+"wordclass": "noun",
+"Etymology": "Greek 'ana' (up, back) + 'glyphein' (to carve)",
+"answer": "anaglyph"
+},
+
+{
+"audioSource": "audio6/anagogic.mp3",
+"meaning": "related to mystical interpretation or spiritual insight",
+"wordclass": "adjective",
+"Etymology": "Greek 'anagoge' (a lifting up)",
+"answer": "anagogic"
+},
+
+{
+"audioSource": "audio6/analysand.mp3",
+"meaning": "a person undergoing psychoanalysis",
+"wordclass": "noun",
+"Etymology": "Latin/Greek 'analysis' + '-and' ",
+"answer": "analysand"
+},
+{
+"audioSource": "audio6/apothecary.mp3",
+"meaning": "a person who prepares and sells medicines and drugs",
+"wordclass": "noun",
+"Etymology": "Greek 'apothēkē' (storehouse)",
+"answer": "apothecary"
+},
+{
+"audioSource": "audio6/aquiline.mp3",
+"meaning": "curved or hooked like an eagle's beak",
+"wordclass": "adjective",
+"Etymology": "Latin 'aquilinus' (of or like an eagle)",
+"answer": "aquiline"
+},
+
+{
+"audioSource": "audio6/arabesque.mp3",
+"meaning": "a decorative design featuring intertwined flowing lines",
+"wordclass": "noun",
+"Etymology": "French 'arabesque', from Italian 'arabesco', from 'arabo' (Arab)",
+"answer": "arabesque"
+},
+
+{
+"audioSource": "audio6/arboreal.mp3",
+"meaning": "related to trees; living in trees",
+"wordclass": "adjective",
+"Etymology": "Latin 'arbor' (tree)",
+"answer": "arboreal"
+},
+
+{
+"audioSource": "audio6/balletomane.mp3",
+"meaning": "a ballet enthusiast",
+"wordclass": "noun",
+"Etymology": "French 'balletomane', from 'ballet' + Greek 'manos' (enthusiast)",
+"answer": "balletomane"
+},
+
+{
+"audioSource": "audio6/baloney.mp3",
+"meaning": "senseless talk; nonsense",
+"wordclass": "noun",
+"Etymology": "of uncertain origin",
+"answer": "baloney"
+},
+
+{
+"audioSource": "audio6/balneation.mp3",
+"meaning": "bathing; the act of bathing",
+"wordclass": "noun",
+"Etymology": "Latin 'balneatio', from 'balneare' (to bathe)",
+"answer": "balneation"
+},
+
+{
+"audioSource": "audio6/balustrade.mp3",
+"meaning": "a railing supported by balusters, especially an ornamental parapet on a balcony, bridge or terrace",
+"wordclass": "noun",
+"Etymology": "French 'balustrade', from Italian 'balaustro', from 'balausta' (wild pomegranate flower)",
+"answer": "balustrade"
+},
+
+{
+"audioSource": "audio6/banausic.mp3",
+"meaning": "related to or concerned with earning a living; mundane",
+"wordclass": "adjective",
+"Etymology": "Greek 'banausos' (manual laborer)",
+"answer": "banausic"
+},
+{
+"audioSource": "audio6/brachylogy.mp3",
+"meaning": "the use of few words; concise and abrupt style of speaking or writing",
+"wordclass": "noun",
+"Etymology": "Greek 'brachy-' (short) + '-logia' (discourse, words)",
+"answer": "brachylogy"
+},
+{
+"audioSource": "audio6/bisagre.mp3",
+"meaning": "a hinge used for doors and cabinets",
+"wordclass": "noun",
+"Etymology": "Spanish 'bisagra' (hinge)",
+"answer": "bisagre"
+},
+
+{
+"audioSource": "audio6/bise.mp3",
+"meaning": "a cold, dry, northerly wind in southeastern France",
+"wordclass": "noun",
+"Etymology": "French, from Old Provençal 'biso' (north wind)",
+"answer": "bise"
+},
+
+{
+"audioSource": "audio6/bivouac.mp3",
+"meaning": "a temporary camp without tents or cover, used especially by soldiers or mountaineers",
+"wordclass": "noun",
+"Etymology": "French, from Swiss German 'biwacht' (night guard)",
+"answer": "bivouac"
+},
+
+{
+"audioSource": "audio6/blague.mp3",
+"meaning": "a joke or tall story, often one that is not very funny or believable",
+"wordclass": "noun",
+"Etymology": "French 'blaguer' (to joke)",
+"answer": "blague"
+},
+
+{
+"audioSource": "audio6/blarney.mp3",
+"meaning": "flattering talk that is meant to persuade someone, often to do something they would not normally do",
+"wordclass": "noun",
+"Etymology": "from the Blarney Stone, a stone in Blarney Castle, Ireland, said to give eloquence to those who kiss it",
+"answer": "blarney"
+},
+
+{
+"audioSource": "audio6/blunderbuss.mp3",
+"meaning": "a short gun with a wide opening at the end, used in the 18th and 19th centuries",
+"wordclass": "noun",
+"Etymology": "Dutch 'donderbus' (thunder gun)",
+"answer": "blunderbuss"
+},
+
+{
+"audioSource": "audio6/boccaccio.mp3",
+"meaning": "an Italian writer of the 14th century, famous for his collection of stories called 'The Decameron'",
+"wordclass": "noun",
+"Etymology": "from the Italian family name Boccaccio",
+"answer": "boccaccio"
+},
+
+{
+"audioSource": "audio6/bocage.mp3",
+"meaning": "an area of land with many bushes and small trees, especially in the countryside",
+"wordclass": "noun",
+"Etymology": "French, from Old French 'boscage' (a thicket)",
+"answer": "bocage"
+},
+
+{
+"audioSource": "audio6/bodega.mp3",
+"meaning": "a small shop selling wine and groceries, especially in Spain or Latin America",
+"wordclass": "noun",
+"Etymology": "Spanish, from Latin 'apotheca' (a storehouse)",
+"answer": "bodega"
+},
+
+{
+"audioSource": "audio6/boiserie.mp3",
+"meaning": "decorative paneling for walls, usually made of wood",
+"wordclass": "noun",
+"Etymology": "French, from bois (wood)",
+"answer": "boiserie"
+}
+
+    ]
+}

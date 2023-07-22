@@ -1,0 +1,390 @@
+{
+    "words":[
+        {
+            "audioSource": "audio5/chiblains.mp3",
+            "meaning": "painful inflammation of the skin caused by cold and moisture",
+            "wordclass": "noun",
+            "Etymology": "French 'cheville' (ankle)",
+            "answer": "chiblains"
+            },
+            {
+                "audioSource": "audio5/chimerical.mp3",
+                "meaning": "imaginary or wildly fanciful",
+                "wordclass": "adjective",
+                "Etymology": "Greek 'khimaira' (chimera)",
+                "answer": "chimerical"
+                },
+                
+                {
+                "audioSource": "audio5/chinchilla.mp3",
+                "meaning": "a small South American rodent with soft gray fur",
+                "wordclass": "noun",
+                "Etymology": "Spanish 'chinchilla'",
+                "answer": "chinchilla"
+                },
+                
+                {
+                "audioSource": "audio5/coaration.mp3",
+                "meaning": "the act of plowing or cultivating land",
+                "wordclass": "noun",
+                "Etymology": "Latin 'coarare' (to plow)",
+                "answer": "coaration"
+                },
+                
+                {
+                "audioSource": "audio5/cochleariform.mp3",
+                "meaning": "shaped like a snail shell",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'cochlea' (snail shell)",
+                "answer": "cochleariform"
+                },
+                
+                {
+                "audioSource": "audio5/cocoon.mp3",
+                "meaning": "a silky case spun by the larvae of many insects for protection",
+                "wordclass": "noun",
+                "Etymology": "French 'cocoon'",
+                "answer": "cocoon"
+                },
+                
+                {
+                "audioSource": "audio5/codeine.mp3",
+                "meaning": "a pain-relieving drug derived from opium",
+                "wordclass": "noun",
+                "Etymology": "Greek 'kodeia' (poppy head)",
+                "answer": "codeine"
+                },
+                
+                {
+                "audioSource": "audio5/codicil.mp3",
+                "meaning": "an addition or supplement that explains, modifies, or revokes a will",
+                "wordclass": "noun",
+                "Etymology": "Latin 'codex' (book)",
+                "answer": "codicil"
+                },
+                
+                {
+                "audioSource": "audio5/coelostat.mp3",
+                "meaning": "a device that compensates for the rotation of the Earth, used in astronomical telescopes",
+                "wordclass": "noun",
+                "Etymology": "Greek 'koilos' (hollow) + 'statos' (stationary)",
+                "answer": "coelostat"
+                },
+                
+                {
+                "audioSource": "audio5/coeval.mp3",
+                "meaning": "of the same age or period; contemporary",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'co-' (together) + 'aevum' (age)",
+                "answer": "coeval"
+                },
+                {
+                    "audioSource": "audio5/contrariety.mp3",
+                    "meaning": "the quality or state of being contrary; opposition; inconsistency",
+                    "wordclass": "noun",
+                    "Etymology": "Latin 'contrarius' (opposite)",
+                    "answer": "contrariety"
+                    },
+                    {
+                        "audioSource": "audio5/contretemps.mp3",
+                        "meaning": "an inopportune or embarrassing occurrence or situation; a misunderstanding or dispute",
+                        "wordclass": "noun",
+                        "Etymology": "French 'contretemps' (discord)",
+                        "answer": "contretemps"
+                        },
+                        {
+                        "audioSource": "audio5/contusion.mp3",
+                        "meaning": "a region of injured tissue or skin in which blood capillaries have been ruptured; a bruise",
+                        "wordclass": "noun",
+                        "Etymology": "Latin 'contusio' (bruise)",
+                        "answer": "contusion"
+                        },
+                        {
+                        "audioSource": "audio5/corniculate.mp3",
+                        "meaning": "having a small horn-shaped process or projection; relating to the corniculate cartilage in the larynx",
+                        "wordclass": "adjective",
+                        "Etymology": "Latin 'corniculatus' (having a small horn)",
+                        "answer": "corniculate"
+                        },
+                        {
+                        "audioSource": "audio5/corollary.mp3",
+                        "meaning": "a proposition that follows from (and is often appended to) one already proved; a natural consequence or result",
+                        "wordclass": "noun",
+                        "Etymology": "Latin 'corollarium' (a deduction)",
+                        "answer": "corollary"
+                        },
+                        {
+                        "audioSource": "audio5/coronach.mp3",
+                        "meaning": "a traditional lamentation for the dead; a funeral song or dirge",
+                        "wordclass": "noun",
+                        "Etymology": "Gaelic 'coronach' (lament)",
+                        "answer": "coronach"
+                        },
+                        {
+                        "audioSource": "audio5/coroner.mp3",
+                        "meaning": "an official who investigates and determines the cause of death in certain cases",
+                        "wordclass": "noun",
+                        "Etymology": "Anglo-French 'corouner' (to inquire, investigate)",
+                        "answer": "coroner"
+                        },
+                        {
+                        "audioSource": "audio5/coronet.mp3",
+                        "meaning": "a small crown worn by nobles or royalty, usually as a circlet with spikes or points",
+                        "wordclass": "noun",
+                        "Etymology": "Middle French 'coronete' (little crown)",
+                        "answer": "coronet"
+                        },
+                        {
+                        "audioSource": "audio5/corporeal.mp3",
+                        "meaning": "having a physical body; material; tangible",
+                        "wordclass": "adjective",
+                        "Etymology": "Latin 'corporeus' (bodily)",
+                        "answer": "corporeal"
+                        },
+                        {
+                        "audioSource": "audio5/corroborate.mp3",
+                        "meaning": "to confirm or give support to (a statement, theory, or finding); to make more certain",
+                        "wordclass": "verb",
+                        "Etymology": "Latin 'corroboratus' (strengthened)",
+                        "answer": "corroborate"
+                        },
+                        {
+                            "audioSource": "audio5/coruscate.mp3",
+                            "meaning": "to give off flashes of light; to sparkle",
+                            "wordclass": "verb",
+                            "Etymology": "Latin 'coruscare' (to glitter, sparkle)",
+                            "answer": "coruscate"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/cucaracha.mp3",
+                            "meaning": "a cockroach",
+                            "wordclass": "noun",
+                            "Etymology": "Spanish 'cucaracha' (cockroach)",
+                            "answer": "cucaracha"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/cuchifrito.mp3",
+                            "meaning": "a Puerto Rican dish of fried pork",
+                            "wordclass": "noun",
+                            "Etymology": "Spanish 'cuchifrito' (fried food)",
+                            "answer": "cuchifrito"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/cudgel.mp3",
+                            "meaning": "a short thick stick used as a weapon; to beat with a cudgel",
+                            "wordclass": "noun/verb",
+                            "Etymology": "Middle English 'kuggel' (cudgel)",
+                            "answer": "cudgel"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/culgee.mp3",
+                            "meaning": "a type of cotton cloth",
+                            "wordclass": "noun",
+                            "Etymology": "unknown",
+                            "answer": "culgee"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/cummerbund.mp3",
+                            "meaning": "a broad sash worn around the waist, especially in formal dress",
+                            "wordclass": "noun",
+                            "Etymology": "Hindi 'kamarband' (waistband)",
+                            "answer": "cummerbund"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/cuneiform.mp3",
+                            "meaning": "relating to the wedge-shaped characters used in ancient writing systems like Sumerian and Akkadian; resembling a wedge",
+                            "wordclass": "adjective",
+                            "Etymology": "Latin 'cuneus' (wedge) + 'forma' (shape)",
+                            "answer": "cuneiform"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/deleterious.mp3",
+                            "meaning": "causing harm or damage",
+                            "wordclass": "adjective",
+                            "Etymology": "Latin 'deleterius' (injurious)",
+                            "answer": "deleterious"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/delicatessen.mp3",
+                            "meaning": "a store selling foods ready to eat, especially meats and cheeses; a type of food sold in such a store",
+                            "wordclass": "noun",
+                            "Etymology": "German 'delikatessen' (delicacies)",
+                            "answer": "delicatessen"
+                            },
+                            
+                            {
+                            "audioSource": "audio5/deliquesce.mp3",
+                            "meaning": "to melt away; to disappear gradually",
+                            "wordclass": "verb",
+                            "Etymology": "Latin 'deliquescere' (to melt away)",
+                            "answer": "deliquesce"
+                            },
+                            {
+                                "audioSource": "audio5/delitescent.mp3",
+                                "meaning": "concealed, hidden",
+                                "wordclass": "adjective",
+                                "Etymology": "Latin 'delitescens', present participle of 'delitescere' (to hide away)",
+                                "answer": "delitescent"
+                                },
+                                {
+                                    "audioSource": "audio5/deltiology.mp3",
+                                    "meaning": "the study or collection of postcards",
+                                    "wordclass": "noun",
+                                    "Etymology": "Greek 'delteion' (little tablet), 'logia' (study)",
+                                    "answer": "deltiology"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/demagoguery.mp3",
+                                    "meaning": "political activity or practices that seek support by appealing to the desires and prejudices of ordinary people rather than by using rational argument",
+                                    "wordclass": "noun",
+                                    "Etymology": "Greek 'dēmagōgos' (leader of the people), 'dēmos' (people) + 'agein' (lead)",
+                                    "answer": "demagoguery"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/demeanour.mp3",
+                                    "meaning": "outward behavior or bearing",
+                                    "wordclass": "noun",
+                                    "Etymology": "Old French 'demeanor', 'demener' (to conduct oneself) + '-our' (noun suffix)",
+                                    "answer": "demeanour"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/derrick.mp3",
+                                    "meaning": "a framework or tower that supports a drill over a deep hole",
+                                    "wordclass": "noun",
+                                    "Etymology": "Middle Dutch 'derick, derrick' (a gallows)",
+                                    "answer": "derrick"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/desiccate.mp3",
+                                    "meaning": "remove the moisture from something; to dry out",
+                                    "wordclass": "verb",
+                                    "Etymology": "Latin 'desiccatus', past participle of 'desiccare' (to dry up)",
+                                    "answer": "desiccate"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/desperado.mp3",
+                                    "meaning": "a desperate or reckless person, especially a criminal",
+                                    "wordclass": "noun",
+                                    "Etymology": "Spanish, from 'desesperado' (desperate)",
+                                    "answer": "desperado"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/destrier.mp3",
+                                    "meaning": "a warhorse, especially a powerful one ridden by a knight",
+                                    "wordclass": "noun",
+                                    "Etymology": "Old French 'destrier' (war horse), from 'destre' (right), from Latin 'dextra' (right hand)",
+                                    "answer": "destrier"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/diaphanous.mp3",
+                                    "meaning": "light, delicate, and translucent",
+                                    "wordclass": "adjective",
+                                    "Etymology": "Greek 'diaphanēs' (transparent), 'dia-' (through) + 'phanēs' (visible)",
+                                    "answer": "diaphanous"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "audio5/debenture.mp3",
+                                    "meaning": "a document acknowledging a debt and specifying repayment terms",
+                                    "wordclass": "noun",
+                                    "Etymology": "Latin 'debentur' (there are owing)",
+                                    "answer": "debenture"
+                                    },
+                                    {
+                                        "audioSource": "audio5/debouchment.mp3",
+                                        "meaning": "the emergence or debouching of a river or other watercourse into the sea or a lake",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'déboucher' (to unblock, let flow)",
+                                        "answer": "debouchment"
+                                        },
+                                        {
+                                            "audioSource": "audio5/debridement.mp3",
+                                            "meaning": "the surgical removal of dead, damaged, or infected tissue",
+                                            "wordclass": "noun",
+                                            "Etymology": "French 'débrider' (to unbridle, unfasten)",
+                                            "answer": "debridement"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/decedent.mp3",
+                                            "meaning": "a deceased person",
+                                            "wordclass": "noun",
+                                            "Etymology": "Latin 'decēdere' (to die)",
+                                            "answer": "decedent"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/dissident.mp3",
+                                            "meaning": "a person who opposes official policy, especially that of an authoritarian state",
+                                            "wordclass": "noun",
+                                            "Etymology": "Latin 'dissidēre' (to disagree, differ)",
+                                            "answer": "dissident"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/denizen.mp3",
+                                            "meaning": "an inhabitant or occupant of a particular place",
+                                            "wordclass": "noun",
+                                            "Etymology": "Old French 'deien' (to dwell)",
+                                            "answer": "denizen"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/besom.mp3",
+                                            "meaning": "a broom, especially one made of twigs tied around a stick",
+                                            "wordclass": "noun",
+                                            "Etymology": "Old English 'besma' (a bunch of twigs)",
+                                            "answer": "besom"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/thesaurus.mp3",
+                                            "meaning": "a book that lists words in groups of synonyms and related concepts",
+                                            "wordclass": "noun",
+                                            "Etymology": "Greek 'thēsauros' (treasure, storehouse)",
+                                            "answer": "thesaurus"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/dentifrice.mp3",
+                                            "meaning": "a paste, powder, or liquid for cleaning the teeth",
+                                            "wordclass": "noun",
+                                            "Etymology": "French 'dentifrice' (toothpaste)",
+                                            "answer": "dentifrice"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/depilatory.mp3",
+                                            "meaning": "a cosmetic or medical preparation used to remove unwanted hair from the skin",
+                                            "wordclass": "noun",
+                                            "Etymology": "Latin 'depilare' (to pluck the hair from)",
+                                            "answer": "depilatory"
+                                            },
+                                            
+                                            {
+                                            "audioSource": "audio5/deracinated.mp3",
+                                            "meaning": "uprooted or displaced from one's geographical or social environment",
+                                            "wordclass": "adjective",
+                                            "Etymology": "Latin 'radix' (root)",
+                                            "answer": "deracinated"
+                                            }
+                                            
+                                    
+                
+    ]
+}

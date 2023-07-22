@@ -1,0 +1,393 @@
+{
+    "words":[
+
+        {
+            "audioSource": "audio2/aurelian.mp3",
+            "meaning": "a person who collects or studies butterflies and moths",
+            "wordclass": "noun",
+            "Etymology": "Latin 'aureus' (golden)",
+            "answer": "aurelian"
+        },
+        {
+            "audioSource": "audio2/auricle.mp3",
+            "meaning": "the external part of the ear",
+            "wordclass": "noun",
+            "Etymology": "Latin 'auricula' (little ear)",
+            "answer": "auricle"
+        },
+            
+        {
+            "audioSource": "audio2/auricular.mp3",
+            "meaning": "relating to the ear or hearing; told in secret",
+            "wordclass": "adjective",
+           "Etymology": "Latin 'auricularis' (pertaining to the ear)",
+           "answer": "auricular"
+       },
+            
+       {
+            "audioSource": "audio2/auscultation.mp3",
+            "meaning": "the act of listening to sounds made by internal organs, especially the heart and lungs, to aid in the diagnosis of disease",
+            "wordclass": "noun",
+            "Etymology": "Latin 'auscultare' (to listen)",
+            "answer": "auscultation"
+      },
+            
+        {
+            "audioSource": "audio2/auspices.mp3",
+            "meaning": "a divine or prophetic token",
+            "wordclass": "noun",
+            "Etymology": "Latin 'auspex' (diviner)",
+            "answer": "auspices"
+        },
+            
+        {
+            "audioSource": "audio2/austere.mp3",
+            "meaning": "severe or strict in manner, attitude, or appearance; having no comforts or luxuries",
+            "wordclass": "adjective",
+           "Etymology": "Latin 'austerus' (severe)",
+            "answer": "austere"
+        },
+            
+        {
+           "audioSource": "audio2/astigmatism.mp3",
+            "meaning": "a defect in the eye or in a lens caused by a deviation from spherical curvature, which results in distorted images, as light rays are prevented from meeting at a common focus",
+            "wordclass": "noun",
+            "Etymology": "Greek 'a' (not) + 'stigma' (a mark)",
+            "answer": "astigmatism"
+       },
+            
+        {
+           "audioSource": "audio2/astringe.mp3",
+            "meaning": "to draw together, to contract",
+            "wordclass": "verb",
+            "Etymology": "Latin 'astringere' (to bind fast)",
+            "answer": "astringe"
+        },
+            
+        {
+            "audioSource": "audio2/atelier.mp3",
+            "meaning": "a workshop or studio, especially one used by an artist or designer",
+            "wordclass": "noun",
+            "Etymology": "French 'atelier' (workshop)",
+            "answer": "atelier"
+        },
+            
+    {
+            "audioSource": "audio2/atrichia.mp3",
+            "meaning": "the complete absence of hair from the body",
+            "wordclass": "noun",
+            "Etymology": "Greek 'a' (not) + 'trikhos' (hair)",
+            "answer": "atrichia"
+     },
+    {
+            "audioSource": "audio2/atrophy.mp3",
+            "meaning": "wasting away or shrinking of a body part or tissue",
+            "wordclass": "noun",
+           "Etymology": "Greek 'atrophos' (ill-fed)",
+            "answer": "atrophy"
+     },
+                    
+     {
+            "audioSource": "audio2/osculation.mp3",
+            "meaning": "an act of kiss",
+            "wordclass": "verb",
+            "Etymology": "Latin 'osculare' (to kiss)",
+            "answer": "osculation"
+     },
+                    
+    {
+            "audioSource": "audio2/attenuate.mp3",
+            "meaning": "to weaken or reduce in force or intensity",
+            "wordclass": "verb",
+            "Etymology": "Latin 'attenuatus' (made thin)",
+            "answer": "attenuate"
+    },
+                    
+    {
+            "audioSource": "audio2/annuity.mp3",
+            "meaning": "a fixed sum of money paid to someone each year, typically for the rest of their life",
+            "wordclass": "noun",
+            "Etymology": "Latin 'annus' (year)",
+            "answer": "annuity"
+     },
+                    
+      {
+            "audioSource": "audio2/aspersion.mp3",
+            "meaning": "an attack on someone's reputation or integrity",
+            "wordclass": "noun",
+           "Etymology": "Latin 'aspergere' (to sprinkle)",
+            "answer": "aspersion"
+    },
+                    
+    {
+            "audioSource": "audio2/asphodel.mp3",
+            "meaning": "a plant of the lily family with long, narrow leaves and a tall spike of white or yellow flowers",
+            "wordclass": "noun",
+            "Etymology": "Greek 'asphodelos'",
+            "answer": "asphodel"
+    },
+                    
+    {
+            "audioSource": "audio2/assassinate.mp3",
+            "meaning": "to murder someone, especially a public figure, by surprise attack",
+            "wordclass": "verb",
+            "Etymology": "Latin 'assassinare' (to kill with hashish)",
+            "answer": "assassinate"
+    },
+                    
+    {
+            "audioSource": "audio2/asseveration.mp3",
+            "meaning": "a solemn or emphatic declaration or statement; an assertion",
+            "wordclass": "noun",
+            "Etymology": "Latin 'asseverare' (to affirm)",
+            "answer": "asseveration"
+    },
+                    
+    {
+            "audioSource": "audio2/assiduously.mp3",
+           "meaning": "with great care and perseverance",
+            "wordclass": "adverb",
+           "Etymology": "Latin 'assiduus' (constant)",
+            "answer": "assiduously"
+     },
+                    
+    {
+            "audioSource": "audio2/appaloosa.mp3",
+            "meaning": "a horse of a breed with a spotted coat",
+            "wordclass": "noun",
+            "Etymology": "from the Palouse River in the Pacific Northwest",
+            "answer": "appaloosa"
+    },
+    {
+            "audioSource": "audio2/anodyne.mp3",
+            "meaning": "something that soothes or relieves pain; not likely to provoke dissent or offense",
+            "wordclass": "noun/adjective",
+            "Etymology": "Greek 'an-' (without) + 'odynē' (pain)",
+            "answer": "anodyne"
+    },
+           
+   {
+            "audioSource": "audio2/annul.mp3",
+            "meaning": "declare invalid or void; make legally null and void",
+            "wordclass": "verb",
+            "Etymology": "Latin 'annullare' (to make nothing)",
+            "answer": "annul"
+    },
+                        
+    {
+            "audioSource": "audio2/anodyne.mp3",
+            "meaning": "something that soothes or relieves pain; not likely to provoke dissent or offense",
+            "wordclass": "noun/adjective",
+            "Etymology": "Greek 'an-' (without) + 'odynē' (pain)",
+            "answer": "anodyne"
+    },
+                        
+    {
+            "audioSource": "audio2/allargando.mp3",
+            "meaning": "gradually slowing down and becoming broader; with increased volume",
+            "wordclass": "adverb",
+            "Etymology": "Italian 'allargando' (broadening)",
+            "answer": "allargando"
+    },
+                        
+    {
+            "audioSource": "audio2/allege.mp3",
+            "meaning": "to assert without proof or confirmation",
+            "wordclass": "verb",
+            "Etymology": "Old French 'aleguer' (to justify), from Medieval Latin 'alligare' (to bind to)",
+            "answer": "allege"
+    },
+                        
+    {
+            "audioSource": "audio2/allegory.mp3",
+            "meaning": "a story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one",
+            "wordclass": "noun",
+            "Etymology": "Greek 'allēgoria' (speaking otherwise)",
+            "answer": "allegory"
+    },
+                        
+    {
+            "audioSource": "audio2/allemande.mp3",
+            "meaning": "a moderate tempo dance in quadruple meter",
+            "wordclass": "noun",
+            "Etymology": "French 'allemand' (German), from 'Allemagne' (Germany)",
+            "answer": "allemande"
+    },
+                        
+    {
+            "audioSource": "audio2/allergy.mp3",
+            "meaning": "a damaging immune response by the body to a substance, especially pollen, fur, a particular food, or dust, to which it has become hypersensitive",
+            "wordclass": "noun",
+            "Etymology": "Greek 'allos' (other) + 'ergon' (work)",
+            "answer": "allergy"
+    },
+                        
+    {
+            "audioSource": "audio2/adonis.mp3",
+            "meaning": "a very handsome young man",
+            "wordclass": "noun",
+            "Etymology": "Greek 'Adōnis'",
+            "answer": "adonis"
+    },
+                        
+    {
+            "audioSource": "audio2/adumbrate.mp3",
+            "meaning": "to give a sketchy outline; to foreshadow or symbolize in an indirect way",
+            "wordclass": "verb",
+            "Etymology": "Latin 'adumbrare' (to cast a shadow over)",
+            "answer": "adumbrate"
+     },
+ {
+            "audioSource": "audio2/alopecia.mp3",
+            "meaning": "hair loss, especially on the head",
+            "wordclass": "noun",
+            "Etymology": "Greek 'alopex' (fox) + '-ia' (condition)",
+            "answer": "alopecia"
+    },
+    {
+            "audioSource": "audio2/aileron.mp3",
+            "meaning": "a movable control surface on the wing of an airplane, used for banking and turning",
+            "wordclass": "noun",
+            "Etymology": "French, from 'aile' (wing)",
+            "answer": "aileron"
+    },
+                            
+    {
+            "audioSource": "audio2/airedale.mp3",
+            "meaning": "a large terrier dog breed originating in England",
+            "wordclass": "noun",
+            "Etymology": "Named after the Aire Valley in Yorkshire, England",
+            "answer": "airedale"
+    },
+                            
+    {
+            "audioSource": "audio2/akropodion.mp3",
+            "meaning": "an acropolis",
+            "wordclass": "noun",
+            "Etymology": "Greek 'akro-' (high) + 'podos' (foot)",
+            "answer": "akropodion"
+    },
+                            
+    {
+            "audioSource": "audio2/albedo.mp3",
+            "meaning": "the proportion of light or radiation that is reflected by a surface",
+            "wordclass": "noun",
+            "Etymology": "Latin 'albus' (white)",
+            "answer": "albedo"
+    },
+                            
+    {
+            "audioSource": "audio2/alegar.mp3",
+            "meaning": "a type of vinegar made from ale or beer",
+            "wordclass": "noun",
+            "Etymology": "Old English 'aeglǣr' (ale-sour)",
+            "answer": "alegar"
+    },
+                            
+        {
+            "audioSource": "audio2/arcanum.mp3",
+            "meaning": "a secret or mystery",
+            "wordclass": "noun",
+            "Etymology": "Latin 'arcanus' (secret)",
+            "answer": "arcanum"
+    },
+                            
+    {
+            "audioSource": "audio2/archery.mp3",
+            "meaning": "the sport or practice of shooting with a bow and arrows",
+            "wordclass": "noun",
+            "Etymology": "Old French 'archerie', from 'arc' (bow)",
+            "answer": "archery"
+    },
+                            
+    {
+            "audioSource": "audio2/archivalia.mp3",
+            "meaning": "official documents and records that are preserved for historical or research purposes",
+            "wordclass": "noun",
+            "Etymology": "From 'archive' + '-alia' (plural suffix)",
+            "answer": "archivalia"
+    },
+                            
+    {
+            "audioSource": "audio2/arenaceous.mp3",
+            "meaning": "consisting of or containing sand; sandy",
+            "wordclass": "adjective",
+            "Etymology": "Latin 'arena' (sand)",
+            "answer": "arenaceous"
+    },
+   {
+            "audioSource": "audio2/aretalogy.mp3",
+            "meaning": "a narrative describing the genealogy and attributes of a deity",
+            "wordclass": "noun",
+            "Etymology": "Greek 'aretalogia' (praising oneself excessively)",
+            "answer": "aretalogy"
+    },
+    {
+            "audioSource": "audio2/auscultation.mp3",
+            "meaning": "the act of listening to sounds within the body as a method of diagnosis",
+            "wordclass": "noun",
+            "Etymology": "Latin 'auscultare' (to listen)",
+            "answer": "auscultation"
+    },
+                                    
+    {
+            "audioSource": "audio2/appurtenant.mp3",
+            "meaning": "belonging to something as a right; attached",
+            "wordclass": "adjective",
+            "Etymology": "Anglo-French 'appurtenant' (belonging)",
+            "answer": "appurtenant"
+    },
+                                    
+    {
+            "audioSource": "audio2/anemochore.mp3",
+            "meaning": "a plant whose seed is distributed by the wind",
+            "wordclass": "noun",
+            "Etymology": "Greek 'anemos' (wind) + 'khorion' (place for dancing)",
+            "answer": "anemochore"
+    },
+                                    
+    {
+            "audioSource": "audio2/apropos.mp3",
+            "meaning": "relevant to a particular matter; with regard to",
+            "wordclass": "adjective/adverb",
+            "Etymology": "French 'à propos' (to the purpose)",
+            "answer": "apropos"
+    },
+                                    
+    {
+            "audioSource": "audio2/anemometer.mp3",
+            "meaning": "an instrument for measuring the speed of the wind",
+            "wordclass": "noun",
+            "Etymology": "Greek 'anemos' (wind) + 'metron' (measure)",
+            "answer": "anemometer"
+    },
+                                    
+    {
+            "audioSource": "audio2/anglaise.mp3",
+            "meaning": "a style of dress characterized by a fitted bodice and a flared skirt",
+            "wordclass": "noun",
+            "Etymology": "French 'à l'anglaise' (in the English style)",
+            "answer": "anglaise"
+    },
+                                    
+    {
+            "audioSource": "audio2/anise.mp3",
+            "meaning": "a plant whose seeds are used for flavoring and medicine",
+            "wordclass": "noun",
+            "Etymology": "Greek 'anison' (anise)",
+            "answer": "anise"
+    },
+                                    
+    {
+            "audioSource": "audio2/ankh.mp3",
+            "meaning": "an ancient Egyptian symbol representing life",
+            "wordclass": "noun",
+            "Etymology": "Egyptian 'ankh' (life)",
+            "answer": "ankh"
+    }
+                                    
+                                 
+                            
+                        
+    ]
+}

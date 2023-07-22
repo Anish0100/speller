@@ -1,0 +1,320 @@
+{
+    "words":[
+        {
+            "audioSource": "dutch/mynheer.mp3",
+            "meaning": "a Dutch title of respect for a man, equivalent to 'Mister'",
+            "wordclass": "noun",
+            "Etymology": "From Middle Dutch 'mijn heer' (my lord)",
+            "answer": "mynheer"
+            },
+            {
+                "audioSource": "dutch/bobbejaan.mp3",
+                "meaning": "baboon",
+                "wordclass": "noun",
+                "Etymology": "From Middle Dutch 'baviaan' (baboon)",
+                "answer": "bobbejaan"
+                },
+                
+                {
+                "audioSource": "dutch/keeshond.mp3",
+                "meaning": "a breed of dog originally used for guarding barges in Holland",
+                "wordclass": "noun",
+                "Etymology": "From Dutch 'Kees' (a common nickname for Cornelius) + 'hond' (dog)",
+                "answer": "keeshond"
+                },
+                
+                {
+                "audioSource": "dutch/waterzooi.mp3",
+                "meaning": "a stew made from fish or chicken, vegetables, and cream",
+                "wordclass": "noun",
+                "Etymology": "From Dutch 'zooien' (to mix) + 'water' (water)",
+                "answer": "waterzooi"
+                },
+                
+                {
+                "audioSource": "dutch/hartebeest.mp3",
+                "meaning": "a large African antelope with a long narrow head and curved horns",
+                "wordclass": "noun",
+                "Etymology": "From Afrikaans 'hartebees' (literally 'deer ox')",
+                "answer": "hartebeest"
+                },
+                
+                {
+                "audioSource": "dutch/wildebeest.mp3",
+                "meaning": "an African antelope with a large head, a beard, and curved horns",
+                "wordclass": "noun",
+                "Etymology": "From Dutch 'wilde' (wild) + 'beest' (animal)",
+                "answer": "wildebeest"
+                },
+                
+                {
+                "audioSource": "dutch/flense.mp3",
+                "meaning": "to strip the blubber or skin from (a whale, seal, or similar animal)",
+                "wordclass": "verb",
+                "Etymology": "From Middle Dutch 'vlensen' (to flay)",
+                "answer": "flense"
+                },
+                
+                {
+                "audioSource": "dutch/voortrekker.mp3",
+                "meaning": "a pioneer who helped settle parts of South Africa in the 19th century",
+                "wordclass": "noun",
+                "Etymology": "From Dutch 'voortrekken' (to trek forward)",
+                "answer": "voortrekker"
+                },
+                
+                {
+                "audioSource": "dutch/keest.mp3",
+                "meaning": "a hard, brittle type of cheese",
+                "wordclass": "noun",
+                "Etymology": "From Dutch 'kaas' (cheese)",
+                "answer": "keest"
+                },
+                
+                {
+                "audioSource": "dutch/muishond.mp3",
+                "meaning": "a mongoose found in southern Africa",
+                "wordclass": "noun",
+                "Etymology": "From Dutch 'muizen' (mice) + 'hond' (dog)",
+                "answer": "muishond"
+                },
+                
+                {
+                    "audioSource": "dutch/uitlander.mp3",
+                    "meaning": "a foreigner, especially a non-Dutch person living in the Netherlands",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'uit' (out) + 'lander' (foreigner)",
+                    "answer": "uitlander"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/wainscot.mp3",
+                    "meaning": "wooden panelling on the lower part of a room's walls",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'wagenschot' (wagon partition)",
+                    "answer": "wainscot"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/witloof.mp3",
+                    "meaning": "a type of vegetable also known as Belgian endive",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'wit' (white) + 'loof' (foliage)",
+                    "answer": "witloof"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/hollandaise.mp3",
+                    "meaning": "a sauce made from butter, egg yolks, lemon juice, and seasoning",
+                    "wordclass": "noun",
+                    "Etymology": "French 'sauce hollandaise' (Dutch sauce)",
+                    "answer": "hollandaise"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/roodebok.mp3",
+                    "meaning": "a red deer",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'rood' (red) + 'bok' (buck)",
+                    "answer": "roodebok"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/springbok.mp3",
+                    "meaning": "a medium-sized antelope native to southern Africa",
+                    "wordclass": "noun",
+                    "Etymology": "Afrikaans 'springbok'",
+                    "answer": "springbok"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/galjoen.mp3",
+                    "meaning": "a type of fish found in the waters around southern Africa",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'galjoen' (galleon ship)",
+                    "answer": "galjoen"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/maelstrom.mp3",
+                    "meaning": "a powerful whirlpool in the sea or a river",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'maalstroom' (whirlpool)",
+                    "answer": "maelstrom"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/schipperke.mp3",
+                    "meaning": "a small breed of dog originating from Belgium",
+                    "wordclass": "noun",
+                    "Etymology": "Dutch 'schipperke' (little captain)",
+                    "answer": "schiperkke"
+                    },
+                    
+                    {
+                    "audioSource": "dutch/keelhaul.mp3",
+                    "meaning": "a form of punishment where a person is dragged under the keel of a ship",
+                    "wordclass": "verb",
+                    "Etymology": "Dutch 'kielhalen' (to haul under the keel)",
+                    "answer": "keelhaul"
+                    },
+                    {
+                        "audioSource": "dutch/wiseacre.mp3",
+                        "meaning": "a person who thinks they know and cleverly disparages other people",
+                        "wordclass": "noun",
+                        "Etymology": "Origin uncertain, possibly from Middle Dutch 'wijssegger' (soothsayer)",
+                        "answer": "wiseacre"
+                        },
+                        {
+                            "audioSource": "dutch/daffodil.mp3",
+                            "meaning": "a bulbous plant with yellow flowers and a trumpet-shaped central projection",
+                            "wordclass": "noun",
+                            "Etymology": "From Dutch 'de affodil' (the asphodel)",
+                            "answer": "daffodil"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/brackish.mp3",
+                            "meaning": "slightly salty, as is the mixture of river water and seawater in estuaries",
+                            "wordclass": "adjective",
+                            "Etymology": "From Middle Dutch 'brac' (salty)",
+                            "answer": "brackish"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/gulden.mp3",
+                            "meaning": "a former gold coin or monetary unit of the Netherlands",
+                            "wordclass": "noun",
+                            "Etymology": "From Middle Dutch 'gulden' (golden)",
+                            "answer": "gulden"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/caboose.mp3",
+                            "meaning": "a ship's kitchen or galley; a North American railway wagon equipped with cooking and sleeping facilities for the train crew",
+                            "wordclass": "noun",
+                            "Etymology": "From Middle Dutch 'kombuis' (ship's galley)",
+                            "answer": "caboose"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/buckwheat.mp3",
+                            "meaning": "a plant with small white or pink flowers, and triangular seeds which are used for food and as fodder",
+                            "wordclass": "noun",
+                            "Etymology": "From Middle Dutch 'boecweite' (beech wheat)",
+                            "answer": "buckwheat"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/cockatoo.mp3",
+                            "meaning": "a parrot with a prominent erectile crest on the head, found chiefly in Australia and the East Indies",
+                            "wordclass": "noun",
+                            "Etymology": "From Malay 'kakatua'",
+                            "answer": "cockatoo"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/howitzer.mp3",
+                            "meaning": "a type of artillery piece characterized by a relatively short barrel and the use of comparatively small propellant charges to propel projectiles at relatively high trajectories",
+                            "wordclass": "noun",
+                            "Etymology": "From Dutch 'hauwitzer' (stone-thrower)",
+                            "answer": "howitzer"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/walrus.mp3",
+                            "meaning": "a large marine mammal with a tough hide, long tusks, and whiskers, found in the Arctic Ocean",
+                            "wordclass": "noun",
+                            "Etymology": "From Old Norse 'rosmhvalr' (horse-whale)",
+                            "answer": "walrus"
+                            },
+                            
+                            {
+                            "audioSource": "dutch/guilder.mp3",
+                            "meaning": "a former monetary unit of the Netherlands and several other European countries",
+                            "wordclass": "noun",
+                            "Etymology": "From Middle Dutch 'gulden' (golden)",
+                            "answer": "guilder"
+                            },
+                            {
+                                "audioSource": "dutch/harpoon.mp3",
+                                "meaning": "a long spear-like instrument used for fishing or hunting large sea animals",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'harpoen', ultimately from Old Norse 'hǫrpuða'",
+                                "answer": "harpoon"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/etch.mp3",
+                                "meaning": "to cut into a surface with a sharp tool, especially to create a design or image",
+                                "wordclass": "verb",
+                                "Etymology": "from Dutch 'etsen', ultimately from Old High German 'azzen'",
+                                "answer": "etch"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/furlough.mp3",
+                                "meaning": "a temporary leave of absence granted to a worker or soldier",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'verlof', from 'ver-' (for-) + 'lof' (permission)",
+                                "answer": "furlough"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/netherlander.mp3",
+                                "meaning": "a person from the Netherlands",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'Nederlander', from 'neder-' (low) + 'land' (land)",
+                                "answer": "netherlander"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/bruin.mp3",
+                                "meaning": "a brown color",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'bruin', from Middle Dutch 'brun'",
+                                "answer": "bruin"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/bowery.mp3",
+                                "meaning": "a colonial Dutch farm or country estate; a street in New York City",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'bouwerij', ultimately from Middle Low German 'būrērei'",
+                                "answer": "bowery"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/dune.mp3",
+                                "meaning": "a hill of sand built by wind or water flow",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'duin', ultimately from Proto-Germanic 'dūniz'",
+                                "answer": "dune"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/stipple.mp3",
+                                "meaning": "to apply paint, ink, or pencil in small dots or strokes",
+                                "wordclass": "verb",
+                                "Etymology": "from Dutch 'stippen', from Middle Dutch 'stippen'",
+                                "answer": "stipple"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/spoor.mp3",
+                                "meaning": "a track or trail, especially that of a wild animal",
+                                "wordclass": "noun",
+                                "Etymology": "from Dutch 'spoor', from Middle Dutch 'spor'",
+                                "answer": "spoor"
+                                },
+                                
+                                {
+                                "audioSource": "dutch/spore.mp3",
+                                "meaning": "a reproductive cell, often a single cell, of fungi, algae, or plants",
+                                "wordclass": "noun",
+                                "Etymology": "from Old English 'spora', from Proto-Germanic 'spurōną'",
+                                "answer": "spore"
+                                }
+                                
+    ]
+}

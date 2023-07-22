@@ -1,0 +1,805 @@
+{
+    "words":[
+        {
+            "word": "chanticleer",
+            "audioSource": "spellit5/chanticleer.mp3",
+            "meaning": "a rooster",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "chanticleer"
+          },
+          {
+            "word": "desidaratum",
+            "audioSource": "spellit5/desidaratum.mp3",
+            "meaning": "a thing that is desired",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "desidaratum"
+          },
+          {
+            "word": "dextrorotation",
+            "audioSource": "spellit5/dextrorotation.mp3",
+            "meaning": "the rotation of a molecule in a clockwise direction",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "dextrorotation"
+          },
+          {
+            "word": "messieurs",
+            "audioSource": "spellit5/messieurs.mp3",
+            "meaning": "a plural form of monsieur, used to address or refer to two or more men",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "messieurs"
+          },
+          {
+            "word": "metallurgy",
+            "audioSource": "spellit5/metallurgy.mp3",
+            "meaning": "the science and technology of metals",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "metallurgy"
+          },
+          {
+            "word": "metamorphosis",
+            "audioSource": "spellit5/metamorphosis.mp3",
+            "meaning": "a complete change of form or appearance",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "metamorphosis"
+          },
+          {
+            "word": "mete",
+            "audioSource": "spellit5/mete.mp3",
+            "meaning": "to deal out or apportion",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "mete"
+          },
+          {
+            "word": "metempsychosis",
+            "audioSource": "spellit5/metempsychosis.mp3",
+            "meaning": "the transmigration of the soul from one body to another",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "metempsychosis"
+          },
+          {
+            "word": "metronome",
+            "audioSource": "spellit5/metronome.mp3",
+            "meaning": "an instrument that produces a regular ticking sound, used to keep time",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "metronome"
+          },
+          {
+            "word": "mettle",
+            "audioSource": "spellit5/mettle.mp3",
+            "meaning": "courage, determination, or spirit",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "mettle"
+          },
+          {
+            "word": "mettlesome",
+            "audioSource": "spellit5/mettlesome.mp3",
+            "meaning": "having or showing courage, determination, or spirit",
+            "wordclass": "adjective",
+            "Etymology": "Middle English",
+            "answer": "mettlesome"
+          },
+          {
+            "word": "mien",
+            "audioSource": "spellit5/mien.mp3",
+            "meaning": "a person's bearing or appearance",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "mien"
+          },
+          {
+            "word": "militia",
+            "audioSource": "spellit5/militia.mp3",
+            "meaning": "a military force that is raised from the civilian population",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "militia"
+          },
+          {
+            "word": "miscreant",
+            "audioSource": "spellit5/miscreant.mp3",
+            "meaning": "a person who behaves in a wicked or evil way",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "miscreant"
+          },
+          {
+            "word": "misdemeanor",
+            "audioSource": "spellit5/misdemeanor.mp3",
+            "meaning": "a crime that is less serious than a felony",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "misdemeanor"
+          },
+          {
+            "word": "missal",
+            "audioSource": "spellit5/missal.mp3",
+            "meaning": "a book containing the prayers and readings for the Mass",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "missal"
+          },
+          {
+            "word": "mite",
+            "audioSource": "spellit5/mite.mp3",
+            "meaning": "a small insect",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "mite"
+          },
+          {
+            "word": "mitered",
+            "audioSource": "spellit5/mitered.mp3",
+            "meaning": "having a miter",
+            "wordclass": "adjective",
+            "Etymology": "Middle English",
+            "answer": "mitered"
+          },
+          {
+            "word": "mnemonics",
+            "audioSource": "spellit5/mnemonics.mp3",
+            "meaning": "a system of memory aids",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "mnemonics"
+          },
+          {
+            "word": "moat",
+            "audioSource": "spellit5/moat.mp3",
+            "meaning": "a deep, broad ditch surrounding a castle or other fortified place",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "moat"
+          },
+          {
+            "word": "moccasins",
+            "audioSource": "spellit5/moccasins.mp3",
+            "meaning": "a type of soft, leather shoe that is traditionally worn by Native Americans",
+            "wordclass": "noun",
+            "Etymology": "Algonquian",
+            "answer": "moccasins"
+          },
+          {
+            "word": "mockery",
+            "audioSource": "spellit5/mockery.mp3",
+            "meaning": "the act of making fun of someone or something",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "mockery"
+          },
+          {
+            "word": "mollify",
+            "audioSource": "spellit5/mollify.mp3",
+            "meaning": "to make someone less angry or hostile",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "mollify"
+          },
+          {
+            "word": "molts",
+            "audioSource": "spellit5/molts.mp3",
+            "meaning": "to shed hair, feathers, or skin",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "molts"
+          },
+          {
+            "word": "monastery",
+            "audioSource": "spellit5/monastery.mp3",
+            "meaning": "a building where monks or nuns live",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "monastery"
+          },
+          {
+            "word": "monetary",
+            "audioSource": "spellit5/monetary.mp3",
+            "meaning": "relating to money",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "monetary"
+          },
+          {
+            "word": "mongrel",
+            "audioSource": "spellit5/mongrel.mp3",
+            "meaning": "a dog of mixed breed",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "mongrel"
+          },
+          {
+            "word": "monitory",
+            "audioSource": "spellit5/monitory.mp3",
+            "meaning": "warning or cautionary",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "monitory"
+          },
+          {
+            "word": "monolith",
+            "audioSource": "spellit5/monolith.mp3",
+            "meaning": "a large, single block of stone",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "monolith"
+          },
+          {
+            "word": "monsieur",
+            "audioSource": "spellit5/monsieur.mp3",
+            "meaning": "a French word used to address or refer to a man",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "monsieur"
+          },
+          {
+            "word": "mordacious",
+            "audioSource": "spellit5/mordacious.mp3",
+            "meaning": "biting or sarcastic",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "mordacious"
+          },
+          {
+            "word": "mordant",
+            "audioSource": "spellit5/mordant.mp3",
+            "meaning": "extremely sharp or biting",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "mordant"
+          },
+          {
+            "word": "moribund",
+            "audioSource": "spellit5/moribund.mp3",
+            "meaning": "dying or in a state of decline",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "moribund"
+          },
+          {
+            "word": "morose",
+            "audioSource": "spellit5/morose.mp3",
+            "meaning": "gloomy or sullen",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "morose"
+          },
+          {
+            "word": "morosely",
+            "audioSource": "spellit5/morosely.mp3",
+            "meaning": "in a morose manner",
+            "wordclass": "adverb",
+            "Etymology": "Latin",
+            "answer": "morosely"
+          },
+          {
+            "word": "motley",
+            "audioSource": "spellit5/motley.mp3",
+            "meaning": "of various colors or kinds",
+            "wordclass": "adjective",
+            "Etymology": "French",
+            "answer": "motley"
+          },
+          {
+            "word": "mountaineer",
+            "audioSource": "spellit5/mountaineer.mp3",
+            "meaning": "a person who lives or climbs mountains",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "mountaineer"
+          },
+          {
+            "word": "mountainous",
+            "audioSource": "spellit5/mountainous.mp3",
+            "meaning": "having many mountains",
+            "wordclass": "adjective",
+            "Etymology": "Middle English",
+            "answer": "mountainous"
+          },
+          {
+            "word": "mulatto",
+            "audioSource": "spellit5/mulatto.mp3",
+            "meaning": "a person of mixed black and white ancestry",
+            "wordclass": "noun",
+            "Etymology": "Spanish",
+            "answer": "mulatto"
+          },
+          {
+            "word": "muleteer",
+            "audioSource": "spellit5/muleteer.mp3",
+            "meaning": "a person who drives or tends mules",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "muleteer"
+          },
+          {
+            "word": "munificence",
+            "audioSource": "spellit5/munificence.mp3",
+            "meaning": "the quality of being generous or open-handed",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "munificence"
+          },
+          {
+            "word": "naphtha",
+            "audioSource": "spellit5/naphtha.mp3",
+            "meaning": "a flammable liquid obtained from petroleum",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "naphtha"
+          },
+          {
+            "word": "narcissus",
+            "audioSource": "spellit5/narcissus.mp3",
+            "meaning": "a type of flower with a white or yellow trumpet-shaped bloom",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "narcissus"
+          },
+          {
+            "word": "nautical",
+            "audioSource": "spellit5/nautical.mp3",
+            "meaning": "relating to ships or sailing",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "nautical"
+          },
+          {
+            "word": "nautically",
+            "audioSource": "spellit5/nautically.mp3",
+            "meaning": "in a nautical way",
+            "wordclass": "adverb",
+            "Etymology": "Latin",
+            "answer": "nautically"
+          },
+          {
+            "word": "necrosis",
+            "audioSource": "spellit5/necrosis.mp3",
+            "meaning": "the death of tissue",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "necrosis"
+          },
+          {
+            "word": "nectarine",
+            "audioSource": "spellit5/nectarine.mp3",
+            "meaning": "a type of peach with a smooth, thin skin",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "nectarine"
+          },
+          {
+            "word": "nefarious",
+            "audioSource": "spellit5/nefarious.mp3",
+            "meaning": "wicked or villainous",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "nefarious"
+          },
+          {
+            "word": "nettle",
+            "audioSource": "spellit5/nettle.mp3",
+            "meaning": "a type of plant with stinging hairs",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "nettle"
+          },
+          {
+            "word": "neuter",
+            "audioSource": "spellit5/neuter.mp3",
+            "meaning": "neither male nor female",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "neuter"
+          },
+          {
+            "word": "niggardly",
+            "audioSource": "spellit5/niggardly.mp3",
+            "meaning": "stingy, miserly",
+            "wordclass": "adjective",
+            "Etymology": "Unknown",
+            "answer": "niggardly"
+          },
+          {
+            "word": "nil desperandum",
+            "audioSource": "spellit5/nil desperandum.mp3",
+            "meaning": "never despair",
+            "wordclass": "phrase",
+            "Etymology": "Latin",
+            "answer": "nil desperandum"
+          },
+          {
+            "word": "nil",
+            "audioSource": "spellit5/nil.mp3",
+            "meaning": "zero, nothing",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "nil"
+          },
+          {
+            "word": "nonpareil",
+            "audioSource": "spellit5/nonpareil.mp3",
+            "meaning": "unparalleled, having no equal",
+            "wordclass": "adjective",
+            "Etymology": "French",
+            "answer": "nonpareil"
+          },
+          {
+            "word": "normalcy",
+            "audioSource": "spellit5/normalcy.mp3",
+            "meaning": "the state of being normal",
+            "wordclass": "noun",
+            "Etymology": "American English",
+            "answer": "normalcy"
+          },
+          {
+            "word": "novellette",
+            "audioSource": "spellit5/novellette.mp3",
+            "meaning": "a short novel or novella",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "novellette"
+          },
+          {
+            "word": "noxious",
+            "audioSource": "spellit5/noxious.mp3",
+            "meaning": "harmful, poisonous",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "noxious"
+          },
+          {
+            "word": "nuisance",
+            "audioSource": "spellit5/nuisance.mp3",
+            "meaning": "an annoying or bothersome person or thing",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "nuisance"
+          },
+          {
+            "word": "nunnery",
+            "audioSource": "spellit5/nunnery.mp3",
+            "meaning": "a convent or a residence for nuns",
+            "wordclass": "noun",
+            "Etymology": "English",
+            "answer": "nunnery"
+          },
+          {
+            "word": "oaken",
+            "audioSource": "spellit5/oaken.mp3",
+            "meaning": "made of or resembling oak",
+            "wordclass": "adjective",
+            "Etymology": "English",
+            "answer": "oaken"
+          },
+          {
+            "word": "oakum",
+            "audioSource": "spellit5/oakum.mp3",
+            "meaning": "loose fibers obtained by unraveling old ropes",
+            "wordclass": "noun",
+            "Etymology": "Unknown",
+            "answer": "oakum"
+          },
+          {
+            "word": "obelisk",
+            "audioSource": "spellit5/obelisk.mp3",
+            "meaning": "a tall, four-sided stone pillar tapering towards a pyramid-shaped top",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "obelisk"
+          },
+          {
+            "word": "obese",
+            "audioSource": "spellit5/obese.mp3",
+            "meaning": "extremely overweight or fat",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "obese"
+          },
+          {
+            "word": "obsequies",
+            "audioSource": "spellit5/obsequies.mp3",
+            "meaning": "funeral rites or ceremonies",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "obsequies"
+          },
+          {
+            "word": "obsequious",
+            "audioSource": "spellit5/obsequious.mp3",
+            "meaning": "excessively obedient or attentive, often for self-serving purposes",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "obsequious"
+          },
+          {
+            "word": "obsequy",
+            "audioSource": "spellit5/obsequy.mp3",
+            "meaning": "a funeral or burial rite",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "obsequy"
+          },
+          {
+            "word": "obsolescence",
+            "audioSource": "spellit5/obsolescence.mp3",
+            "meaning": "the state of being outdated or no longer in use",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "obsolescence"
+            },
+            {
+            "word": "obstinacy",
+            "audioSource": "spellit5/obstinacy.mp3",
+            "meaning": "stubbornness; refusal to change one's opinion or course of action",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "obstinacy"
+            },
+            {
+            "word": "obstreperous",
+            "audioSource": "spellit5/obstreperous.mp3",
+            "meaning": "noisy and difficult to control; unruly",
+            "wordclass": "adjective",
+            "etymology": "",
+            "answer": "obstreperous"
+            },
+            {
+            "word": "occident",
+            "audioSource": "spellit5/occident.mp3",
+            "meaning": "the western part of the world, especially Europe and the Americas",
+            "wordclass": "noun",
+            "etymology": "",
+            "answer": "occident"
+            },
+            {
+            "word": "occlude",
+            "audioSource": "spellit5/occlude.mp3",
+            "meaning": "to block or obstruct",
+            "wordclass": "verb",
+            "etymology": "",
+            "answer": "occlude"
+            },
+            {
+                "word": "occludens",
+                "audioSource": "spellit5/occludens.mp3",
+                "meaning": "a muscle that closes or constricts a passage or orifice",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "occludens"
+                },
+                {
+                "word": "ocular",
+                "audioSource": "spellit5/ocular.mp3",
+                "meaning": "related to the eye or vision",
+                "wordclass": "adjective",
+                "etymology": "",
+                "answer": "ocular"
+                },
+                {
+                "word": "oculary",
+                "audioSource": "spellit5/oculary.mp3",
+                "meaning": "relating to the eye or vision",
+                "wordclass": "adjective",
+                "etymology": "",
+                "answer": "oculary"
+                },
+                {
+                "word": "oculist",
+                "audioSource": "spellit5/oculist.mp3",
+                "meaning": "an eye doctor or ophthalmologist",
+                "wordclass": "noun",
+                "etymology": "",
+                "answer": "oculist"
+                },
+                {
+                "word": "offhand",
+                "audioSource": "spellit5/offhand.mp3",
+                "meaning": "without previous thought or preparation; impromptu",
+                "wordclass": "adjective",
+                "etymology": "",
+                "answer": "offhand"
+                },
+                {
+                    "word": "officious",
+                    "audioSource": "spellit5/officious.mp3",
+                    "meaning": "excessively eager to offer unwanted help or advice",
+                    "wordclass": "adjective",
+                    "etymology": "",
+                    "answer": "officious"
+                    },
+                    {
+                    "word": "ominous",
+                    "audioSource": "spellit5/ominous.mp3",
+                    "meaning": "giving the impression that something bad or unpleasant is going to happen",
+                    "wordclass": "adjective",
+                    "etymology": "",
+                    "answer": "ominous"
+                    },
+                    {
+                    "word": "omnipotent",
+                    "audioSource": "spellit5/omnipotent.mp3",
+                    "meaning": "having unlimited power; able to do anything",
+                    "wordclass": "adjective",
+                    "etymology": "",
+                    "answer": "omnipotent"
+                    },
+                    {
+                    "word": "operetta",
+                    "audioSource": "spellit5/operetta.mp3",
+                    "meaning": "a short opera with light music and a frivolous or humorous theme",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "operetta"
+                    },
+                    {
+                    "word": "pageant",
+                    "audioSource": "spellit5/pageant.mp3",
+                    "meaning": "an elaborate public display, often with costumed performers or contestants",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "pageant"
+                    },
+                    {
+                    "word": "pageantry",
+                    "audioSource": "spellit5/pageantry.mp3",
+                    "meaning": "the use of elaborate display or ceremony",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "pageantry"
+                    },
+                    {
+                    "word": "paleontology",
+                    "audioSource": "spellit5/paleontology.mp3",
+                    "meaning": "the scientific study of prehistoric life through fossils",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "paleontology"
+                    },
+                    {
+                    "word": "palliate",
+                    "audioSource": "spellit5/palliate.mp3",
+                    "meaning": "to make less severe or unpleasant without removing the cause",
+                    "wordclass": "verb",
+                    "etymology": "",
+                    "answer": "palliate"
+                    },
+                    {
+                    "word": "palsy",
+                    "audioSource": "spellit5/palsy.mp3",
+                    "meaning": "a condition marked by uncontrollable tremors, weakness, or paralysis",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "palsy"
+                    },
+                    {
+                    "word": "palsywort",
+                    "audioSource": "spellit5/palsywort.mp3",
+                    "meaning": "a plant believed to have medicinal properties for treating palsy",
+                    "wordclass": "noun",
+                    "etymology": "",
+                    "answer": "palsywort"
+                    },
+                    {
+                        "word": "paly",
+                        "audioSource": "spellit5/paly.mp3",
+                        "meaning": "divided into equal vertical stripes of different colors",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "paly"
+                        },
+                        {
+                        "word": "palynological",
+                        "audioSource": "spellit5/palynological.mp3",
+                        "meaning": "relating to the study of pollen and spores",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "palynological"
+                        },
+                        {
+                        "word": "panoply",
+                        "audioSource": "spellit5/panoply.mp3",
+                        "meaning": "a complete or impressive collection of things",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "panoply"
+                        },
+                        {
+                        "word": "papcy",
+                        "audioSource": "spellit5/papcy.mp3",
+                        "meaning": "an invented or spurious papal decree",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "papcy"
+                        },
+                        {
+                        "word": "parley",
+                        "audioSource": "spellit5/parley.mp3",
+                        "meaning": "a conference or discussion, especially between enemies or opposing sides",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "parley"
+                        },
+                        {
+                        "word": "parleyed",
+                        "audioSource": "spellit5/parleyed.mp3",
+                        "meaning": "engaged in a conference or discussion",
+                        "wordclass": "verb",
+                        "etymology": "",
+                        "answer": "parleyed"
+                        },
+                        {
+                        "word": "partible",
+                        "audioSource": "spellit5/partible.mp3",
+                        "meaning": "capable of being divided or shared",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "partible"
+                        },
+                        {
+                        "word": "peccable",
+                        "audioSource": "spellit5/peccable.mp3",
+                        "meaning": "liable to sin; capable of making mistakes",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "peccable"
+                        },
+                        {
+                        "word": "peccadillo",
+                        "audioSource": "spellit5/peccadillo.mp3",
+                        "meaning": "a small, relatively unimportant offense or sin",
+                        "wordclass": "noun",
+                        "etymology": "",
+                        "answer": "peccadillo"
+                        },
+                        {
+                        "word": "peccant",
+                        "audioSource": "spellit5/peccant.mp3",
+                        "meaning": "having committed a sin; guilty of a moral offense",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "peccant"
+                        },
+                        {
+                        "word": "pecuniary",
+                        "audioSource": "spellit5/pecuniary.mp3",
+                        "meaning": "relating to money or financial matters",
+                        "wordclass": "adjective",
+                        "etymology": "",
+                        "answer": "pecuniary"
+                        },
+                        {
+                            "word": "pellucid",
+                            "audioSource": "spellit5/pellucid.mp3",
+                            "meaning": "transparently clear; easily understood",
+                            "wordclass": "adjective",
+                            "etymology": "",
+                            "answer": "pellucid"
+                            },
+                            {
+                            "word": "penetrable",
+                            "audioSource": "spellit5/penetrable.mp3",
+                            "meaning": "capable of being penetrated or pierced",
+                            "wordclass": "adjective",
+                            "etymology": "",
+                            "answer": "penetrable"
+                            },
+                            {
+                            "word": "pennate",
+                            "audioSource": "spellit5/pennate.mp3",
+                            "meaning": "having feather-like projections or structures arranged on opposite sides of a central axis",
+                            "wordclass": "adjective",
+                            "etymology": "",
+                            "answer": "pennate"
+                            }        
+          
+    ]
+}

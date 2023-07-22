@@ -1,0 +1,804 @@
+{
+    "words":[
+        {
+            "word": "aorta",
+            "audioSource": "spellit4/aorta.mp3",
+            "meaning": "the main artery that carries blood from the heart to the rest of the body",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "aorta"
+          },
+          {
+            "word": "innuendo",
+            "audioSource": "spellit4/innuendo.mp3",
+            "meaning": "an indirect or suggestive remark or hint, especially one that is intended to be understood as having a sexual connotation",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "innuendo"
+          },
+          {
+            "word": "insuppressible",
+            "audioSource": "spellit4/insuppressible.mp3",
+            "meaning": "unable to be suppressed or restrained",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "insuppressible"
+          },
+          {
+            "word": "interpol",
+            "audioSource": "spellit4/interpol.mp3",
+            "meaning": "an international organization that helps police forces around the world to cooperate in fighting crime",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "interpol"
+          },
+          {
+            "word": "intervale",
+            "audioSource": "spellit4/intervale.mp3",
+            "meaning": "a small intervening space or period of time",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "intervale"
+          },
+          {
+            "word": "inundate",
+            "audioSource": "spellit4/inundate.mp3",
+            "meaning": "to flood or overwhelm",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "inundate"
+          },
+          {
+            "word": "inveigh",
+            "audioSource": "spellit4/inveigh.mp3",
+            "meaning": "to speak or write in strong or bitter criticism",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "inveigh"
+          },
+          {
+            "word": "invincible",
+            "audioSource": "spellit4/invincible.mp3",
+            "meaning": "incapable of being defeated or overcome",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "invincible"
+          },
+          {
+            "word": "invulnerable",
+            "audioSource": "spellit4/invulnerable.mp3",
+            "meaning": "not able to be injured or harmed",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "invulnerable"
+          },
+          {
+            "word": "iota",
+            "audioSource": "spellit4/iota.mp3",
+            "meaning": "the smallest possible amount of something",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "iota"
+          },
+          {
+            "word": "irascible",
+            "audioSource": "spellit4/irascible.mp3",
+            "meaning": "easily angered or provoked",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "irascible"
+          },
+          {
+            "word": "ire",
+            "audioSource": "spellit4/ire.mp3",
+            "meaning": "anger or fury",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "ire"
+          },
+          {
+            "word": "irk",
+            "audioSource": "spellit4/irk.mp3",
+            "meaning": "to annoy or irritate",
+            "wordclass": "verb",
+            "Etymology": "Old Norse",
+            "answer": "irk"
+          },
+          {
+            "word": "irksome",
+            "audioSource": "spellit4/irksome.mp3",
+            "meaning": "annoying or irritating",
+            "wordclass": "adjective",
+            "Etymology": "from irk",
+            "answer": "irksome"
+          },
+          {
+            "word": "irradiance",
+            "audioSource": "spellit4/irradiance.mp3",
+            "meaning": "the emission of light",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "irradiance"
+          },
+          {
+            "word": "irreducible",
+            "audioSource": "spellit4/irreducible.mp3",
+            "meaning": "unable to be reduced or simplified",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "irreducible"
+          },
+          {
+            "word": "irrefutable",
+            "audioSource": "spellit4/irrefutable.mp3",
+            "meaning": "impossible to refute or disprove",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "irrefutable"
+          },
+          {
+            "word": "irrefrangible",
+            "audioSource": "spellit4/irrefrangible.mp3",
+            "meaning": "unable to be refracted",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "irrefrangible"
+          },
+          {
+            "word": "irreparable",
+            "audioSource": "spellit4/irreparable.mp3",
+            "meaning": "impossible to repair or make good",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "irreparable"
+          },
+          {
+            "word": "irresistible",
+            "audioSource": "spellit4/irresistible.mp3",
+            "meaning": "impossible to resist or overcome",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "irresistible"
+          },
+          {
+            "word": "isochronous",
+            "audioSource": "spellit4/isochronous.mp3",
+            "meaning": "having equal time intervals",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "isochronous"
+          },
+          {
+            "word": "itinerant",
+            "audioSource": "spellit4/itinerant.mp3",
+            "meaning": "travelling from place to place",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "itinerant"
+          },
+          {
+            "word": "itinerary",
+            "audioSource": "spellit4/itinerary.mp3",
+            "meaning": "a plan of a journey, giving the places to be visited and the times of arrival and departure",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "itinerary"
+          },
+          {
+            "word": "jaundice",
+            "audioSource": "spellit4/jaundice.mp3",
+            "meaning": "a yellowing of the skin and eyes caused by a build-up of bile in the blood",
+            "wordclass": "noun",
+            "Etymology": "Arabic",
+            "answer": "jaundice"
+          },
+          {
+            "word": "jillaroo",
+            "audioSource": "spellit4/jillaroo.mp3",
+            "meaning": "an Australian term for a young woman who works on a sheep or cattle station",
+            "wordclass": "noun",
+            "Etymology": "Australian Aboriginal",
+            "answer": "jillaroo"
+          },
+          {
+            "word": "jocose",
+            "audioSource": "spellit4/jocose.mp3",
+            "meaning": "playful and humorous",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "jocose"
+          },
+          {
+            "word": "jocosely",
+            "audioSource": "spellit4/jocosely.mp3",
+            "meaning": "in a playful and humorous way",
+            "wordclass": "adverb",
+            "Etymology": "from jocose",
+            "answer": "jocosely"
+          },
+          {
+            "word": "joust",
+            "audioSource": "spellit4/joust.mp3",
+            "meaning": "a mock fight between two knights on horseback with lances",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "joust"
+          },
+          {
+            "word": "jugglery",
+            "audioSource": "spellit4/jugglery.mp3",
+            "meaning": "the art of performing tricks with objects, especially balls or plates",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "jugglery"
+          },
+          {
+            "word": "jurisprudence",
+            "audioSource": "spellit4/jurisprudence.mp3",
+            "meaning": "the study of law",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "jurisprudence"
+          },
+          {
+            "word": "kangkung",
+            "audioSource": "spellit4/kangkung.mp3",
+            "meaning": "a type of water spinach that is popular in Asian cuisine",
+            "wordclass": "noun",
+            "Etymology": "Malay",
+            "answer": "kangkung"
+          },
+          {
+            "word": "kenogenesis",
+            "audioSource": "spellit4/kenogenesis.mp3",
+            "meaning": "the evolutionary development of new organs or structures",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "kenogenesis"
+          },
+          {
+            "word": "kiln",
+            "audioSource": "spellit4/kiln.mp3",
+            "meaning": "a furnace or oven used for baking, drying, or firing pottery, bricks, or other materials",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "kiln"
+          },
+          {
+            "word": "kilowatt",
+            "audioSource": "spellit4/kilowatt.mp3",
+            "meaning": "a unit of electrical power equal to 1,000 watts",
+            "wordclass": "noun",
+            "Etymology": "German",
+            "answer": "kilowatt"
+          },
+          {
+            "word": "kimono",
+            "audioSource": "spellit4/kimono.mp3",
+            "meaning": "a traditional Japanese garment that is a long, loose robe",
+            "wordclass": "noun",
+            "Etymology": "Japanese",
+            "answer": "kimono"
+          },
+          {
+            "word": "kinking",
+            "audioSource": "spellit4/kinking.mp3",
+            "meaning": "the act of forming kinks or bends",
+            "wordclass": "noun",
+            "Etymology": "from kink",
+            "answer": "kinking"
+          },
+          {
+            "word": "kinnikinick",
+            "audioSource": "spellit4/kinnikinick.mp3",
+            "meaning": "a mixture of tobacco and other herbs that is smoked by Native Americans",
+            "wordclass": "noun",
+            "Etymology": "Algonquian",
+            "answer": "kinnikinick"
+          },
+          {
+            "word": "knavery",
+            "audioSource": "spellit4/knavery.mp3",
+            "meaning": "mischief or trickery",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "knavery"
+          },
+          {
+            "word": "knead",
+            "audioSource": "spellit4/knead.mp3",
+            "meaning": "to work or manipulate dough or other soft material with the hands",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "knead"
+          },
+          {
+            "word": "knickknack",
+            "audioSource": "spellit4/knickknack.mp3",
+            "meaning": "a small, decorative object",
+            "wordclass": "noun",
+            "Etymology": "Dutch",
+            "answer": "knickknack"
+          },
+          {
+            "word": "knossian",
+            "audioSource": "spellit4/knossian.mp3",
+            "meaning": "of or relating to Knossos, a Minoan palace in Crete",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "knossian"
+          },
+          {
+            "word": "labyrinth",
+            "audioSource": "spellit4/labyrinth.mp3",
+            "meaning": "a complex, winding structure that is difficult to escape from",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "labyrinth"
+          },
+          {
+            "word": "lacerate",
+            "audioSource": "spellit4/lacerate.mp3",
+            "meaning": "to tear or rip something roughly",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "lacerate"
+          },
+          {
+            "word": "lacteal",
+            "audioSource": "spellit4/lacteal.mp3",
+            "meaning": "relating to or conveying milk",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "lacteal"
+          },
+          {
+            "word": "lark",
+            "audioSource": "spellit4/lark.mp3",
+            "meaning": "a small, songbird with a long, slender body and a melodious song",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "lark"
+          },
+          {
+            "word": "larkana",
+            "audioSource": "spellit4/larkana.mp3",
+            "meaning": "a city in Sindh, Pakistan",
+            "wordclass": "noun",
+            "Etymology": "Unknown",
+            "answer": "larkana"
+          },
+          {
+            "word": "lea",
+            "audioSource": "spellit4/lea.mp3",
+            "meaning": "a meadow or open grassland",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "lea"
+          },
+          {
+            "word": "leach",
+            "audioSource": "spellit4/leach.mp3",
+            "meaning": "to drain or draw out liquid or soluble matter",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "leach"
+          },
+          {
+            "word": "leech",
+            "audioSource": "spellit4/leech.mp3",
+            "meaning": "a bloodsucking worm",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "leech"
+          },
+          {
+            "word": "leeward",
+            "audioSource": "spellit4/leeward.mp3",
+            "meaning": "on the side sheltered from the wind",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "leeward"
+          },
+          {
+            "word": "legging",
+            "audioSource": "spellit4/legging.mp3",
+            "meaning": "a long, close-fitting garment that covers the legs from the waist to the ankles",
+            "wordclass": "noun",
+            "Etymology": "Dutch",
+            "answer": "legging"
+          },
+          {
+            "word": "lewd",
+            "audioSource": "spellit4/lewd.mp3",
+            "meaning": "sexually suggestive or obscene",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "lewd"
+          },
+          {
+            "word": "liege",
+            "audioSource": "spellit4/liege.mp3",
+            "meaning": "a lord or sovereign to whom allegiance is owed",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "liege"
+          },
+          {
+            "word": "lien",
+            "audioSource": "spellit4/lien.mp3",
+            "meaning": "a legal right to keep or sell someone's property until a debt is paid",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "lien"
+          },
+          {
+            "word": "lingua",
+            "audioSource": "spellit4/lingua.mp3",
+            "meaning": "the tongue",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "lingua"
+          },
+          {
+            "word": "liniment",
+            "audioSource": "spellit4/liniment.mp3",
+            "meaning": "a liquid preparation used to rub on the skin to relieve pain or inflammation",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "liniment"
+          },
+          {
+            "word": "liquefacient",
+            "audioSource": "spellit4/liquefacient.mp3",
+            "meaning": "a substance that causes something to liquefy",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "liquefacient"
+          },
+          {
+            "word": "liquefy",
+            "audioSource": "spellit4/liquefy.mp3",
+            "meaning": "to make or become liquid",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "liquefy"
+          },
+          {
+            "word": "lithe",
+            "audioSource": "spellit4/lithe.mp3",
+            "meaning": "supple and graceful",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "lithe"
+          },
+          {
+            "word": "loch linnhe",
+            "audioSource": "spellit4/loch linnhe.mp3",
+            "meaning": "a sea loch in the Scottish Highlands",
+            "wordclass": "noun",
+            "Etymology": "Scottish Gaelic",
+            "answer": "loch linnhe"
+          },
+          {
+            "word": "loch lomond",
+            "audioSource": "spellit4/loch lomond.mp3",
+            "meaning": "a large freshwater loch in the Scottish Highlands",
+            "wordclass": "noun",
+            "Etymology": "Scottish Gaelic",
+            "answer": "loch lomond"
+          },
+          {
+            "word": "lodgment",
+            "audioSource": "spellit4/lodgment.mp3",
+            "meaning": "a place where troops are stationed or where supplies are stored",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "lodgment"
+          },
+          {
+            "word": "lough",
+            "audioSource": "spellit4/lough.mp3",
+            "meaning": "a lake or inlet of the sea, especially in Ireland",
+            "wordclass": "noun",
+            "Etymology": "Irish",
+            "answer": "lough"
+          },
+          {
+            "word": "loughborough",
+            "audioSource": "spellit4/loughborough.mp3",
+            "meaning": "a town in Leicestershire, England",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "loughborough"
+          },
+          {
+            "word": "luminescence",
+            "audioSource": "spellit4/luminescence.mp3",
+            "meaning": "the emission of light by a substance without the application of heat",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "luminescence"
+          },
+          {
+            "word": "lunacy",
+            "audioSource": "spellit4/lunacy.mp3",
+            "meaning": "insanity or madness",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "lunacy"
+          },
+          {
+            "word": "lune",
+            "audioSource": "spellit4/lune.mp3",
+            "meaning": "the moon",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "lune"
+          },
+          {
+            "word": "luscious",
+            "audioSource": "spellit4/luscious.mp3",
+            "meaning": "extremely pleasing to the senses, especially the sight or taste",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "luscious"
+          },
+          {
+            "word": "luxuriate",
+            "audioSource": "spellit4/luxuriate.mp3",
+            "meaning": "to enjoy oneself in a comfortable or self-indulgent way",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "luxuriate"
+          },
+          {
+            "word": "lyre",
+            "audioSource": "spellit4/lyre.mp3",
+            "meaning": "a stringed instrument with a long, curved neck and a soundbox",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "lyre"
+          },
+          {
+            "word": "lyrebird",
+            "audioSource": "spellit4/lyrebird.mp3",
+            "meaning": "a songbird of Australia that is famous for its ability to mimic the calls of other birds",
+            "wordclass": "noun",
+            "Etymology": "Aboriginal Australian",
+            "answer": "lyrebird"
+          },
+          {
+            "word": "madden",
+            "audioSource": "spellit4/madden.mp3",
+            "meaning": "to make someone angry or furious",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "madden"
+          },
+          {
+            "word": "madonna",
+            "audioSource": "spellit4/madonna.mp3",
+            "meaning": "a woman who is revered or idealized",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "madonna"
+          },
+          {
+            "word": "malign",
+            "audioSource": "spellit4/malign.mp3",
+            "meaning": "to speak evil of someone or something",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "malign"
+          },
+          {
+            "word": "malignance",
+            "audioSource": "spellit4/malignance.mp3",
+            "meaning": "the state of being evil or harmful",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "malignance"
+          },
+          {
+            "word": "malignancy",
+            "audioSource": "spellit4/malignancy.mp3",
+            "meaning": "a cancerous or other malignant growth",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "malignancy"
+          },
+          {
+            "word": "malleable",
+            "audioSource": "spellit4/malleable.mp3",
+            "meaning": "able to be shaped or bent without breaking",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "malleable"
+          },
+          {
+            "word": "mane",
+            "audioSource": "spellit4/mane.mp3",
+            "meaning": "the long, thick hair on the neck and shoulders of an animal, especially a horse",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "mane"
+          },
+          {
+            "word": "maniac",
+            "audioSource": "spellit4/maniac.mp3",
+            "meaning": "a person who is mentally ill and behaves in a violent or dangerous way",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "maniac"
+          },
+          {
+            "word": "maniacally",
+            "audioSource": "spellit4/maniacally.mp3",
+            "meaning": "in a wild or frenzied way",
+            "wordclass": "adverb",
+            "Etymology": "Latin",
+            "answer": "maniacally"
+          },
+          {
+            "word": "martyrdom",
+            "audioSource": "spellit4/martyrdom.mp3",
+            "meaning": "the suffering and death of a person who is killed because of their religious or political beliefs",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "martyrdom"
+          },
+          {
+            "word": "masonry",
+            "audioSource": "spellit4/masonry.mp3",
+            "meaning": "the art or craft of building with stone",
+            "wordclass": "noun",
+            "Etymology": "Old French",
+            "answer": "masonry"
+          },
+          {
+            "word": "matrix",
+            "audioSource": "spellit4/matrix.mp3",
+            "meaning": "a framework or structure that provides the foundation for something else",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "matrix"
+          },
+          {
+            "word": "matrixectomy",
+            "audioSource": "spellit4/matrixectomy.mp3",
+            "meaning": "the surgical removal of a matrix",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "matrixectomy"
+          },
+          {
+            "word": "maudlin",
+            "audioSource": "spellit4/maudlin.mp3",
+            "meaning": "excessively or insincerely emotional",
+            "wordclass": "adjective",
+            "Etymology": "Middle English",
+            "answer": "maudlin"
+          },
+          {
+            "word": "mausoleum",
+            "audioSource": "spellit4/mausoleum.mp3",
+            "meaning": "a large, imposing tomb",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "mausoleum"
+          },
+          {
+            "word": "mawkish",
+            "audioSource": "spellit4/mawkish.mp3",
+            "meaning": "excessively sentimental or emotional",
+            "wordclass": "adjective",
+            "Etymology": "Dutch",
+            "answer": "mawkish"
+          },
+          {
+            "word": "mead",
+            "audioSource": "spellit4/mead.mp3",
+            "meaning": "an alcoholic drink made from fermented honey and water",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "mead"
+          },
+          {
+            "word": "meadowlarks",
+            "audioSource": "spellit4/meadowlarks.mp3",
+            "meaning": "a type of songbird that is found in North America",
+            "wordclass": "noun",
+            "Etymology": "Unknown",
+            "answer": "meadowlarks"
+          },
+          {
+            "word": "mealymouthed",
+            "audioSource": "spellit4/mealymouthed.mp3",
+            "meaning": "speaking in a way that is insincere or evasive",
+            "wordclass": "adjective",
+            "Etymology": "Middle English",
+            "answer": "mealymouthed"
+          },
+          {
+            "word": "medallion",
+            "audioSource": "spellit4/medallion.mp3",
+            "meaning": "a small, flat, round piece of metal, often with a design on it, that is worn as jewelry",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "medallion"
+          },
+          {
+            "word": "medley",
+            "audioSource": "spellit4/medley.mp3",
+            "meaning": "a piece of music that is made up of a variety of different pieces",
+            "wordclass": "noun",
+            "Etymology": "Middle English",
+            "answer": "medley"
+          },
+          {
+            "word": "meliorate",
+            "audioSource": "spellit4/meliorate.mp3",
+            "meaning": "to make or become better",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "meliorate"
+          },
+          {
+            "word": "mellifluous",
+            "audioSource": "spellit4/mellifluous.mp3",
+            "meaning": "having a sweet or smooth sound",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "mellifluous"
+          },
+          {
+            "word": "menagerie",
+            "audioSource": "spellit4/menagerie.mp3",
+            "meaning": "a collection of wild animals kept for exhibition",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "menagerie"
+          },
+          {
+            "word": "mendicant",
+            "audioSource": "spellit4/mendicant.mp3",
+            "meaning": "a person who begs for a living",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "mendicant"
+          },
+          {
+            "word": "mercenary",
+            "audioSource": "spellit4/mercenary.mp3",
+            "meaning": "a person who fights for money",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "mercenary"
+          },
+          {
+            "word": "meretricious",
+            "audioSource": "spellit4/meretricious.mp3",
+            "meaning": "attracting attention in a way that is intended to deceive",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "meretricious"
+          },
+          {
+            "word": "momento",
+            "audioSource": "spellit4/momento.mp3",
+            "meaning": "a small object that is kept as a reminder of something",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "momento"
+          },
+          {
+            "word": "momentous",
+            "audioSource": "spellit4/momentous.mp3",
+            "meaning": "of great importance or significance",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "momentous"
+          }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "words":[
+        {
+            "audioSource": "audio3/actinic.mp3",
+            "meaning": "relating to or resulting from radiation or light, especially ultraviolet radiation",
+            "wordclass": "adjective",
+            "Etymology": "Greek 'aktis' (ray of the sun)",
+            "answer": "actinic"
+            },
+            {
+                "audioSource": "audio3/actuary.mp3",
+                "meaning": "a person who calculates insurance and annuity premiums, risks, and dividends",
+                "wordclass": "noun",
+                "Etymology": "Latin 'actuarius' (copyist, registrar)",
+                "answer": "actuary"
+                },
+                
+                {
+                "audioSource": "audio3/aculeate.mp3",
+                "meaning": "having a sharp-pointed structure or stinger; sharp or pointed",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'aculeus' (sting)",
+                "answer": "aculeate"
+                },
+                
+                {
+                "audioSource": "audio3/aardwolf.mp3",
+                "meaning": "a nocturnal mammal native to Africa that feeds mainly on termites",
+                "wordclass": "noun",
+                "Etymology": "Afrikaans 'aardwolf' (earth-wolf)",
+                "answer": "aardwolf"
+                },
+                
+                {
+                "audioSource": "audio3/aardvark.mp3",
+                "meaning": "a large burrowing nocturnal mammal native to Africa, with long ears and a tubular snout used for feeding on ants and termites",
+                "wordclass": "noun",
+                "Etymology": "Afrikaans 'aardvark' (earth-pig)",
+                "answer": "aardvark"
+                },
+                
+                {
+                "audioSource": "audio3/abalone.mp3",
+                "meaning": "a large flat sea snail with a shell lined with mother-of-pearl",
+                "wordclass": "noun",
+                "Etymology": "Spanish 'abalón' (large mollusk)",
+                "answer": "abalone"
+                },
+                
+                {
+                "audioSource": "audio3/abecedaries.mp3",
+                "meaning": "a person who is learning the alphabet; a beginner in any field",
+                "wordclass": "noun",
+                "Etymology": "from the first four letters of the Latin alphabet, 'abecedarium'",
+                "answer": "abecedaries"
+                },
+                
+                {
+                "audioSource": "audio3/adminicle.mp3",
+                "meaning": "a thing that serves to support or reinforce something else",
+                "wordclass": "noun",
+                "Etymology": "Latin 'adminiculum' (supporting structure)",
+                "answer": "adminicle"
+                },
+                
+                {
+                "audioSource": "audio3/acuminate.mp3",
+                "meaning": "having a sharp point; tapering",
+                "wordclass": "adjective",
+                "Etymology": "Latin 'acuminare' (sharpen to a point)",
+                "answer": "acuminate"
+                },
+                
+                {
+                "audioSource": "audio3/altazimuth.mp3",
+                "meaning": "a telescope mounting that moves vertically and horizontally, allowing for the tracking of celestial objects as they appear to move across the sky",
+                "wordclass": "noun",
+                "Etymology": "Latin 'altus' (high) + 'zimuth' (one of the coordinates of a point on the celestial sphere)",
+                "answer": "altazimuth"
+                },
+                {
+                    "audioSource": "audio3/bagatelle.mp3",
+                    "meaning": "a trifle; a thing of little value or importance; a game played on a board",
+                    "wordclass": "noun",
+                    "Etymology": "French 'bagatelle' (trifle, toy)",
+                    "answer": "bagatelle"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/bailiwick.mp3",
+                    "meaning": "one's area of expertise, authority or work; the district under the jurisdiction of a bailiff",
+                    "wordclass": "noun",
+                    "Etymology": "Middle English 'bailiwick' (office or jurisdiction of a bailiff)",
+                    "answer": "bailiwick"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/balbriggan.mp3",
+                    "meaning": "a soft, knitted fabric made from cotton and wool",
+                    "wordclass": "noun",
+                    "Etymology": "Named after the town of Balbriggan, Ireland where it was originally manufactured",
+                    "answer": "balbriggan"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/bandalore.mp3",
+                    "meaning": "a toy consisting of a small ball attached to a string or cord, which is swung in circular motions",
+                    "wordclass": "noun",
+                    "Etymology": "Unknown",
+                    "answer": "bandalore"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/appoggiatura.mp3",
+                    "meaning": "a musical ornament, consisting of a non-chord note that is resolved into a chord note",
+                    "wordclass": "noun",
+                    "Etymology": "Italian 'appoggiare' (to lean upon, to support)",
+                    "answer": "appoggiatura"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/barbican.mp3",
+                    "meaning": "a fortified gatehouse, situated at the entrance of a castle or walled city, usually with defensive structures",
+                    "wordclass": "noun",
+                    "Etymology": "Old French 'barbacane' (outer fortification of a castle)",
+                    "answer": "barbican"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/bardiglio.mp3",
+                    "meaning": "a type of dark grey or bluish-grey marble, often with white veins",
+                    "wordclass": "noun",
+                    "Etymology": "Italian 'bardiglio' (marble with white streaks)",
+                    "answer": "bardiglio"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/barnacle.mp3",
+                    "meaning": "a marine crustacean with a shell that attaches itself to rocks and ships",
+                    "wordclass": "noun",
+                    "Etymology": "Middle English 'bernacle' (type of shellfish)",
+                    "answer": "barnacle"
+                    },
+                    
+                    {
+                    "audioSource": "audio3/barnstorm.mp3",
+                    "meaning": "to tour rural districts giving theatrical performances, especially by using barns or other temporary structures as venues; to travel and speak publicly in a campaign, especially for political purposes",
+                    "wordclass": "verb",
+                    "Etymology": "From the literal meaning 'to fly a plane low over buildings, fields, etc.'",
+                    "answer": "barnstorm"
+                    },
+                    {
+                        "audioSource": "audio3/barognosis.mp3",
+                        "meaning": "the ability to determine weight or pressure by touch",
+                        "wordclass": "noun",
+                        "Etymology": "Greek 'baros' (weight) + 'gnosis' (knowledge)",
+                        "answer": "barognosis"
+                        },
+                        {
+                            "audioSource": "audio3/baronet.mp3",
+                            "meaning": "a member of the lowest rank of the British nobility",
+                            "wordclass": "noun",
+                            "Etymology": "Anglo-French 'baronnet' (little baron), from 'baron' (baron)",
+                            "answer": "baronet"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/baronial.mp3",
+                            "meaning": "relating to a baron or barons; grand or impressive in appearance",
+                            "wordclass": "adjective",
+                            "Etymology": "Middle English 'baronial', from 'baron' (baron)",
+                            "answer": "baronial"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/bellipotent.mp3",
+                            "meaning": "mighty in war",
+                            "wordclass": "adjective",
+                            "Etymology": "Latin 'bellipotens', from 'bellum' (war) + 'potens' (powerful)",
+                            "answer": "bellipotent"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/bellwether.mp3",
+                            "meaning": "a male sheep that leads the flock to the slaughterhouse; a leader of a group or movement",
+                            "wordclass": "noun",
+                            "Etymology": "Middle English 'bellewether', from 'belle' (bell) + 'wether' (ram)",
+                            "answer": "bellwether"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/benignant.mp3",
+                            "meaning": "kindly and benevolent",
+                            "wordclass": "adjective",
+                            "Etymology": "Latin 'benignus' (kind, gracious)",
+                            "answer": "benignant"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/bereavement.mp3",
+                            "meaning": "the state of having suffered the loss of a loved one",
+                            "wordclass": "noun",
+                            "Etymology": "Middle English 'bireven', from 'be-' (completely) + 'reven' (to rob)",
+                            "answer": "bereavement"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/calefacient.mp3",
+                            "meaning": "a substance that produces heat; causing heat",
+                            "wordclass": "noun/adjective",
+                            "Etymology": "Latin 'calefaciens', present participle of 'calefacere' (to make warm), from 'calere' (to be warm) + 'facere' (to make)",
+                            "answer": "calefacient"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/calico.mp3",
+                            "meaning": "a plain-woven cotton cloth; printed with small patterns",
+                            "wordclass": "noun",
+                            "Etymology": "from Calicut, a port on the west coast of India",
+                            "answer": "calico"
+                            },
+                            
+                            {
+                            "audioSource": "audio3/caliginous.mp3",
+                            "meaning": "misty, dim, or obscure",
+                            "wordclass": "adjective",
+                            "Etymology": "Latin 'caliginosus', from 'caligo'",
+                            "answer": "caliginous"
+
+                            },
+                            {
+                                "audioSource": "audio3/baronetcy.mp3",
+                                "meaning": "the rank or status of a baronet",
+                                "wordclass": "noun",
+                                "Etymology": "From baronet + -cy, by analogy with other English nouns formed with this suffix.",
+                                "answer": "baronetcy"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/baronetage.mp3",
+                                "meaning": "the collective body of baronets",
+                                "wordclass": "noun",
+                                "Etymology": "From baronet + -age, by analogy with other English nouns formed with this suffix.",
+                                "answer": "baronetage"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/callisthenics.mp3",
+                                "meaning": "physical exercises for developing strength, flexibility, and coordination",
+                                "wordclass": "noun",
+                                "Etymology": "From Greek 'kallos' (beauty) + 'sthenos' (strength)",
+                                "answer": "callisthenics"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/butte.mp3",
+                                "meaning": "an isolated hill with steep sides and a flat top, similar to but narrower than a mesa",
+                                "wordclass": "noun",
+                                "Etymology": "French 'butte' (mound, knoll)",
+                                "answer": "butte"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/bougainvillea.mp3",
+                                "meaning": "a tropical woody vine with large showy flowers",
+                                "wordclass": "noun",
+                                "Etymology": "Named after Louis Antoine de Bougainville, French navigator and explorer",
+                                "answer": "bougainvillea"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/bourgeois.mp3",
+                                "meaning": "of or characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes",
+                                "wordclass": "adjective",
+                                "Etymology": "French 'bourgeois' (middle-class)",
+                                "answer": "bourgeois"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/beerenauslese.mp3",
+                                "meaning": "a German wine made from grapes that have been left on the vine to become overripe, affected by noble rot",
+                                "wordclass": "noun",
+                                "Etymology": "German 'beerenauslese' (berry selection)",
+                                "answer": "beerenauslese"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/bivouac.mp3",
+                                "meaning": "a temporary camp without tents or cover, used especially by soldiers or mountaineers",
+                                "wordclass": "noun",
+                                "Etymology": "French 'bivouac' (a night watch)",
+                                "answer": "bivouac"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/blackguard.mp3",
+                                "meaning": "a person, particularly a man, who behaves in a dishonorable or contemptible way",
+                                "wordclass": "noun",
+                                "Etymology": "From 'black' + 'guard', possibly related to a reference to a group of disreputable characters called the Black Guard who served King Charles II",
+                                "answer": "blackguard"
+                                },
+                                
+                                {
+                                "audioSource": "audio3/blackmaria.mp3",
+                                "meaning": "a police van used for transporting prisoners",
+                                "wordclass": "noun",
+                                "Etymology": "Origin uncertain; possibly from Romani 'marime' (unclean) or from the name of a notorious woman criminal",
+                                "answer": "blackmaria"
+                                },
+                                {
+                                    "audioSource": "audio3/butte des morts.mp3",
+                                    "meaning": "a hill or small mountain with steep sides and a flat top, especially in the western US",
+                                    "wordclass": "noun",
+                                    "Etymology": "French 'butte des morts' (hill of the dead)",
+                                    "answer": "butte des morts"
+                                    },
+                                    {
+                                        "audioSource": "audio3/blackamoor.mp3",
+                                        "meaning": "a highly offensive term used to describe a black person, especially one with dark skin and African features",
+                                        "wordclass": "noun",
+                                        "Etymology": "Middle English 'blakamoor' (black Moor)",
+                                        "answer": "blackamoor"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/bandicoot.mp3",
+                                        "meaning": "a small to medium-sized marsupial native to Australia and nearby islands, typically with a pointed snout, long tail, and grayish-brown fur",
+                                        "wordclass": "noun",
+                                        "Etymology": "Telugu 'pandikokku' (pig-rat)",
+                                        "answer": "bandicoot"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/calliope.mp3",
+                                        "meaning": "a keyboard instrument with a series of whistles sounded by steam or compressed air, used chiefly on showboats and in traveling fairs",
+                                        "wordclass": "noun",
+                                        "Etymology": "Greek 'kalliope' (beautiful voice)",
+                                        "answer": "calliope"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/caloric.mp3",
+                                        "meaning": "relating to heat or energy",
+                                        "wordclass": "adjective",
+                                        "Etymology": "Latin 'calor' (heat)",
+                                        "answer": "caloric"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/calumet.mp3",
+                                        "meaning": "a long-stemmed pipe used for smoking tobacco, especially in Native American cultures",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'calumet' (pipe)",
+                                        "answer": "calumet"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/calumny.mp3",
+                                        "meaning": "the making of false and defamatory statements about someone in order to damage their reputation",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'calumnia' (false accusation)",
+                                        "answer": "calumny"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/catarrh.mp3",
+                                        "meaning": "inflammation of a mucous membrane, especially in the nose and throat, typically resulting in mucus secretion and congestion",
+                                        "wordclass": "noun",
+                                        "Etymology": "Greek 'katarrhein' (to flow down)",
+                                        "answer": "catarrh"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/cauliflower.mp3",
+                                        "meaning": "a vegetable of the cabbage family, with a large edible head of crowded white or yellowish flower buds",
+                                        "wordclass": "noun",
+                                        "Etymology": "Latin 'caulis' (stem) + 'florus' (flowering)",
+                                        "answer": "cauliflower"
+                                        },
+                                        
+                                        {
+                                        "audioSource": "audio3/causerie.mp3",
+                                        "meaning": "a light informal conversation for social occasions",
+                                        "wordclass": "noun",
+                                        "Etymology": "French 'causerie'",
+                                        "answer": "causerie"
+                                        },
+                                        {
+                                            "audioSource": "audio3/boudin.mp3",
+                                            "meaning": "a type of sausage that is made with pork, pork liver, and rice",
+                                            "wordclass": "noun",
+                                            "Etymology": "French, from Old French boudin 'sausage'",
+                                            "answer": "boudin"
+                                            }
+                                        
+
+                            
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "words":[
+        {
+            "audioSource": "spellit/abbess.mp3",
+            "meaning": "the female head of a convent",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "abbess"
+          },
+          {
+            "audioSource": "spellit/abbey.mp3",
+            "meaning": "a monastery for women",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "abbey"
+          },
+          {
+            "audioSource": "spellit/abbot.mp3",
+            "meaning": "the male head of a monastery",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "abbot"
+          },
+          {
+            "audioSource": "spellit/abhorrent.mp3",
+            "meaning": "extremely unpleasant or objectionable",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "abhorrent"
+          },
+          {
+            "audioSource": "spellit/aborigines.mp3",
+            "meaning": "the original inhabitants of a place",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "aborigines"
+          },
+          {
+            "audioSource": "spellit/abscission.mp3",
+            "meaning": "the separation of a part from a plant",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "abscission"
+          },
+          {
+            "audioSource": "spellit/accouter.mp3",
+            "meaning": "to provide with equipment or clothing",
+            "wordclass": "verb",
+            "Etymology": "French",
+            "answer": "accouter"
+          },
+          {
+            "audioSource": "spellit/acerbity.mp3",
+            "meaning": "sharpness or harshness of taste or feeling",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "acerbity"
+          },
+          {
+            "audioSource": "spellit/achillean.mp3",
+            "meaning": "resembling or characteristic of Achilles, a hero in Greek mythology",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "achillean"
+          },
+          {
+            "audioSource": "spellit/adulterant.mp3",
+            "meaning": "a substance added to another to make it appear better or more valuable",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "adulterant"
+          },
+          {
+            "audioSource": "spellit/adumbrate.mp3",
+            "meaning": "to indicate or foreshadow something vaguely or indistinctly",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "adumbrate"
+          },
+          {
+            "audioSource": "spellit/aeronautics.mp3",
+            "meaning": "the science or practice of operating aircraft",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "aeronautics"
+          },
+          {
+            "audioSource": "spellit/agglomerate.mp3",
+            "meaning": "to gather or collect into a mass",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "agglomerate"
+          },
+          {
+            "audioSource": "spellit/aghast.mp3",
+            "meaning": "filled with extreme fear or horror",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "aghast"
+          },
+          {
+            "audioSource": "spellit/aide-de-camp.mp3",
+            "meaning": "an officer who acts as an assistant to a senior officer",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "aide-de-camp"
+          },
+          {
+            "audioSource": "spellit/airy.mp3",
+            "meaning": "light and delicate",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "airy"
+          },
+          {
+            "audioSource": "spellit/albino.mp3",
+            "meaning": "an animal or plant that lacks normal pigmentation",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "albino"
+          },
+          {
+            "audioSource": "spellit/alkali.mp3",
+            "meaning": "a substance that reacts with acids to form salts",
+            "wordclass": "noun",
+            "Etymology": "Arabic",
+            "answer": "alkali"
+          },
+          {
+            "audioSource": "spellit/allay.mp3",
+            "meaning": "to make something less severe or intense",
+            "wordclass": "verb",
+            "Etymology": "Old French",
+            "answer": "allay"
+          },
+          {
+            "audioSource": "spellit/alley.mp3",
+            "meaning": "a narrow street or passage between buildings",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "alley"
+          },
+          {
+            "audioSource": "spellit/alleyne.mp3",
+            "meaning": "a boy's or man's given name",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "alleyne"
+          },
+          {
+            "audioSource": "spellit/alliance.mp3",
+            "meaning": "a union or association between people or groups",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "alliance"
+          },
+          {
+            "audioSource": "spellit/alluvion.mp3",
+            "meaning": "the deposit of sediment by running water",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "alluvion"
+          },
+          {
+            "audioSource": "spellit/almanac.mp3",
+            "meaning": "a yearly publication containing astronomical information, weather forecasts, and other useful data",
+            "wordclass": "noun",
+            "Etymology": "Arabic",
+            "answer": "almanac"
+          },
+          {
+            "audioSource": "spellit/ambrosial.mp3",
+            "meaning": "delicious or fragrant",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "ambrosial"
+          },
+          {
+            "audioSource": "spellit/amenable.mp3",
+            "meaning": "willing to obey or comply",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "amenable"
+          },
+          {
+            "audioSource": "spellit/amity.mp3",
+            "meaning": "friendly relations",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "amity"
+          },
+          {
+            "audioSource": "spellit/ampere.mp3",
+            "meaning": "the unit of electric current",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "ampere"
+          },
+          {
+            "audioSource": "spellit/anathema.mp3",
+            "meaning": "a curse or formal excommunication",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "anathema"
+          },
+          {
+            "audioSource": "spellit/anemia.mp3",
+            "meaning": "a condition in which the body does not have enough red blood cells",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "anemia"
+          },
+          {
+            "audioSource": "spellit/animalcule.mp3",
+            "meaning": "a very small organism",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "animalcule"
+          },
+          {
+            "audioSource": "spellit/anode.mp3",
+            "meaning": "the positively charged electrode in an electrochemical cell",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "anode"
+          },
+          {
+            "audioSource": "spellit/anoderm.mp3",
+            "meaning": "the outermost layer of the skin",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "anoderm"
+          },
+          {
+            "audioSource": "spellit/antecedent.mp3",
+            "meaning": "something that precedes or comes before",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "antecedent"
+          },
+          {
+            "audioSource": "spellit/antechamber.mp3",
+            "meaning": "a small room that leads to a larger room",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "antechamber"
+          },
+          {
+            "audioSource": "spellit/antedate.mp3",
+            "meaning": "to date something earlier than it actually happened",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "antedate"
+          },
+          {
+            "audioSource": "spellit/antemeridian.mp3",
+            "meaning": "before noon",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "antemeridian"
+          },
+          {
+            "audioSource": "spellit/anteroom.mp3",
+            "meaning": "a small room that leads to a larger room",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "anteroom"
+          },
+          {
+            "audioSource": "spellit/anthropomorphic.mp3",
+            "meaning": "resembling or attributing human characteristics to non-human things",
+            "wordclass": "adjective",
+            "Etymology": "Greek",
+            "answer": "anthropomorphic"
+          },
+          {
+            "audioSource": "spellit/antilogy.mp3",
+            "meaning": "a statement that seems to contradict itself",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "antilogy"
+          },
+          {
+            "audioSource": "spellit/antipodes.mp3",
+            "meaning": "the opposite point on the globe",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "antipodes"
+          },
+          {
+            "audioSource": "spellit/antiquary.mp3",
+            "meaning": "a person who collects or studies antiques",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "antiquary"
+          },
+          {
+            "audioSource": "spellit/antiquate.mp3",
+            "meaning": "to make old-fashioned or obsolete",
+            "wordclass": "verb",
+            "Etymology": "Latin",
+            "answer": "antiquate"
+          },
+          {
+            "audioSource": "spellit/antique.mp3",
+            "meaning": "old and valuable",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "antique"
+          },
+          {
+            "audioSource": "spellit/aperture.mp3",
+            "meaning": "an opening or hole",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "aperture"
+          },
+          {
+            "audioSource": "spellit/apogee.mp3",
+            "meaning": "the point in the orbit of a celestial body that is farthest from the Earth",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "apogee"
+          },
+          {
+            "audioSource": "spellit/apostasy.mp3",
+            "meaning": "the abandonment of one's religious faith",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "apostasy"
+          },
+          {
+            "audioSource": "spellit/apothecary.mp3",
+            "meaning": "a person who prepares and sells medicines",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "apothecary"
+          },
+          {
+            "audioSource": "spellit/apotheosis.mp3",
+            "meaning": "the highest point of achievement",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "apotheosis"
+          },
+          {
+            "audioSource": "spellit/appellate.mp3",
+            "meaning": "relating to an appeal",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "appellate"
+          },
+          {
+            "audioSource": "spellit/appellation controlee.mp3",
+            "meaning": "a designation on the label of certain French wines, brandies, etc. guaranteeing that the product meets certain standards",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "appellation controlee"
+          },
+          {
+            "audioSource": "spellit/appellation.mp3",
+            "meaning": "a name given to a particular type of wine, cheese, or other product",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "appellation"
+          },
+          {
+            "audioSource": "spellit/arboreal.mp3",
+            "meaning": "of or relating to trees",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "arboreal"
+          },
+          {
+            "audioSource": "spellit/archipelago.mp3",
+            "meaning": "a group of islands",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "archipelago"
+          },
+          {
+            "audioSource": "spellit/armada.mp3",
+            "meaning": "a large fleet of warships",
+            "wordclass": "noun",
+            "Etymology": "Spanish",
+            "answer": "armada"
+          },
+          {
+            "audioSource": "spellit/arraign.mp3",
+            "meaning": "to charge someone with a crime in a court of law",
+            "wordclass": "verb",
+            "Etymology": "Old French",
+            "answer": "arraign"
+          },
+          {
+            "audioSource": "spellit/arrear.mp3",
+            "meaning": "an amount of money that is owed and not yet paid",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "arrear"
+          },
+          {
+            "audioSource": "spellit/artesian.mp3",
+            "meaning": "of or relating to water that rises to the surface under its own pressure",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "artesian"
+          },
+          {
+            "audioSource": "spellit/artifice.mp3",
+            "meaning": "skill or cunning in the use of means to achieve an end",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "artifice"
+          },
+          {
+            "audioSource": "spellit/ascetic.mp3",
+            "meaning": "a person who practices severe self-discipline and abstention from worldly pleasures",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "ascetic"
+          },
+          {
+            "audioSource": "spellit/ashen.mp3",
+            "meaning": "having a grayish or pale color",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "ashen"
+          },
+          {
+            "audioSource": "spellit/askance.mp3",
+            "meaning": "with a sidelong or suspicious look",
+            "wordclass": "adverb",
+            "Etymology": "Middle English",
+            "answer": "askance"
+          },
+          {
+            "audioSource": "spellit/assay.mp3",
+            "meaning": "to test the quality or value of something",
+            "wordclass": "verb",
+            "Etymology": "French",
+            "answer": "assay"
+          },
+          {
+            "audioSource": "spellit/assignee.mp3",
+            "meaning": "a person to whom something is assigned",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "assignee"
+          },
+          {
+            "audioSource": "spellit/athwart.mp3",
+            "meaning": "across or crosswise",
+            "wordclass": "adverb",
+            "Etymology": "Old English",
+            "answer": "athwart"
+          },
+          {
+            "audioSource": "spellit/attache.mp3",
+            "meaning": "a diplomatic official of the rank of minister or counselor",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "attache"
+          },
+          {
+            "audioSource": "spellit/auburn.mp3",
+            "meaning": "a reddish-brown color",
+            "wordclass": "adjective",
+            "Etymology": "Old French",
+            "answer": "auburn"
+          },
+          {
+            "audioSource": "spellit/augury.mp3",
+            "meaning": "a prediction or foretelling of the future",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "augury"
+          },
+          {
+            "audioSource": "spellit/auricle.mp3",
+            "meaning": "the external part of the ear",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "auricle"
+          },
+          {
+            "audioSource": "spellit/auriferous.mp3",
+            "meaning": "containing or yielding gold",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "auriferous"
+          },
+          {
+            "audioSource": "spellit/aurora borealis.mp3",
+            "meaning": "a natural light display in the sky, predominantly seen in high-latitude regions (around the Arctic and Antarctic), caused by the collision of charged particles from the sun with the Earth's atmosphere",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "aurora borealis"
+          },
+          {
+            "audioSource": "spellit/aurora.mp3",
+            "meaning": "the dawn",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "aurora"
+          },
+          {
+            "audioSource": "spellit/auspice.mp3",
+            "meaning": "a favorable sign or omen",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "auspice"
+          },
+          {
+            "audioSource": "spellit/autarchy.mp3",
+            "meaning": "a system of government in which one person or group holds absolute power",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "autarchy"
+          },
+          {
+            "audioSource": "spellit/autumnal.mp3",
+            "meaning": "of or relating to autumn",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "autumnal"
+          },
+          {
+            "audioSource": "spellit/aviary.mp3",
+            "meaning": "a large enclosure for birds",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "aviary"
+          },
+          {
+            "audioSource": "spellit/awry.mp3",
+            "meaning": "not in the correct or desired position or condition",
+            "wordclass": "adjective",
+            "Etymology": "Old English",
+            "answer": "awry"
+          },
+          {
+            "audioSource": "spellit/aye.mp3",
+            "meaning": "yes",
+            "wordclass": "adverb",
+            "Etymology": "Old English",
+            "answer": "aye"
+          },
+          {
+            "audioSource": "spellit/azalea.mp3",
+            "meaning": "a shrub or small tree with showy flowers",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "azalea"
+          },
+          {
+            "audioSource": "spellit/baize.mp3",
+            "meaning": "a coarse, heavy, felt-like cloth used for table coverings and billiard tables",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "baize"
+          },
+          {
+            "audioSource": "spellit/balsam.mp3",
+            "meaning": "a fragrant, resinous substance obtained from certain trees",
+            "wordclass": "noun",
+            "Etymology": "Greek",
+            "answer": "balsam"
+          },
+          {
+            "audioSource": "spellit/baste.mp3",
+            "meaning": "to moisten or season meat with a liquid while cooking",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "baste"
+          },
+          {
+            "audioSource": "spellit/batten.mp3",
+            "meaning": "to strengthen or reinforce something",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "batten"
+          },
+          {
+            "audioSource": "spellit/batter.mp3",
+            "meaning": "to hit or strike repeatedly",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "batter"
+          },
+          {
+            "audioSource": "spellit/bauble.mp3",
+            "meaning": "a showy but worthless object",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "bauble"
+          },
+          {
+            "audioSource": "spellit/bawl.mp3",
+            "meaning": "to cry loudly",
+            "wordclass": "verb",
+            "Etymology": "Old English",
+            "answer": "bawl"
+          },
+          {
+            "audioSource": "spellit/bedlam.mp3",
+            "meaning": "a scene of noisy confusion",
+            "wordclass": "noun",
+            "Etymology": "Hebrew",
+            "answer": "bedlam"
+          },
+          {
+            "audioSource": "spellit/belle.mp3",
+            "meaning": "a beautiful woman",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "belle"
+          },
+          {
+            "audioSource": "spellit/benefice.mp3",
+            "meaning": "a payment made to a priest or minister for their services",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "benefice"
+          },
+          {
+            "audioSource": "spellit/benign.mp3",
+            "meaning": "kind and gentle",
+            "wordclass": "adjective",
+            "Etymology": "Latin",
+            "answer": "benign"
+          },
+          {
+            "audioSource": "spellit/benignancy.mp3",
+            "meaning": "kindness or gentleness",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "benignancy"
+          },
+          {
+            "audioSource": "spellit/benison.mp3",
+            "meaning": "a blessing",
+            "wordclass": "noun",
+            "Etymology": "Latin",
+            "answer": "benison"
+          },
+          {
+            "audioSource": "spellit/bevel.mp3",
+            "meaning": "a sloping edge",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "bevel"
+          },
+          {
+            "audioSource": "spellit/bier.mp3",
+            "meaning": "a frame or platform on which a corpse is laid for burial",
+            "wordclass": "noun",
+            "Etymology": "Germanic",
+            "answer": "bier"
+          },
+          {
+            "audioSource": "spellit/bierbalk.mp3",
+            "meaning": "a beam that supports a bier",
+            "wordclass": "noun",
+            "Etymology": "Germanic",
+            "answer": "bierbalk"
+          },
+          {
+            "audioSource": "spellit/bight.mp3",
+            "meaning": "a bend or curve in a rope or stream",
+            "wordclass": "noun",
+            "Etymology": "Old English",
+            "answer": "bight"
+          },
+          {
+            "audioSource": "spellit/bodice.mp3",
+            "meaning": "the upper part of a woman's dress",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "bodice"
+          },
+          {
+            "audioSource": "spellit/bric-a-brac.mp3",
+            "meaning": "a collection of small, decorative objects",
+            "wordclass": "noun",
+            "Etymology": "French",
+            "answer": "bric-a-brac"
+          },
+          {
+            "audioSource": "spellit/brigand.mp3",
+            "meaning": "a robber or outlaw",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "brigand"
+          },
+          {
+            "audioSource": "spellit/brigandine.mp3",
+            "meaning": "a type of armor consisting of a coat of quilted fabric covered with metal plates",
+            "wordclass": "noun",
+            "Etymology": "Italian",
+            "answer": "brigandine"
+          }
+    ]
+}

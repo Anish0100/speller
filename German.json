@@ -1,0 +1,723 @@
+{
+    "words":[
+        {
+            "audioSource": "German/angst.mp3",
+            "meaning": "a feeling of deep anxiety or dread, often without a specific cause",
+            "wordclass": "noun",
+            "Etymology": "German 'Angst' (fear)",
+            "answer": "angst"
+            },
+            
+            {
+            "audioSource": "German/sitzmark.mp3",
+            "meaning": "a depression left in the snow by a skier falling backward",
+            "wordclass": "noun",
+            "Etymology": "German 'Sitzmark' (seat mark)",
+            "answer": "sitzmark"
+            },
+            
+            {
+            "audioSource": "German/homburg.mp3",
+            "meaning": "a man's felt hat with a stiff brim and a dent in the crown",
+            "wordclass": "noun",
+            "Etymology": "Named after Homburg, Germany",
+            "answer": "homburg"
+            },
+            
+            {
+            "audioSource": "German/pretzel.mp3",
+            "meaning": "a crisp, glazed, and salted biscuit, often in the shape of a knot or stick",
+            "wordclass": "noun",
+            "Etymology": "German 'Brezel' (pretzel)",
+            "answer": "pretzel"
+            },
+            
+            {
+            "audioSource": "German/langlauf.mp3",
+            "meaning": "the sport of cross-country skiing",
+            "wordclass": "noun",
+            "Etymology": "German 'Langlauf' (long run)",
+            "answer": "langlauf"
+            },
+            
+            {
+            "audioSource": "German/spareribs.mp3",
+            "meaning": "ribs of pork, beef, or other meat, grilled or roasted with a spicy sauce",
+            "wordclass": "noun",
+            "Etymology": "German 'Spareribs' (spareribs)",
+            "answer": "spareribs"
+            },
+            
+            {
+            "audioSource": "German/kuchen.mp3",
+            "meaning": "a type of cake or pastry, typically with a fruit filling",
+            "wordclass": "noun",
+            "Etymology": "German 'Kuchen' (cake)",
+            "answer": "kuchen"
+            },
+            
+            {
+            "audioSource": "German/waltz.mp3",
+            "meaning": "a ballroom dance in triple time performed by couples",
+            "wordclass": "noun",
+            "Etymology": "German 'Walzer' (waltz)",
+            "answer": "waltz"
+            },
+            
+            {
+            "audioSource": "German/autobahn.mp3",
+            "meaning": "a German high-speed expressway, typically with no blanket speed limit",
+            "wordclass": "noun",
+            "Etymology": "German 'Autobahn' (motorway)",
+            "answer": "autobahn"
+            },
+            
+            {
+            "audioSource": "German/meistersinger.mp3",
+            "meaning": "a member of a German guild or school of poets and musicians who performed and competed in singing",
+            "wordclass": "noun",
+            "Etymology": "German 'Meistersinger' (master singer)",
+            "answer": "meistersinger"
+            },
+            {
+                "audioSource": "German/pitchblende.mp3",
+                "meaning": "a brown to black mineral that is the chief ore of uranium and radium",
+                "wordclass": "noun",
+                "Etymology": "German 'Pechblende' (pitch-blende), from Middle High German 'pech' (pitch) + 'blenden' (to deceive, blind)",
+                "answer": "pitchblende"
+                },
+                
+                {
+                "audioSource": "German/haversack.mp3",
+                "meaning": "a bag carried over the shoulder by a strap and used for carrying provisions",
+                "wordclass": "noun",
+                "Etymology": "German 'Hafersack' (oat-sack), from 'Hafer' (oat) + 'Sack' (sack)",
+                "answer": "haversack"
+                },
+                
+                {
+                "audioSource": "German/backstein.mp3",
+                "meaning": "a hard-baked brick used for building",
+                "wordclass": "noun",
+                "Etymology": "German 'Backstein' (baked brick), from 'backen' (to bake) + 'Stein' (stone)",
+                "answer": "backstein"
+                },
+                
+                {
+                "audioSource": "German/pumpernickel.mp3",
+                "meaning": "a dark, sour bread made of coarse rye flour",
+                "wordclass": "noun",
+                "Etymology": "German 'Pumpernickel', from 'pumpern' (to break wind) + 'Nickel' (a devil or goblin in German folklore)",
+                "answer": "pumpernickel"
+                },
+                
+                {
+                "audioSource": "German/spritz.mp3",
+                "meaning": "a drink made of wine and soda water",
+                "wordclass": "noun",
+                "Etymology": "German 'Spritzer' (a splash), from 'spritz' (to spray)",
+                "answer": "spritz"
+                },
+                
+                {
+                "audioSource": "German/nosh.mp3",
+                "meaning": "food",
+                "wordclass": "noun",
+                "Etymology": "Yiddish 'nashn' (to nibble), from Middle High German 'naschen' (to snack)",
+                "answer": "nosh"
+                },
+                
+                {
+                "audioSource": "German/inselberg.mp3",
+                "meaning": "a steep-sided hill that rises abruptly from a plain",
+                "wordclass": "noun",
+                "Etymology": "German 'Inselberg' (island mountain), from 'Insel' (island) + 'Berg' (mountain)",
+                "answer": "inselberg"
+                },
+                
+                {
+                "audioSource": "German/bildungsroman.mp3",
+                "meaning": "a novel dealing with one person's formative years or spiritual education",
+                "wordclass": "noun",
+                "Etymology": "German 'Bildungsroman' (novel of formation), from 'Bildung' (education) + 'Roman' (novel)",
+                "answer": "bildungsroman"
+                },
+                
+                {
+                "audioSource": "German/sauerbraten.mp3",
+                "meaning": "a German dish consisting of marinated beef that is browned and then braised with vegetables and spices",
+                "wordclass": "noun",
+                "Etymology": "German 'Sauerbraten' (sour roast), from 'sauer' (sour) + 'braten' (roast)",
+                "answer": "sauerbraten"
+                },
+                {
+                    "audioSource": "German/gestalt.mp3",
+                    "meaning": "an organized whole that is perceived as more than the sum of its parts",
+                    "wordclass": "noun",
+                    "Etymology": "German 'Gestalt' (shape, form)",
+                    "answer": "gestalt"
+                    },
+                    {
+                        "audioSource": "German/strudel.mp3",
+                        "meaning": "a pastry made with a flaky dough rolled up around a filling, typically of sweetened fruit or cheese",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Strudel' (whirlpool, eddy)",
+                        "answer": "strudel"
+                        },
+                        
+                        {
+                        "audioSource": "German/zwinger.mp3",
+                        "meaning": "a fortress, typically one enclosing a castle, or a place where dogs are kept",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Zwinger' (enclosure, kennel)",
+                        "answer": "zwinger"
+                        },
+                        
+                        {
+                        "audioSource": "German/hinterland.mp3",
+                        "meaning": "the remote or less developed parts of a country; backcountry",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Hinterland' (land behind)",
+                        "answer": "hinterland"
+                        },
+                        
+                        {
+                        "audioSource": "German/einkorn.mp3",
+                        "meaning": "an ancient form of wheat with one grain per spikelet",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Einkorn' (single grain)",
+                        "answer": "einkorn"
+                        },
+                        
+                        {
+                        "audioSource": "German/verboten.mp3",
+                        "meaning": "forbidden, prohibited",
+                        "wordclass": "adjective",
+                        "Etymology": "German 'verboten' (forbidden)",
+                        "answer": "verboten"
+                        },
+                        
+                        {
+                        "audioSource": "German/kitsch.mp3",
+                        "meaning": "art, objects, or design considered to be in poor taste because of excessive garishness or sentimentality, but appreciated in an ironic or knowing way",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Kitsch' (trash)",
+                        "answer": "kitsch"
+                        },
+                        
+                        {
+                        "audioSource": "German/realschule.mp3",
+                        "meaning": "a type of secondary school in Germany with a practical curriculum that prepares students for vocational or technical careers",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Realschule' (real school)",
+                        "answer": "realschule"
+                        },
+                        
+                        {
+                        "audioSource": "German/liverwurst.mp3",
+                        "meaning": "a type of sausage made from a mixture of pork liver and other meats, usually served cold",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Leberwurst' (liver sausage)",
+                        "answer": "liverwurst"
+                        },
+                        
+                        {
+                        "audioSource": "German/gestapo.mp3",
+                        "meaning": "the secret police force of Nazi Germany, known for its brutal methods",
+                        "wordclass": "noun",
+                        "Etymology": "German abbreviation for 'Geheime Staatspolizei' (Secret State Police)",
+                        "answer": "gestapo"
+                        },
+                        
+                        {
+                        "audioSource": "German/cobalt.mp3",
+                        "meaning": "a hard, silver-white metal used to make magnetic alloys and pigments",
+                        "wordclass": "noun",
+                        "Etymology": "German 'Kobalt' (cobalt)",
+                        "answer": "cobalt"
+                        },
+                        {
+                            "audioSource": "German/panzer.mp3",
+                            "meaning": "a type of armored vehicle or tank",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Panzer' (armor)",
+                            "answer": "panzer"
+                            },
+                            
+                            {
+                            "audioSource": "German/streusel.mp3",
+                            "meaning": "a crumbly topping made of flour, butter, and sugar, used on cakes and pastries",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Streusel' (crumb)",
+                            "answer": "streusel"
+                            },
+                            
+                            {
+                            "audioSource": "German/schloss.mp3",
+                            "meaning": "a large country house or castle in German-speaking countries",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Schloss' (castle)",
+                            "answer": "schloss"
+                            },
+                            
+                            {
+                            "audioSource": "German/nachtmusik.mp3",
+                            "meaning": "music to be performed at night, especially a serenade",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Nachtmusik' (night music)",
+                            "answer": "nachtmusik"
+                            },
+                            
+                            {
+                            "audioSource": "German/stollen.mp3",
+                            "meaning": "a type of sweet, fruit-filled bread made in Germany and Austria, usually eaten during the Christmas season",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Stollen' (post)",
+                            "answer": "stollen"
+                            },
+                            
+                            {
+                            "audioSource": "German/umlaut.mp3",
+                            "meaning": "a change in the sound of a vowel, often marked by two dots (¨) placed over the vowel, used in German to indicate a different vowel sound",
+                            "wordclass": "noun",
+                            "Etymology": "German 'umlaut' (sound-change)",
+                            "answer": "umlaut"
+                            },
+                            
+                            {
+                            "audioSource": "German/rucksack.mp3",
+                            "meaning": "a type of backpack used for hiking or travel, typically with two straps that go over the shoulders",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Rucksack' (backpack)",
+                            "answer": "rucksack"
+                            },
+                            
+                            {
+                            "audioSource": "German/vorlage.mp3",
+                            "meaning": "a pattern or template used as a guide, especially in design or construction",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Vorlage' (template)",
+                            "answer": "vorlage"
+                            },
+                            
+                            {
+                            "audioSource": "German/dachshund.mp3",
+                            "meaning": "a small breed of dog with a long body, short legs, and long ears, often used for hunting small animals",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Dachs' (badger) + 'Hund' (dog)",
+                            "answer": "dachshund"
+                            },
+                            
+                            {
+                            "audioSource": "German/wanderlust.mp3",
+                            "meaning": "a strong desire or impulse to travel and explore the world",
+                            "wordclass": "noun",
+                            "Etymology": "German 'Wanderlust' (desire to wander)",
+                            "answer": "wanderlust"
+                            },
+                            {
+                                "audioSource": "German/echt.mp3",
+                                "meaning": "genuine, real",
+                                "wordclass": "adjective",
+                                "Etymology": "Middle High German 'ëht', Old High German 'ëht', related to Old English 'ēaht' (possession, property)",
+                                "answer": "echt"
+                                },
+                                {
+                                    "audioSource": "German/graupel.mp3",
+                                    "meaning": "soft hail or snow pellets",
+                                    "wordclass": "noun",
+                                    "Etymology": "German 'graupel', from Middle Low German 'gröpel' (coarse grain)",
+                                    "answer": "graupel"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "German/seltzer.mp3",
+                                    "meaning": "carbonated water",
+                                    "wordclass": "noun",
+                                    "Etymology": "Named after the town of Nieder-Selters in Germany, where the water was originally bottled",
+                                    "answer": "seltzer"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "German/eiderdown.mp3",
+                                    "meaning": "soft feathers from the female eider duck",
+                                    "wordclass": "noun",
+                                    "Etymology": "Old Norse 'æðardūnn' (eiderdown), from 'æðar' (eider duck) + 'dūnn' (down)",
+                                    "answer": "eiderdown"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "German/bratwurst.mp3",
+                                    "meaning": "a type of sausage made of pork and/or beef",
+                                    "wordclass": "noun",
+                                    "Etymology": "Middle High German 'brātwurst', from 'brāt' (meat without waste) + 'wurst' (sausage)",
+                                    "answer": "bratwurst"
+                                    },
+                                    
+                               
+                                    {
+                                    "audioSource": "German/wagnerian.mp3",
+                                    "meaning": "relating to the music, style, or themes of the composer Richard Wagner",
+                                    "wordclass": "adjective",
+                                    "Etymology": "Named after Richard Wagner, German composer of operas",
+                                    "answer": "Wagnerian"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "German/schnauzer.mp3",
+                                    "meaning": "a breed of dog with a thick, wiry coat and a long muzzle",
+                                    "wordclass": "noun",
+                                    "Etymology": "German 'Schnauzer', from Middle High German 'snūzer' (snout)",
+                                    "answer": "schnauzer"
+                                    },
+                                    
+                                    {
+                                    "audioSource": "German/knapsack.mp3",
+                                    "meaning": "a bag with shoulder straps that allow it to be carried on the back",
+                                    "wordclass": "noun",
+                                    "Etymology": "Middle Low German 'knappsack', from 'knappen' (to bite, snap) + 'sack' (bag)",
+                                    "answer": "knapsack"
+                                    },
+                                    {
+                                        "audioSource": "German/lederhosen.mp3",
+                                        "meaning": "a type of leather trousers traditionally worn in German-speaking countries",
+                                        "wordclass": "noun",
+                                        "Etymology": "German 'lederhosen' (leather trousers)",
+                                        "answer": "lederhosen"
+                                        },
+                                        {
+                                            "audioSource": "German/feldspar.mp3",
+                                            "meaning": "any of a group of crystalline minerals that consist of aluminum silicates with potassium, sodium, or calcium and that are an essential constituent of many rocks",
+                                            "wordclass": "noun",
+                                            "Etymology": "from German 'Feldspat' (field spar)",
+                                            "answer": "feldspar"
+                                            },
+                                            {
+                                                "audioSource": "German/fife.mp3",
+                                                "meaning": "a small, high-pitched flute used in military and marching bands",
+                                                "wordclass": "noun",
+                                                "Etymology": "from German 'Pfeife' (pipe, whistle)",
+                                                "answer": "fife"
+                                                },
+                                                {
+                                                    "audioSource": "German/kohlrabi.mp3",
+                                                    "meaning": "a cabbage-like vegetable with a turnip-shaped stem",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'Kohl' (cabbage) + 'Rübe' (turnip)",
+                                                    "answer": "kohlrabi"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/poltergeist.mp3",
+                                                    "meaning": "a ghost or spirit that makes loud noises and causes objects to move",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'Poltern' (to make noise) + 'Geist' (ghost, spirit)",
+                                                    "answer": "poltergeist"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/glitz.mp3",
+                                                    "meaning": "flashy, showy, and often superficial attractiveness or glamour",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'glitzern' (to glitter)",
+                                                    "answer": "glitz"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/schadenfreude.mp3",
+                                                    "meaning": "pleasure derived from the misfortunes of others",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'Schaden' (harm) + 'Freude' (joy)",
+                                                    "answer": "schadenfreude"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/pfeffernuss.mp3",
+                                                    "meaning": "a small, spicy cookie often eaten during Christmas time",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'Pfeffer' (pepper) + 'Nuss' (nut)",
+                                                    "answer": "pfeffernuss"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/springerie.mp3",
+                                                    "meaning": "a type of lightweight, sheer fabric used for lingerie and other delicate garments",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'Sprin' (to sparkle) + 'Gerie' (fabric)",
+                                                    "answer": "springerie"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/dreidel.mp3",
+                                                    "meaning": "a small spinning top used in a game played during Hanukkah",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'drehen' (to turn, rotate)",
+                                                    "answer": "dreidel"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/edelweiss.mp3",
+                                                    "meaning": "a small, white, Alpine flower that is a symbol of Switzerland",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'edel' (noble) + 'weiß' (white)",
+                                                    "answer": "edelweiss"
+                                                    },
+                                                    
+                                                    {
+                                                    "audioSource": "German/zeitgeber.mp3",
+                                                    "meaning": "a biological or environmental cue that helps regulate the body's internal clock",
+                                                    "wordclass": "noun",
+                                                    "Etymology": "from German 'Zeit' (time) + 'Geber' (giver)",
+                                                    "answer": "zeitgeber"
+                                                    },
+                                                    {
+                                                        "audioSource": "German/zugzwang.mp3",
+                                                        "meaning": "a situation in chess where a player is forced to make a disadvantageous move",
+                                                        "wordclass": "noun",
+                                                        "Etymology": "German 'Zugzwang' (compulsion to move)",
+                                                        "answer": "zugzwang"
+                                                        },
+                                                        {
+                                                            "audioSource": "German/weltanshauung.mp3",
+                                                            "meaning": "a comprehensive worldview or personal philosophy",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "German 'Weltanschauung' (worldview)",
+                                                            "answer": "weltanshauung"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/weimaraner.mp3",
+                                                            "meaning": "a large breed of dog originally used for hunting",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "Named after the city of Weimar in Germany",
+                                                            "answer": "weimaraner"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/glockenspiel.mp3",
+                                                            "meaning": "a percussion instrument consisting of a set of tuned metal bars struck with hammers",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "German 'Glocke' (bell) + 'Spiel' (play)",
+                                                            "answer": "glockenspiel"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/pickelhaube.mp3",
+                                                            "meaning": "a spiked helmet worn by German soldiers in the 19th and early 20th centuries",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "German 'Pickel' (spike) + 'Haube' (cap)",
+                                                            "answer": "pickelhaube"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/ersatz.mp3",
+                                                            "meaning": "a substitute or imitation, often of inferior quality",
+                                                            "wordclass": "noun/adjective",
+                                                            "Etymology": "German 'Ersatz' (replacement)",
+                                                            "answer": "ersatz"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/rottweiler.mp3",
+                                                            "meaning": "a large breed of dog originally used for herding and guarding",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "Named after the town of Rottweil in Germany",
+                                                            "answer": "rottweiler"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/schnecke.mp3",
+                                                            "meaning": "a type of pastry resembling a snail shell, typically filled with sweet or savory ingredients",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "German 'Schnecke' (snail)",
+                                                            "answer": "schnecke"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/fraulein.mp3",
+                                                            "meaning": "a young unmarried woman, especially in German-speaking countries",
+                                                            "wordclass": "noun",
+                                                            "Etymology": "German 'Fräulein' (young lady)",
+                                                            "answer": "fraulein"
+                                                            },
+                                                            
+                                                            {
+                                                            "audioSource": "German/schottische.mp3",
+                                                            "meaning": "a type of dance originally from Scotland, often performed to traditional music",
+                                                            "wordclass": "noun/adjective",
+                                                            "Etymology": "German 'Schottisch' (Scottish)",
+                                                            "answer": "schottische"
+                                                            },
+                                                            {
+                                                                "audioSource": "German/boysenberry.mp3",
+                                                                "meaning": "a cross between a raspberry, a blackberry, and a loganberry",
+                                                                "wordclass": "noun",
+                                                                "Etymology": "Named after horticulturist Rudolph Boysen",
+                                                                "answer": "boysenberry"
+                                                                },
+                                                                {
+                                                                    "audioSource": "German/wunderkind.mp3",
+                                                                    "meaning": "a child prodigy",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'wunder' (miracle) + 'kind' (child)",
+                                                                    "answer": "wunderkind"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/weissnichtwo.mp3",
+                                                                    "meaning": "an indefinite or unknown place; a place that is impossible to find",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'weiß nicht wo' (don't know where)",
+                                                                    "answer": "weissnichtwo"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/blitzkrieg.mp3",
+                                                                    "meaning": "an intense military campaign intended to bring about a swift victory",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'blitz' (lightning) + 'krieg' (war)",
+                                                                    "answer": "blitzkrieg"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/anschluss.mp3",
+                                                                    "meaning": "a political union, especially the annexation of Austria by Germany in 1938",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'Anschluss' (connection, union)",
+                                                                    "answer": "anschluss"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/gesundheit.mp3",
+                                                                    "meaning": "an exclamation wishing good health to someone who has just sneezed",
+                                                                    "wordclass": "interjection",
+                                                                    "Etymology": "German 'Gesundheit' (health)",
+                                                                    "answer": "gesundheit"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/wedel.mp3",
+                                                                    "meaning": "to wag, flutter or wave",
+                                                                    "wordclass": "verb",
+                                                                    "Etymology": "German 'wedeln' (to wag)",
+                                                                    "answer": "wedel"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/ohrwurm.mp3",
+                                                                    "meaning": "a catchy tune that gets stuck in one's head",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'Ohr' (ear) + 'Wurm' (worm)",
+                                                                    "answer": "ohrwurm"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/weichei.mp3",
+                                                                    "meaning": "a weak or timid person",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'weich' (soft) + 'Ei' (egg)",
+                                                                    "answer": "weichei"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "audioSource": "German/backpfeifengesicht.mp3",
+                                                                    "meaning": "a face in need of a slap",
+                                                                    "wordclass": "noun",
+                                                                    "Etymology": "German 'Backpfeife' (slap in the face) + 'Gesicht' (face)",
+                                                                    "answer": "backpfeifengesicht"
+                                                                    },
+                                                                    {
+                                                                        "audioSource": "German/erklarungsnot.mp3",
+                                                                        "meaning": "the state of being at a loss for words or unable to explain oneself",
+                                                                        "wordclass": "noun",
+                                                                        "Etymology": "German 'Erklärung' (explanation) + 'Not' (emergency, distress)",
+                                                                        "answer": "erklarungsnot"
+                                                                        },
+                                                                        {
+                                                                            "audioSource": "German/purzelbaum.mp3",
+                                                                            "meaning": "a somersault, particularly the kind performed by children",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Purzel' (tumble, roll) + 'Baum' (tree)",
+                                                                            "answer": "purzelbaum"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/zungenbrecher.mp3",
+                                                                            "meaning": "a tongue-twister",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Zunge' (tongue) + 'brechen' (to break)",
+                                                                            "answer": "zungenbrecher"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/schattenparker.mp3",
+                                                                            "meaning": "someone who parks in the shade to keep their car cool",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Schatten' (shade) + 'Parker' (parking)",
+                                                                            "answer": "schattenparker"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/kuddelmuddel.mp3",
+                                                                            "meaning": "a mess, muddle, or chaotic situation",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "Unknown, possibly onomatopoeic",
+                                                                            "answer": "kuddelmuddel"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/Luftschloss.mp3",
+                                                                            "meaning": "a daydream or pipe dream; a castle in the sky",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Luft' (air) + 'Schloss' (castle)",
+                                                                            "answer": "Luftschloss"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/Kopfkino.mp3",
+                                                                            "meaning": "a mental movie or vivid imagination",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Kopf' (head) + 'Kino' (cinema)",
+                                                                            "answer": "Kopfkino"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/biergarten.mp3",
+                                                                            "meaning": "an outdoor restaurant or bar where beer and other drinks are served, often with a garden setting",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Bier' (beer) + 'Garten' (garden)",
+                                                                            "answer": "biergarten"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/wiener.mp3",
+                                                                            "meaning": "a type of sausage also known as a Vienna sausage",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "German 'Wiener' (Viennese)",
+                                                                            "answer": "wiener"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                            "audioSource": "German/frankfurter.mp3",
+                                                                            "meaning": "a type of sausage also known as a hot dog or wiener",
+                                                                            "wordclass": "noun",
+                                                                            "Etymology": "Named after Frankfurt, Germany",
+                                                                            "answer": "frankfurter"
+                                                                            },
+                                                                            
+                                                                            {
+                                                                                "audioSource": "German/bundt cake.mp3",
+                                                                                "meaning": "a type of cake baked in a bundt pan, typically with a hole in the center",
+                                                                                "wordclass": "noun",
+                                                                                "Etymology": "From German 'Bundkuchen' ('ring cake')",
+                                                                                "answer": "bundt cake"
+                                                                                }
+                                                                            
+                                                                    
+                                                            
+                                                    
+                                    
+                                   
+                                    
+    ]
+}
