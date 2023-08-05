@@ -177,8 +177,8 @@ nextBtn.addEventListener('click', handleNextBtnClick);
       } else {
         clearInterval(countdownTimer);
         answer.textContent = words[currentQuestion].word;
-        answerBox.disabled = true;
-        nextBtn.style.display = 'block';
+        answerBox.disabled = false;
+        nextBtn.style.display = 'none';
         setTimeout(() => {
           if (currentQuestion === words.length - 1) {
             showResult();

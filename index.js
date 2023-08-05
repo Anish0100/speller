@@ -63,7 +63,7 @@ async function startQuiz() {
       words = shuffleArray(data.words);
 
       // Limit the number of words to 10
-      words = words.slice(0, 10);
+      words = words.slice(0, 1);
 
       // Show the first question
       showQuestion();
@@ -177,8 +177,8 @@ nextBtn.addEventListener('click', handleNextBtnClick);
       } else {
         clearInterval(countdownTimer);
         answer.textContent = words[currentQuestion].word;
-        answerBox.disabled = true;
-        nextBtn.style.display = 'block';
+        answerBox.disabled = false;
+        nextBtn.style.display = 'none';
         setTimeout(() => {
           if (currentQuestion === words.length - 1) {
             showResult();
