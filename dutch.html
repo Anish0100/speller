@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spelling Quiz</title>
+    <title>Spelling Trainer</title>
+    <link rel="icon" type="image/png" href="bee.png">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q" crossorigin="anonymous">
@@ -13,8 +14,8 @@
   <body>
     <nav id="navbar">
       <div class="nav-wrapper">
-      <div title="bar1" class="menu-bars" id="show-menu">
-          <i class="fas fa-bars"></i>
+      <div title="click" class="menu-bars" id="show-menu">
+          <i class="fas fa-bars" id="nav-menu-bar1"></i>
       </div>
       <div class="spelling-wrapper">
       <div id="title"><h1 class="animate__animated animate__flash animate__delay-2s">DUTCH</h1>
@@ -25,16 +26,15 @@
      
 
       <nav id="nav-menu">
-        <ul class="nav-menu-items">
-            <div id="navbar-toggle">
-              <div title="collapse menu" class="menu-bars" id="hide-menu">
-                <i class="fas fa-bars" id="nav-menu-bar"></i>
-              </div>
+        <div id="navbar-toggle">
+          <div title="collapse menu" class="menu-bars" id="hide-menu">
+            <i class="fas fa-bars" id="nav-menu-bar"></i>
+          </div>
               <span>
                 <!-- <h2>Dictogram</h2> -->
               </span>
             </div>                  
-            <div class="nav-section">
+            <ul class="nav-menu-items">
               <li class="nav-text"><a href="index.html"><i class="fas fa-paper-plane nav-icon"></i>Home</a></li>
               <li class="nav-text"><a href="beginner.html"><i class="fas fa-paper-plane nav-icon"></i>Beginner</a></li>
                 <li class="nav-text"><a href="intermediate.html"><i class="fas fa-paper-plane nav-icon"></i>Intermediate</a></li>
@@ -46,11 +46,10 @@
                 <li class="nav-text"><a href="dutch.html"><i class="fas fa-paper-plane nav-icon"></i>Dutch</a></li>
                 <li class="nav-text"><a href="slavic.html"><i class="fas fa-paper-plane nav-icon"></i>Slavic</a></li>
                 <li class="nav-text"><a href="oldenglish.html"><i class="fas fa-paper-plane nav-icon"></i>Old English</a></li>
-                <li class="nav-text"><a href="italian.html"><i class="fas fa-paper-plane nav-icon"></i>Italian</a></li>
+                <li class="nav-text"><a href="italian.js"><i class="fas fa-paper-plane nav-icon"></i>Italian</a></li>
                 <li class="nav-text"><a href="french.html"><i class="fas fa-paper-plane nav-icon"></i>French</a></li>
-                <li class="nav-text"><a href="german.html"><i class="fas fa-paper-plane nav-icon"></i>Greek</a></li>
+                <li class="nav-text"><a href="greek.html"><i class="fas fa-paper-plane nav-icon"></i>Greek</a></li>
                 <li class="nav-text"><a href="arabic.html"><i class="fas fa-paper-plane nav-icon"></i>Arabic</a></li>
-            </div>
         </ul>
     </nav>
     <div class="start-quiz-wrapper">
@@ -83,9 +82,10 @@
 </div>
 </div>
 <!-- QUIZ BOX -->
-<div id="quiz-box-wrapper">
+<div class="parent-container">
+<div class="quiz-box-wrapper">
     <div id="quiz-box">
-      <div id="audio-box" class="audiobox">
+      <div id="audio-box">
         <audio id="dutch" controls></audio>
       </div>
       <div id="answer-box" >
@@ -100,13 +100,13 @@
     </div>
     </div>
   </div>
-
+</div>
   <!-- RESULT BOX -->
     <div id="result-box" class="hidden">
       <canvas id="canvas"></canvas>
       <div class="score-wrapper">
-      <span id="score"></span> 
-    </div>
+      <span id="score">0000</span> 
+  </div>
       <img id="first" src="awards/first2.png">
       <img id="second" src="awards/first1.png">
       <img id="third" src="awards/third.png">

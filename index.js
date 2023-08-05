@@ -63,7 +63,7 @@ async function startQuiz() {
       words = shuffleArray(data.words);
 
       // Limit the number of words to 10
-      words = words.slice(0, 1);
+      words = words.slice(0, 10);
 
       // Show the first question
       showQuestion();

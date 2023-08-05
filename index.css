@@ -283,6 +283,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0;
 
 }
 .starter-wrapper{
@@ -493,7 +494,7 @@ img{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
   0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 95%;
-  height: 70%;
+  height: 65%;
   text-align: center;
   z-index: 4;
   padding: 10%;
@@ -697,7 +698,7 @@ img{
   justify-content: center;
   align-items: center;
   position: absolute;
-  height: 100vh;
+  height: 90vh;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) translateY(-50%);
@@ -753,6 +754,8 @@ img{
   margin-top: -14%;
   margin-left: 25%;
   width: 50%;
+  height: 150px;
+  overflow: hidden;
 }
 #wordMeaning{
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
